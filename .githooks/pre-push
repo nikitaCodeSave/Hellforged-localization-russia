@@ -1,21 +1,28 @@
 #!/bin/sh
 # Pre-push hook: run the localization integrity check before allowing a push.
 # Enabled via:  git config core.hooksPath .githooks
-# Picks python3 or python, whichever is available.
+# Picks a python interpreter that ACTUALLY runs code (skips the Windows Store
+# 'python3' stub, which prints "Python" and exits without executing anything).
 
 DIR="$(git rev-parse --show-toplevel)"
-PY="$(command -v python3 || command -v python)"
+
+PY=""
+for cand in python python3 py; do
+  if [ "$(command -v "$cand" >/dev/null 2>&1 && "$cand" -c 'print(42)' 2>/dev/null)" = "42" ]; then
+    PY="$cand"
+    break
+  fi
+done
 
 if [ -z "$PY" ]; then
-  echo "pre-push: python not found — skipping verification (install Python to enable)." >&2
+  echo "pre-push: no working python found — skipping verification (install Python to enable)." >&2
   exit 0
 fi
 
-echo "pre-push: verifying localization kit..."
+echo "pre-push: verifying localization kit (using '$PY')..."
 "$PY" "$DIR/verify.py"
-status=$?
-if [ "$status" -ne 0 ]; then
-  echo "pre-push: verification FAILED — push aborted. Fix the issues above or run 'git push --no-verify' to override." >&2
+if [ "$?" -ne 0 ]; then
+  echo "pre-push: verification FAILED — push aborted. Fix the issues above, or run 'git push --no-verify' to override." >&2
   exit 1
 fi
 echo "pre-push: verification passed."
