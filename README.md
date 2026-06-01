@@ -1,91 +1,143 @@
-# Hellforged — Russian (ru) localization kit
+# Hellforged — Russian (ru) Localization Kit
 
-Community-prepared **Russian translation** for **Hellforged** (Unity Localization), packaged so the
-team can drop it into the existing project with minimal effort. Every string is keyed by the game's
-**real** localization `Key`/`Id` (extracted from the shipped `SharedTableData`), so it imports straight
-into the matching String Table Collections.
+A drop-in **Russian translation** for **Hellforged**, packaged for Unity Localization so your team can
+add the language with minimal effort. Every string is keyed by the game's **own** localization `Key` and
+`Id` (read from the shipped `SharedTableData`), so the rows line up 1:1 with your existing String Table
+Collections — no remapping, no guesswork.
 
-> ⚠️ The Russian text is an **AI-produced translation for your review**, not a final human localization.
-> It was built by domain-specialised teams (context-aware translators → a senior game-loc editor per
-> domain) against a shared [STYLE_GUIDE.md](STYLE_GUIDE.md) and [glossary.md](glossary.md). Placeholders
-> (`{0}`, `{rewardAmount}`), SmartFormat plurals and rich-text tags (`<sprite=…>`, `<style=…>`, `<b>`) are
-> preserved — [QA_REPORT.md](QA_REPORT.md) reports 0 token mismatches across all 1989 strings.
-> Per-domain editor decisions are in [TRANSLATION_NOTES.md](TRANSLATION_NOTES.md).
-> See [DISCLAIMER.md](DISCLAIMER.md) for provenance.
+- **1989 strings**, **100% translated**, across all 7 collections.
+- **0 placeholder / markup mismatches** (verified — see [QA_REPORT.md](QA_REPORT.md)).
+- Built to a shared [STYLE_GUIDE.md](STYLE_GUIDE.md) + [glossary.md](glossary.md) for consistency.
 
-## What's inside
+> **Status:** this is an **AI-produced translation intended for your review**, not a final human
+> localization. It was produced in two passes — domain-specialised translators followed by a senior
+> game-localization editor per domain — but it should be proofread before shipping. Per-domain editor
+> decisions and open questions are documented in [TRANSLATION_NOTES.md](TRANSLATION_NOTES.md).
+> Provenance and licensing intent: [DISCLAIMER.md](DISCLAIMER.md).
+
+---
+
+## Contents
 
 ```
-csv/                 One CSV per String Table Collection — Unity Localization import format
+csv/                    One CSV per String Table Collection — Unity Localization import format
   Common.csv  System.csv  UI.csv  Gameplay.csv  Dialogue.csv  NamePools.csv  Content.csv
 xlsx/
-  hellforged-ru.xlsx  Same data, one sheet per collection (+ _index) — for Google Sheets / review
-STYLE_GUIDE.md       RU localization style guide (register, conventions, plurals, punctuation)
-glossary.md          EN→RU term & proper-noun glossary used for consistency
-TRANSLATION_NOTES.md Per-domain editor decisions & open questions (review aid)
-QA_REPORT.md         Placeholder / markup preservation check + translated coverage
-DISCLAIMER.md        Provenance & licensing note
+  hellforged-ru.xlsx    Same data, one sheet per collection (+ _index) — for Google Sheets / review
+STYLE_GUIDE.md          RU style guide: register, industry conventions, plurals, punctuation
+glossary.md             EN→RU term & proper-noun glossary used across the whole translation
+TRANSLATION_NOTES.md    Per-domain editor decisions & open questions (review aid)
+QA_REPORT.md            Placeholder/markup preservation check + coverage
+DISCLAIMER.md           Provenance & licensing note
 ```
 
-Columns in every CSV / sheet: **`Key`**, **`Id`**, **`English(en)`**, **`Russian(ru)`**.
-`Key` and `Id` are the stable identifiers from your `SharedTableData` (the same across all languages),
-so the rows line up with your existing collections 1:1. `English(en)` is included only as a review aid.
+Every CSV and sheet has the same four columns:
 
-## The 7 collections (≈1989 strings)
+| Column | Meaning |
+|---|---|
+| `Key` | The string's human key from `SharedTableData` (e.g. `UI_CONFIRM_BUTTON`) — stable across languages |
+| `Id` | The numeric `keyId` (same id used by every locale) |
+| `English(en)` | Source text — included only as a review aid |
+| `Russian(ru)` | The translation to import |
 
-| Collection | Strings | Content |
+Files are **UTF-8**, RFC-4180 quoted (multi-line strings and commas handled). Import keyed by `Key` **or**
+`Id` — both are authoritative and identical to your project's.
+
+### The 7 collections
+
+| Collection | Strings | What it is |
 |---|---|---|
-| Common | 4 | Buttons / shared words |
-| System | 1 | System message |
-| UI | 557 | Interface labels, stat names (has `{0}` placeholders) |
-| Gameplay | 85 | In-run prompts / labels |
-| Dialogue | 86 | NPC dialogue lines |
-| NamePools | 336 | Procedural gear names (`GEAR_*`) |
-| Content | 920 | Names, lore, descriptions, tiers |
+| `Common` | 4 | Shared buttons / words |
+| `System` | 1 | System message |
+| `UI` | 557 | Interface labels, stat names, tooltips (contains `{0}`-style placeholders) |
+| `Gameplay` | 85 | In-run prompts / labels |
+| `Dialogue` | 86 | NPC dialogue lines |
+| `NamePools` | 336 | Procedurally-named gear (`GEAR_*`) |
+| `Content` | 920 | Ability/relic/boss names, lore, descriptions, tiers |
 
-## How to add Russian to the game (Unity Localization)
+---
+
+## Quick start
+
+1. Add a **Russian (ru)** Locale (Fallback → English).
+2. For each of the 7 collections: **Import ▸ CSV** → pick `csv/<Collection>.csv` → map the `Russian(ru)` column.
+3. Add a `ru` entry to the `LocalizationDatabase.languages` list so it shows in the settings menu.
+4. Build Addressables. Done — fonts already support Cyrillic (see below).
+
+---
+
+## Step-by-step (Unity Localization)
 
 You already own the source project, the `com.unity.localization` package, and the 7 String Table
-Collections — so the structural work is trivial; this kit supplies the **translated strings**.
+Collections — so the structural work is trivial. This kit supplies the **translated strings**.
 
-1. **Add the Russian Locale.**
-   `Window ▸ Asset Management ▸ Localization Tables ▸ Locale Generator` → check **Russian (ru)** → Add.
-   (Or create a `Locale` asset with `LocaleIdentifier` code `ru`; set its **Fallback Locale → English**,
-   mirroring the other 8 languages.)
+### 1. Add the Russian Locale
+`Window ▸ Asset Management ▸ Localization Tables ▸ Locale Generator` → check **Russian (ru)** → **Add Locales**.
+Then set the new Locale's **Fallback Locale → English** (mirroring the other 8 languages), so any
+untranslated key falls back to English at runtime.
 
-2. **Import the translations** into each String Table Collection.
-   Open a collection (e.g. **UI**) → the **⋮** menu (top-right of the table editor) → **Import ▸ CSV…** →
-   pick `csv/UI.csv`. In the column-mapping dialog, map the **`Russian(ru)`** column to the **ru** locale,
-   keyed by **`Key`** (or `Id`). Repeat for all 7 collections.
-   - No CSV extension installed? Add **com.unity.localization** sample *“CSV Extension”*, or use
-     `xlsx/hellforged-ru.xlsx` via the official **Google Sheets** extension, or paste the `Russian(ru)`
-     column directly in the table editor.
-   - Untranslated/empty keys are fine — they fall back to English at runtime (same as your CJK languages).
+### 2. Import the translations
+For each collection, open it in the **Localization Tables** window → **⋮** (top-right) → **Import ▸ CSV…** →
+choose the matching `csv/<Collection>.csv`. In the mapping dialog, map the **`Russian(ru)`** column to the
+**ru** locale, keyed by **`Key`** (or `Id`).
 
-3. **Fonts — Cyrillic already works, no atlas baking needed.**
-   The global UI font (`Spectral`, static) has no Cyrillic, but its TMP **fallback chain** starts with the
-   **dynamic** `NotoSans…` font whose embedded source TTF contains the full Cyrillic block (U+0400–04FF).
-   Cyrillic renders on demand exactly the way your JP/KR/ZH text already does. *Verify in a TMP field once.*
-   - Cosmetic only: title font `Cinzel` (static) has no Cyrillic, so Russian titles fall through to Noto
-     Sans (style mismatch, not a missing-glyph bug). Add Cyrillic to the title font if you care.
+Alternatives if the CSV importer isn't available:
+- Add the **CSV Extension** sample from the `com.unity.localization` package, **or**
+- Use `xlsx/hellforged-ru.xlsx` with the official **Google Sheets** extension, **or**
+- Paste the `Russian(ru)` column straight into the table editor.
 
-4. **List Russian in the language menu.**
-   Add a `LanguageOption` for `ru` to the **`LocalizationDatabase`** asset (the `languages` list that drives
-   the settings dropdown): `localeCode: "ru"`, `nativeName: "Русский"`, `releaseState: Released`,
-   `sortOrder: 900`. The menu is gated on **both** this entry **and** the `ru` Locale being in
-   `AvailableLocales`.
+### 3. Fonts — Cyrillic already renders, no atlas baking
+The global UI font (`Spectral`, a static atlas) has no Cyrillic glyphs, **but** its TMP fallback chain
+begins with a **dynamic** `NotoSans…` font whose embedded source TTF contains the full Cyrillic block
+(U+0400–U+04FF). Cyrillic is rasterised on demand at runtime — exactly how your JP/KR/ZH text already
+works. No new font asset or atlas baking is required; just confirm a Cyrillic string renders once.
 
-5. **Build Addressables** (your Localization groups). Unity regenerates the `ru` string-table bundle and the
-   content catalog automatically — no manual catalog editing.
+*Cosmetic note:* the title font `Cinzel` (static) lacks Cyrillic, so Russian titles fall through to Noto
+Sans. That's a style difference, not a missing-glyph bug — add Cyrillic to the title font only if you want
+the exact display style.
 
-That's it: launch, pick **Русский** in settings, verify Cyrillic renders.
+### 4. List Russian in the language menu
+Add a `LanguageOption` to the **`LocalizationDatabase`** asset's `languages` list (this drives the settings
+dropdown):
 
-## Reviewing the draft
+```
+localeCode:    "ru"
+nativeName:    "Русский"
+releaseState:  Released
+sortOrder:     900
+```
 
-- Start with [glossary.md](glossary.md) — fix any term you'd render differently, then it's a find/replace.
-- [QA_REPORT.md](QA_REPORT.md) flags rows where a `{placeholder}` or `<tag>` may not have survived — check those first.
-- `NamePools` (gear names) and `Dialogue` are the most style-sensitive; `UI`/`Gameplay` are the most
-  correctness-sensitive (placeholders).
+The language appears only when **both** this entry exists **and** the `ru` Locale is in `AvailableLocales`.
 
-Questions or a re-export against a newer build are easy to regenerate — the kit is produced by a small,
-re-runnable pipeline from the game's own string tables.
+### 5. Build Addressables
+Rebuild your Localization Addressables groups. Unity regenerates the `ru` string-table bundle and the
+content catalog automatically — no manual catalog editing.
+
+Launch, pick **Русский** in settings, and confirm Cyrillic renders.
+
+---
+
+## Reviewing before you ship
+
+- **Terminology:** [glossary.md](glossary.md) is the single source of truth. Change a term there, then a
+  global find/replace keeps every collection consistent.
+- **Editor notes:** [TRANSLATION_NOTES.md](TRANSLATION_NOTES.md) lists the non-obvious decisions per domain
+  (resolved term collisions, register choices, places that need a human eye).
+- **Highest-value proofreading:** `NamePools` (gear flavour) and `Dialogue` (voice) are the most
+  style-sensitive; `UI` / `Gameplay` are the most correctness-sensitive (placeholders).
+- **Integrity check:** [QA_REPORT.md](QA_REPORT.md) confirms every `{placeholder}`, SmartFormat plural and
+  `<tag>` is preserved (currently 0 issues).
+
+---
+
+## How this was produced
+
+The English strings and their keys were read from the shipped Hellforged build's Unity Localization
+tables, then translated in a structured pipeline: a lead linguist established the style guide + master
+glossary; the strings were grouped into 8 thematic domains (gear names, abilities, stats, achievements,
+progression, systems, narrative, UI); each domain was translated by context-aware translators and then
+revised by a senior game-localization editor. An automated check verifies key/id integrity and
+placeholder/markup preservation. See [DISCLAIMER.md](DISCLAIMER.md) for the full provenance note.
+
+If you change anything in the source strings or ship a new build, the kit can be regenerated against the
+updated tables.
