@@ -5,9 +5,12 @@ team can drop it into the existing project with minimal effort. Every string is 
 **real** localization `Key`/`Id` (extracted from the shipped `SharedTableData`), so it imports straight
 into the matching String Table Collections.
 
-> ⚠️ The Russian text is a **machine-assisted DRAFT** for your review, not a finished human translation.
-> Placeholders (`{0}`, `{rewardAmount}`) and rich-text tags (`<sprite=…>`, `<style=…>`, `<b>`) are
-> preserved. See [QA_REPORT.md](QA_REPORT.md) for an automated placeholder/markup sanity check.
+> ⚠️ The Russian text is an **AI-produced translation for your review**, not a final human localization.
+> It was built by domain-specialised teams (context-aware translators → a senior game-loc editor per
+> domain) against a shared [STYLE_GUIDE.md](STYLE_GUIDE.md) and [glossary.md](glossary.md). Placeholders
+> (`{0}`, `{rewardAmount}`), SmartFormat plurals and rich-text tags (`<sprite=…>`, `<style=…>`, `<b>`) are
+> preserved — [QA_REPORT.md](QA_REPORT.md) reports 0 token mismatches across all 1989 strings.
+> Per-domain editor decisions are in [TRANSLATION_NOTES.md](TRANSLATION_NOTES.md).
 > See [DISCLAIMER.md](DISCLAIMER.md) for provenance.
 
 ## What's inside
@@ -17,7 +20,9 @@ csv/                 One CSV per String Table Collection — Unity Localization 
   Common.csv  System.csv  UI.csv  Gameplay.csv  Dialogue.csv  NamePools.csv  Content.csv
 xlsx/
   hellforged-ru.xlsx  Same data, one sheet per collection (+ _index) — for Google Sheets / review
-glossary.md          EN→RU term & proper-noun glossary used for consistency (review reference)
+STYLE_GUIDE.md       RU localization style guide (register, conventions, plurals, punctuation)
+glossary.md          EN→RU term & proper-noun glossary used for consistency
+TRANSLATION_NOTES.md Per-domain editor decisions & open questions (review aid)
 QA_REPORT.md         Placeholder / markup preservation check + translated coverage
 DISCLAIMER.md        Provenance & licensing note
 ```
