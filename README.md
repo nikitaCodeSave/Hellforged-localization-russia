@@ -126,7 +126,10 @@ Launch, pick **Русский** in settings, and confirm Cyrillic renders.
 - **Highest-value proofreading:** `NamePools` (gear flavour) and `Dialogue` (voice) are the most
   style-sensitive; `UI` / `Gameplay` are the most correctness-sensitive (placeholders).
 - **Integrity check:** [QA_REPORT.md](QA_REPORT.md) confirms every `{placeholder}`, SmartFormat plural and
-  `<tag>` is preserved (currently 0 issues).
+  `<tag>` is preserved (currently 0 issues). Re-run it yourself any time with `python verify.py` — it checks
+  headers, completeness, placeholder/markup parity, unique ids and CSV↔xlsx consistency. A `pre-push` git
+  hook (`.githooks/pre-push`, enabled via `git config core.hooksPath .githooks`) runs it automatically before
+  every push.
 
 ---
 
