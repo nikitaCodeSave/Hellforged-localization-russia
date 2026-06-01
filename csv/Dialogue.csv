@@ -1,0 +1,87 @@
+Key,Id,English(en),Russian(ru)
+CINEMATIC_INTRO_001,836737302519808,"We found an ancient gateway, half-buried and forgotten. No one knew where it led.","Мы нашли древние врата, наполовину занесённые землёй и забытые. Никто не знал, куда они ведут."
+CINEMATIC_INTRO_002,836828981616640,I crossed with the expedition. Our maps were useless the moment we stepped through.,"Я перешёл вместе с экспедицией. Наши карты стали бесполезны, едва мы ступили за порог."
+CINEMATIC_INTRO_003,836931544932352,The realm felt wrong from the first breath. Then the gateway sealed behind us.,Этот мир с первого вздоха ощущался неправильным. А потом врата запечатались за нашими спинами.
+CINEMATIC_INTRO_004,836984934227968,"That night, twisted monstrosities hit our camp. Demons came after to take what was left.","Той ночью искажённые чудовища обрушились на наш лагерь. Следом пришли демоны — забрать то, что осталось."
+CINEMATIC_INTRO_005,837031650385920,"I woke alone in a crypt, buried beneath the dead.","Я очнулся один в склепе, погребённый под мёртвыми."
+CINEMATIC_INTRO_006,837087505932288,"If any survived, I will find them. If there is a way home, I will open it.","Если кто-то выжил, я их найду. Если есть путь домой, я его открою."
+CRYPT_PRINCE_BOSS_SPAWN_BARK_001,837100000000026,"Kneel in my crypt, or be sealed beneath it.",Преклони колени в моём склепе — или будешь запечатан под ним.
+CRYPT_PRINCE_BOSS_SPAWN_BARK_002,837100000000027,Bone remembers every oath broken here.,"Кость помнит каждую клятву, что нарушили здесь."
+CRYPT_PRINCE_BOSS_SPAWN_BARK_003,837100000000028,This tomb still has room for one more.,В этой гробнице ещё найдётся место для одного.
+CRYPT_PRINCE_BOSS_SPAWN_BARK_004,837100000000039,A guest from above. How rare.,Гость сверху. Какая редкость.
+EXECUTOR_BOSS_SPAWN_BARK_001,837100000000029,Sentence passed.,Приговор вынесен.
+EXECUTOR_BOSS_SPAWN_BARK_002,837100000000030,"Run, then. The axe prefers pursuit.","Что ж, беги. Топор любит погоню."
+EXECUTOR_BOSS_SPAWN_BARK_003,837100000000031,Your judgment arrives in iron and flame.,Твой приговор приходит в железе и пламени.
+EXECUTOR_BOSS_SPAWN_BARK_004,837100000000040,"Centuries pass, and still your kind returns.","Проходят века, а ваше племя всё возвращается."
+GARRICK_CAMP_AMBIENT_BARK_001,720000000000024,The dead here do not stay properly dead.,Мёртвые здесь не желают оставаться мёртвыми как положено.
+GARRICK_CAMP_AMBIENT_BARK_002,720000000000025,Every expedition needs records. Even failed ones.,Каждой экспедиции нужны записи. Даже провальной.
+GARRICK_CAMP_AMBIENT_BARK_003,720000000000026,I keep notes. Mostly to prove we are not all mad.,"Я веду заметки. В основном чтобы доказать, что мы тут не все спятили."
+GARRICK_CAMP_ENTER_BARK_001,720000000000021,Still breathing? Good. Keep doing that.,Ещё дышишь? Хорошо. Так и продолжай.
+GARRICK_CAMP_ENTER_BARK_002,720000000000022,Back already? The realm must like chewing on you.,"Уже вернулся? Видать, этому миру нравится тебя жевать."
+GARRICK_CAMP_ENTER_BARK_003,720000000000023,I found you half-dead once. Try not to make it tradition.,Однажды я нашёл тебя полумёртвым. Постарайся не делать из этого традицию.
+GARRICK_CAMP_INTRO_001,720000000000000,"Ah, you're alive. Dragged you back from that crypt myself, you owe me.","А, ты жив. Сам вытащил тебя из того склепа — теперь ты мне должен."
+GARRICK_CAMP_INTRO_002,720000000000001,Portal sealed after the attack. Still humming though - go take a look.,Портал запечатался после нападения. Но всё ещё гудит — сходи глянь.
+HERO_BOSS_SUMMONED_BARK_001,837100000000004,A true horror steps from the dark. I will not kneel.,Из тьмы выходит истинный ужас. Я не преклоню колени.
+HERO_BOSS_SUMMONED_BARK_002,837100000000005,So the grave finally sends its champion.,"Значит, могила наконец шлёт своего поборника."
+HERO_COLLAPSE_STARTED_BARK_001,837100000000032,The way out is open. Greed now has a timer.,Путь наружу открыт. Теперь у жадности есть таймер.
+HERO_COLLAPSE_STARTED_BARK_002,837100000000033,"I can leave now, or claim the rifts first.",Можно уйти сейчас — или сперва захватить разломы.
+HERO_COLLAPSE_STARTED_BARK_003,837100000000034,"Obelisk charged, lets find my way out.","Обелиск заряжен, отыщем выход."
+HERO_EFFIGY_ACTIVATED_BARK_001,837100000000006,Chaos for reward… and strength for my enemies.,Хаос ради награды… и сила — моим врагам.
+HERO_EFFIGY_ACTIVATED_BARK_002,837100000000007,The shards are gone. The trial begins.,Осколки исчезли. Испытание начинается.
+HERO_LEGENDARY_GEAR_DROPPED_BARK_001,837100000000002,That radiance... a relic of real power.,Это сияние... реликвия истинной силы.
+HERO_LEGENDARY_GEAR_DROPPED_BARK_002,837100000000003,An old power has found its way back into my hands.,Древняя сила вновь нашла путь в мои руки.
+HERO_OVERTIME_FOG_STARTED_BARK_001,837100000000035,"This place is crumbling, I must exit.","Это место рушится, мне пора уходить."
+HERO_OVERTIME_FOG_STARTED_BARK_002,837100000000036,"This fog smells of death, I can't stay here.","Этот туман пахнет смертью, мне здесь не остаться."
+HERO_OVERTIME_FOG_STARTED_BARK_003,837100000000037,"Stay longer, and the dark takes me whole.",Задержись подольше — и тьма поглотит меня целиком.
+HERO_PICKED_COMMON_GEAR_BARK_001,837100000000010,Useful enough. Keep moving.,Сгодится. Идём дальше.
+HERO_PICKED_COMMON_GEAR_BARK_002,837100000000011,It will hold until something better turns up.,"Послужит, пока не подвернётся что получше."
+HERO_PICKED_COMMON_GEAR_BARK_003,837100000000012,"Not fine work, but it has a use.","Работа не из лучших, но толк есть."
+HERO_PICKED_LEGENDARY_GEAR_BARK_001,837100000000016,A worthy power.,Достойная сила.
+HERO_PICKED_LEGENDARY_GEAR_BARK_002,837100000000017,Now this is worth carrying.,Вот это стоит взять с собой.
+HERO_PICKED_LEGENDARY_GEAR_BARK_003,837100000000018,Whatever made this knew what it was doing.,"Тот, кто это сделал, знал своё дело."
+HERO_PICKED_RARE_GEAR_BARK_001,837100000000013,A stronger piece. This may serve us well.,Вещь покрепче. Послужит нам неплохо.
+HERO_PICKED_RARE_GEAR_BARK_002,837100000000014,Better than most of what this place leaves behind.,"Лучше большинства того, что оставляет это место."
+HERO_PICKED_RARE_GEAR_BARK_003,837100000000015,This has seen battle and survived. Good.,Эта вещь побывала в бою и уцелела. Хорошо.
+HERO_PICKED_UNIQUE_GEAR_BARK_001,837100000000019,This one has a name in the dark. I can feel it.,У этой вещи есть имя во тьме. Я это чувствую.
+HERO_PICKED_UNIQUE_GEAR_BARK_002,837100000000020,"Even buried in darkness, power remembers the worthy.","Даже погребённая во мраке, сила помнит достойных."
+HERO_PICKED_UNIQUE_GEAR_BARK_003,837100000000021,"There is history in this one, and not all of it dead.",В этой вещи есть история — и не вся она мертва.
+HERO_PICKED_UNIQUE_GEAR_BARK_004,837100000000022,This was made for more than killing.,Это создано не только для убийства.
+HERO_SHRINE_OF_POWER_BARK_001,837100000000000,This shrine demands blood before blessing.,Это святилище требует крови прежде благословения.
+HERO_SHRINE_OF_POWER_BARK_002,837100000000001,The shrine hides its strength behind this demon?,Святилище прячет свою силу за этим демоном?
+KELDOR_CAMP_AMBIENT_BARK_001,720000000000018,That blade has seen panic. I can work with panic.,Этот клинок повидал панику. С паникой я работать умею.
+KELDOR_CAMP_AMBIENT_BARK_002,720000000000019,Good gear does not save fools. It only gives them longer.,Хорошее снаряжение не спасает глупцов. Лишь даёт им чуть больше времени.
+KELDOR_CAMP_AMBIENT_BARK_003,720000000000020,Your armor is holding. Mostly.,Твоя броня держится. В основном.
+KELDOR_CAMP_ENTER_BARK_001,720000000000015,Put the broken things by the anvil.,Сломанное клади у наковальни.
+KELDOR_CAMP_ENTER_BARK_002,720000000000016,You look dented. The armor looks worse.,Выглядишь помятым. Броня — ещё хуже.
+KELDOR_CAMP_ENTER_BARK_003,720000000000017,The forge is hot. Try to be useful.,Горн раскалён. Постарайся быть полезным.
+MORTENZIA_CAMP_AMBIENT_BARK_001,720000000000030,I remember the dark. It remembers me less fondly.,Я помню тьму. Она помнит меня куда менее тепло.
+MORTENZIA_CAMP_AMBIENT_BARK_002,720000000000031,"This camp smells of ash, fear, and poor discipline.","Этот лагерь пахнет пеплом, страхом и скверной дисциплиной."
+MORTENZIA_CAMP_AMBIENT_BARK_003,720000000000032,"When I am ready, the realm will know.","Когда я буду готова, этот мир узнает."
+MORTENZIA_CAMP_ENTER_BARK_001,720000000000027,Do not stare. Resurrection is rarely flattering.,Не глазей. Воскрешение редко бывает к лицу.
+MORTENZIA_CAMP_ENTER_BARK_002,720000000000028,You return. Try not to look so relieved.,Ты вернулся. Постарайся не выглядеть таким облегчённым.
+MORTENZIA_CAMP_ENTER_BARK_003,720000000000029,The camp grows louder when you survive.,"Лагерь становится громче, когда ты выживаешь."
+NECROMANCER_BOSS_SPAWN_BARK_001,837100000000023,The dead were never yours to bury.,"Мёртвые никогда не были твоими, чтобы хоронить их."
+NECROMANCER_BOSS_SPAWN_BARK_002,837100000000024,Come closer. I have graves enough for all of you.,Подойди ближе. У меня хватит могил на всех вас.
+NECROMANCER_BOSS_SPAWN_BARK_003,837100000000025,Your breath is brief. Mine is borrowed.,Твоё дыхание кратко. Моё — взято взаймы.
+NECROMANCER_BOSS_SPAWN_BARK_004,837100000000038,The living have not come this far in ages.,Живые не заходили так далеко уже целые эпохи.
+THE_SHADE_CAMP_AMBIENT_BARK_001,720000000000036,You are not the first to return changed.,"Ты не первый, кто вернулся изменённым."
+THE_SHADE_CAMP_AMBIENT_BARK_002,720000000000037,Do not mistake silence for safety.,Не принимай тишину за безопасность.
+THE_SHADE_CAMP_AMBIENT_BARK_003,720000000000038,Your expedition left echoes. I hear them still.,Твоя экспедиция оставила отголоски. Я слышу их до сих пор.
+THE_SHADE_CAMP_ENTER_BARK_001,720000000000033,The camp remembers your footsteps.,Лагерь помнит твои шаги.
+THE_SHADE_CAMP_ENTER_BARK_002,720000000000034,You carry echoes with you.,Ты несёшь с собой отголоски.
+THE_SHADE_CAMP_ENTER_BARK_003,720000000000035,I found you half-dead once. Try not to make it tradition.,Однажды я нашла тебя полумёртвым. Постарайся не делать из этого традицию.
+THE_SHADE_CAMP_INTRO_001,720000000000005,You made it out.,Ты выбрался.
+THE_SHADE_CAMP_INTRO_002,720000000000006,"I saw what happened. Your people — taken, slaughtered. I could not intervene.","Я видела, что случилось. Твои люди — схвачены, перебиты. Я не могла вмешаться."
+THE_SHADE_CAMP_INTRO_003,720000000000007,"An elf. A mage. Dragged deeper. Whether she still lives, I cannot say.",Эльфийка. Маг. Её утащили глубже. Жива ли она ещё — сказать не могу.
+THE_SHADE_MORPHS_001,720000000000012,"I can help shape your powers, Paladin.","Я могу помочь придать форму твоим силам, Паладин."
+THE_SHADE_MORPHS_002,720000000000013,Each run your abilities can morph into stronger versions.,С каждым забегом твои способности могут превращаться в более сильные версии.
+THE_SHADE_MORPHS_003,720000000000014,"When one is ready, find me out there. I will activate it.","Когда одна будет готова, найди меня там. Я её активирую."
+THE_SHADE_MORTENZIA_01_001,720000000000008,"You carry her soul? You were marked, paladin.","Ты несёшь её душу? Ты был отмечен, паладин."
+THE_SHADE_MORTENZIA_01_002,720000000000009,I can try to restore her. But the dead do not return unchanged.,Я могу попытаться вернуть её. Но мёртвые не возвращаются неизменными.
+THE_SHADE_MORTENZIA_02_001,720000000000010,I remember everything Thoren...,"Я помню всё, Торен..."
+THE_SHADE_MORTENZIA_02_002,720000000000011,"Some were taken alive, there may still be a chance to find them.","Некоторых увели живыми — возможно, ещё есть шанс их отыскать."
+THE_SHADE_RUN_INTRO_001,720000000000002,You still live. Remarkable.,Ты всё ещё жив. Поразительно.
+THE_SHADE_RUN_INTRO_002,720000000000003,I watched them take your kind. None walked away.,"Я видела, как забирали твоё племя. Никто не ушёл."
+THE_SHADE_RUN_INTRO_003,720000000000004,"This is no place to speak. Seek me outside, if you survive.","Здесь не место для разговоров. Ищи меня снаружи, если выживешь."
+THOREN_MORTENZIA_SOUL_BARK_001,837100000000008,"Your body may fail, but your soul has not yet crossed. Stay with me.","Твоё тело может пасть, но душа ещё не перешла грань. Останься со мной."
+THOREN_MORTENZIA_SOUL_BARK_002,837100000000009,Not here. Not like this. I will bring your soul to the fire.,Не здесь. Не так. Я принесу твою душу к огню.

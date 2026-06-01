@@ -1,0 +1,1079 @@
+Key,Id,English(en),Russian(ru)
+ABILITY_ARCANE_MISSILE_NAME,56850346139648,Arcane Missile,Чародейская ракета
+ABILITY_CHASING_LIGHTNING_DESC,50954845020160,"Calls down a lightning, auto targeting enemies and dealing {0} damage.","Призывает молнию, автоматически наводясь на врагов и нанося {0} урона."
+ABILITY_CHASING_LIGHTNING_NAME,56850241282048,Chasing Lightning,Преследующая молния
+ABILITY_DEATHCOIL_DESC,50954853408769,"Fires projectiles at random enemies that apply {0}, dealing {1} damage.","Выпускает снаряды по случайным врагам, накладывая {0} и нанося {1} урона."
+ABILITY_DEATHCOIL_NAME,56850258059264,Deathcoil,Спираль смерти
+ABILITY_DIVINE_BARRAGE_DESC,50954907934720,"Unleashes a barrage of {2} hammers in front of the Paladin on each Main Attack.
+Each hammer deals {0}% of Main Attack Damage as {1}.","С каждой основной атакой выпускает залп из {2} молотов перед Паладином.
+Каждый молот наносит {0}% урона основной атаки как {1}."
+ABILITY_DIVINE_BARRAGE_NAME,56850358722560,Divine Barrage,Божественный залп
+ABILITY_FIREBALL_DESC,50954857603072,"Shoots a fireball at the nearest enemy, dealing {1} damage.","Запускает огненный шар в ближайшего врага, нанося {1} урона."
+ABILITY_FIREBALL_NAME,56850262253570,Fireball,Огненный шар
+ABILITY_FLAME_WALL_DESC,50954857603077,"Creates a flaming wall that applies a {0} effect on any enemy that passes through it, dealing {1} damage.","Создаёт огненную стену, накладывающую эффект {0} на любого врага, проходящего сквозь неё, и наносящую {1} урона."
+ABILITY_FLAME_WALL_NAME,56850270642176,Flame Wall,Огненная стена
+ABILITY_FROST_ORB_DESC,50954865991680,"Fires a frost orb that deals {0} damage, chilling enemies and leaving an icy trail that greatly increases your move speed.","Запускает морозный шар, наносящий {0} урона, охлаждающий врагов и оставляющий ледяной след, который сильно повышает вашу скорость передвижения."
+ABILITY_FROST_ORB_NAME,56850279030784,Frost Orb,Морозный шар
+ABILITY_GREATHAMMER_DESC,50954903740418,"Hammers the ground in front, dealing {0} <t0>Physical</t0> damage.","Бьёт молотом по земле перед собой, нанося {0} <t0>физического</t0> урона."
+ABILITY_GREATHAMMER_NAME,56850354528256,Greathammer,Великий молот
+ABILITY_HAMMERS_OF_WRATH_DESC,50954870185984,"Conjures {0} spinning hammers that spiral outward from where you stand, dealing {1} damage to enemies in their path.
+","Создаёт {0} вращающихся молотов, расходящихся спиралью от места, где вы стоите, и наносящих {1} урона врагам на их пути.
+"
+ABILITY_HAMMERS_OF_WRATH_NAME,56850283225090,Hammers of Wrath,Молоты гнева
+ABILITY_ICE_SHARDS_DESC,50954870185990,"Fires {0} ice shards at nearest enemy, dealing {1} damage.","Запускает {0} ледяных осколков в ближайшего врага, нанося {1} урона."
+ABILITY_ICE_SHARDS_NAME,56850291613696,Ice Shards,Ледяные осколки
+ABILITY_LIGHTNING_ORBS_DESC,50954874380291,"{0} orbs orbit you, dealing {1} damage for each enemy they hit","{0} сфер вращаются вокруг вас, нанося {1} урона каждому задетому врагу"
+ABILITY_LIGHTNING_ORBS_NAME,56850295808003,Lightning Orbs,Сферы молний
+ABILITY_METEOR_DESC,50954878574594,"Meteor falls from the sky, impacting area and damaging all enemies within with {0} damage.","С неба падает метеор, поражая область и нанося всем врагам в ней {0} урона."
+ABILITY_METEOR_NAME,56850304196608,Meteor,Метеор
+ABILITY_MORPH_BURNING_DISCHARGE_DESC,50954845020161,"When {0} critically hits a burning enemy, it has a {1} chance to consume the {2} and deal {3} bonus damage based on the remaining {2} damage.","Когда {0} наносит критический удар по горящему врагу, есть {1} шанс поглотить {2} и нанести {3} дополнительного урона на основе оставшегося урона {2}."
+ABILITY_MORPH_BURNING_DISCHARGE_NAME,56850245476352,Burning Discharge,Горящий разряд
+ABILITY_MORPH_CHAIN_LIGHTNING_DESC,50954849214465,"When {0} critically hits, it has a {1} chance to release a chain, striking {2} enemies with {3} damage.","Когда {0} наносит критический удар, есть {1} шанс выпустить цепь, поражающую {2} врагов с {3} уроном."
+ABILITY_MORPH_CHAIN_LIGHTNING_NAME,56850249670656,Chain Lightning,Цепная молния
+ABILITY_MORPH_CONCUSSIVE_CHAINS_DESC,50954886963205,{0} have a {1} chance to stun hit target,{0} имеют {1} шанс оглушить задетую цель
+ABILITY_MORPH_CONCUSSIVE_CHAINS_NAME,56850320973824,Concussive Chains,Контузящие цепи
+ABILITY_MORPH_CONDUCTOR_S_MARK_DESC,50954849214466,Has a {0} chance to apply {1} effect on hit enemy.,Имеет {0} шанс наложить эффект {1} на задетого врага.
+ABILITY_MORPH_CONDUCTOR_S_MARK_NAME,56850253864960,Conductor's Mark,Метка проводника
+ABILITY_MORPH_CRYO_NOVA_DESC,50954865991681,"{0} shatters on impact, freezing enemies within {2}m.","{0} разлетается при ударе, замораживая врагов в радиусе {2}м."
+ABILITY_MORPH_CRYO_NOVA_NAME,56850279030785,Cryo Nova,Крио-нова
+ABILITY_MORPH_DEATHCOIL_POOL_DESC,50954853408770,"Enemies hit by {0} have a {1} chance to spawn a corrupting pool, that periodically damages enemies.","Враги, задетые {0}, имеют {1} шанс породить оскверняющую лужу, периодически наносящую урон врагам."
+ABILITY_MORPH_DEATHCOIL_POOL_NAME,56850258059265,Deathcoil Pool,Лужа спирали смерти
+ABILITY_MORPH_DEATH_CURSE_DESC,50954882768900,{0} has a {1} chance to apply {2} on any hit enemy.,{0} имеет {1} шанс наложить {2} на любого задетого врага.
+ABILITY_MORPH_DEATH_CURSE_NAME,56850312585217,Death Curse,Проклятие смерти
+ABILITY_MORPH_EXPLOSIVE_SPIKES_DESC,50954886963206,Spikes explode from bleeding enemies hit by {0},"Из кровоточащих врагов, задетых {0}, вырываются шипы"
+ABILITY_MORPH_EXPLOSIVE_SPIKES_NAME,56850320973825,Explosive Spikes,Взрывные шипы
+ABILITY_MORPH_FIREBALL_REPLICATION_DESC,50954857603073,"When Fireball hits an enemy with {0}, it has a {1} chance to split into another fireball that seeks a random nearby enemy and deals {2} damage.","Когда Огненный шар попадает по врагу с {0}, есть {1} шанс, что он разделится на ещё один огненный шар, который нацелится на случайного ближайшего врага и нанесёт {2} урона."
+ABILITY_MORPH_FIREBALL_REPLICATION_NAME,56850266447872,Fireball Replication,Размножение огненных шаров
+ABILITY_MORPH_FLAME_RING_DESC,50954861797376,"The {0} now forms a Ring instead. The core pulses, periodically pulling enemies towards.","{0} теперь образует Кольцо. Ядро пульсирует, периодически притягивая врагов."
+ABILITY_MORPH_FLAME_RING_NAME,56850270642177,Flame Ring,Огненное кольцо
+ABILITY_MORPH_JUDGMENT_DETONATION_DESC,50954870185985,"When a hammer hits an enemy, it has a {1} chance to explode, dealing {2} damage to all nearby enemies.
+","Когда молот попадает по врагу, есть {1} шанс, что он взорвётся, нанося {2} урона всем ближайшим врагам.
+"
+ABILITY_MORPH_JUDGMENT_DETONATION_NAME,56850287419392,Judgment Detonation,Детонация суда
+ABILITY_MORPH_LIGHTFALL_DESC,50954903740419,Critical hits with main attack have a chance to create a holy beam from sky,Критические удары основной атакой имеют шанс создать священный луч с небес
+ABILITY_MORPH_LIGHTFALL_NAME,56850354528257,Lightfall,Падение света
+ABILITY_MORPH_MOVING_WALL_DESC,50954861797378,The {0} will now move away from you.,{0} теперь будет двигаться прочь от вас.
+ABILITY_MORPH_MOVING_WALL_NAME,56850274836480,Moving Wall,Движущаяся стена
+ABILITY_MORPH_NECROTIC_SURGE_POOL_DESC,50954882768899,"Enemies hit by {0} have a {1} chance to spawn a corrupting pool, that periodically damages enemies.","Враги, задетые {0}, имеют {1} шанс породить оскверняющую лужу, периодически наносящую урон врагам."
+ABILITY_MORPH_NECROTIC_SURGE_POOL_NAME,56850312585216,Necrotic Surge Pool,Лужа некротического всплеска
+ABILITY_MORPH_RENDING_CHAINS_DESC,50954891157505,{0} now apply {1} on all hit enemies.,{0} теперь накладывают {1} на всех задетых врагов.
+ABILITY_MORPH_RENDING_CHAINS_NAME,56850325168128,Rending Chains,Раздирающие цепи
+ABILITY_MORPH_SCORCHED_EARTH_DESC,50954878574595,Meteors leave the ground burning after impact. Any enemy walking over gets {0} effect.,"Метеоры оставляют после удара горящую землю. Любой враг, прошедший по ней, получает эффект {0}."
+ABILITY_MORPH_SCORCHED_EARTH_NAME,56850304196609,Scorched Earth,Выжженная земля
+ABILITY_MORPH_SPIKE_BURST_DESC,50954895351808,"Collecting a {0} lance fires {1} spikes outward, each dealing {2} damage and causing {3} on enemies","Подбор пики {0} выпускает {1} шипов наружу, каждый из которых наносит {2} урона и вызывает {3} у врагов"
+ABILITY_MORPH_SPIKE_BURST_NAME,56850333556736,Spike Burst,Всплеск шипов
+ABILITY_NECROTIC_SURGE_DESC,50954882768898,"Unleashes a chain of necrotic energy that jumps between {0} enemies, dealing {1} damage and spreading {2}.","Высвобождает цепь некротической энергии, перескакивающую между {0} врагами, нанося {1} урона и распространяя {2}."
+ABILITY_NECROTIC_SURGE_NAME,56850308390915,Necrotic Surge,Некротический всплеск
+ABILITY_PIERCING_CHAINS_DESC,50954886963204,"Throw {0} spiked chains at the enemies, damaging all in path with {1} damage.","Бросает {0} шипастых цепей во врагов, нанося всем на пути {1} урона."
+ABILITY_PIERCING_CHAINS_NAME,56850316779521,Piercing Chains,Пробивающие цепи
+ABILITY_TRAIT_BARBED_CHAINS_DESC,50954891157508,Chains deal more damage,Цепи наносят больше урона
+ABILITY_TRAIT_BARBED_CHAINS_NAME,56850329362433,Barbed Chains,Зазубренные цепи
+ABILITY_TRAIT_BLOOD_SIP_DESC,51255475953674,Lifesteal Chance,Шанс вампиризма
+ABILITY_TRAIT_BLOOD_SIP_NAME,56850375499778,Blood Sip,Глоток крови
+ABILITY_TRAIT_BRUTAL_FORCE_DESC,51255480147970,Physical damage,Физический урон
+ABILITY_TRAIT_BRUTAL_FORCE_NAME,56850375499783,Brutal Force,Грубая сила
+ABILITY_TRAIT_CHAINED_ROT_DESC,50954886963200,More enemies get hit,Задевается больше врагов
+ABILITY_TRAIT_CHAINED_ROT_NAME,56850312585218,Chained Rot,Цепная гниль
+ABILITY_TRAIT_CHAINMASTERY_DESC,50954891157509,More chains,Больше цепей
+ABILITY_TRAIT_CHAINMASTERY_NAME,56850329362434,Chainmastery,Мастерство цепей
+ABILITY_TRAIT_CRACKLING_POWER_DESC,51255475953675,Lightning damage,Урон молнией
+ABILITY_TRAIT_CRACKLING_POWER_NAME,56850375499779,Crackling Power,Трескучая мощь
+ABILITY_TRAIT_CRITICAL_CHANCE_DESC,51255475953665,Increases critical chance,Повышает шанс крита
+ABILITY_TRAIT_CRITICAL_CHANCE_NAME,56850371305475,Critical Chance,Шанс крита
+ABILITY_TRAIT_CRITICAL_DAMAGE_DESC,51255475953666,Increases critical damage,Повышает критический урон
+ABILITY_TRAIT_CRITICAL_DAMAGE_NAME,56850371305476,Critical Damage,Критический урон
+ABILITY_TRAIT_DOOM_SPREAD_DESC,50954853408773,Spread Chance,Шанс распространения
+ABILITY_TRAIT_DOOM_SPREAD_NAME,56850262253569,Doom Spread,Распространение рока
+ABILITY_TRAIT_ENDLESS_BARRAGE_DESC,50954899546116,Overcharge Active Duration,Длительность активной перегрузки
+ABILITY_TRAIT_ENDLESS_BARRAGE_NAME,56850350333953,Endless Barrage,Бесконечный залп
+ABILITY_TRAIT_ENDURANCE_DESC,51255475953676,Maximum life,Максимальное здоровье
+ABILITY_TRAIT_ENDURANCE_NAME,56850375499780,Endurance,Выносливость
+ABILITY_TRAIT_EXPANDING_CRATER_DESC,50954878574597,Area Bonus,Бонус площади
+ABILITY_TRAIT_EXPANDING_CRATER_NAME,56850308390912,Expanding Crater,Растущий кратер
+ABILITY_TRAIT_EXTRA_COIL_DESC,50954853408772,Extra Initial Projectile,Дополнительный начальный снаряд
+ABILITY_TRAIT_EXTRA_COIL_NAME,56850262253568,Extra Coil,Дополнительная спираль
+ABILITY_TRAIT_FALLING_BARRAGE_DESC,50954882768897,More Meteors,Больше метеоров
+ABILITY_TRAIT_FALLING_BARRAGE_NAME,56850308390914,Falling Barrage,Падающий залп
+ABILITY_TRAIT_FESTERING_TOUCH_DESC,50954886963203,Blight stacks applied,Накладывается стаков порчи
+ABILITY_TRAIT_FESTERING_TOUCH_NAME,56850316779520,Festering Touch,Гниющее касание
+ABILITY_TRAIT_FRIGID_IMPACT_DESC,50954874380288,Increases speed and damage of Ice Shards,Повышает скорость и урон Ледяных осколков
+ABILITY_TRAIT_FRIGID_IMPACT_NAME,56850295808000,Frigid Impact,Морозный удар
+ABILITY_TRAIT_FROSTBITE_MASTERY_DESC,51255471759365,Cold damage,Холодный урон
+ABILITY_TRAIT_FROSTBITE_MASTERY_NAME,56850371305473,Frostbite Mastery,Мастерство обморожения
+ABILITY_TRAIT_FROST_ORBS_COUNT_DESC,50954865991683,More frost orbs,Больше морозных шаров
+ABILITY_TRAIT_FROST_ORBS_COUNT_NAME,56850283225088,Frost Orbs Count,Число морозных шаров
+ABILITY_TRAIT_FROST_ORBS_SIZE_DESC,50954865991684,Increases size of Frost Orbs,Увеличивает размер Морозных шаров
+ABILITY_TRAIT_FROST_ORBS_SIZE_NAME,56850283225089,Frost Orbs Size,Размер морозных шаров
+ABILITY_TRAIT_FROST_SHATTER_DESC,8358357791420416,Increases damage,Повышает урон
+ABILITY_TRAIT_FROST_SHATTER_NAME,8358273410412544,Frost Shatter,Морозный раскол
+ABILITY_TRAIT_GLIDE_LEAP_DESC,51255475953667,Increases dash distance,Увеличивает дальность рывка
+ABILITY_TRAIT_GLIDE_LEAP_NAME,56850371305477,Glide Leap,Скользящий прыжок
+ABILITY_TRAIT_HAMMERFALL_IMPACT_DESC,50954899546115,Overcharge Damage,Урон перегрузки
+ABILITY_TRAIT_HAMMERFALL_IMPACT_NAME,56850350333952,Hammerfall Impact,Удар молотопада
+ABILITY_TRAIT_HAMMERS_COUNT_DESC,50954870185989,Increase hammers count,Увеличивает число молотов
+ABILITY_TRAIT_HAMMERS_COUNT_NAME,56850287419395,Hammers Count,Число молотов
+ABILITY_TRAIT_HAMMERS_DAMAGE_DESC,50954870185987,Increase hammers damage,Увеличивает урон молотов
+ABILITY_TRAIT_HAMMERS_DAMAGE_NAME,56850287419393,Hammers Damage,Урон молотов
+ABILITY_TRAIT_HAMMERS_DURATION_DESC,50954870185988,Increase individual hammer duration,Увеличивает длительность отдельного молота
+ABILITY_TRAIT_HAMMERS_DURATION_NAME,56850287419394,Hammers Duration,Длительность молотов
+ABILITY_TRAIT_JUDGMENT_S_EDGE_DESC,50954907934722,Main attack damage,Урон основной атаки
+ABILITY_TRAIT_JUDGMENT_S_EDGE_NAME,56850362916865,Judgment’s Edge,Грань суда
+ABILITY_TRAIT_JUDGMENT_S_REACH_DESC,50954907934723,Main attack radius,Радиус основной атаки
+ABILITY_TRAIT_JUDGMENT_S_REACH_NAME,56850362916866,Judgment’s Reach,Размах суда
+ABILITY_TRAIT_KNOWLEDGE_COLLECTOR_DESC,51255475953664,Collect range,Радиус сбора
+ABILITY_TRAIT_KNOWLEDGE_COLLECTOR_NAME,56850371305474,Knowledge Collector,Собиратель знаний
+ABILITY_TRAIT_KNOWLEDGE_IS_POWER_DESC,51255475953669,Increases experience gain,Повышает прирост опыта
+ABILITY_TRAIT_KNOWLEDGE_IS_POWER_NAME,56850371305479,Knowledge is Power,Знание — сила
+ABILITY_TRAIT_LARGER_ABILITIES_DESC,51255471759360,Increase size of all abilities,Увеличивает размер всех способностей
+ABILITY_TRAIT_LARGER_ABILITIES_NAME,56850367111168,Larger Abilities,Увеличенные способности
+ABILITY_TRAIT_LINGERING_PAIN_DESC,51255471759363,Increases duration of Bleed,Увеличивает длительность Кровотечения
+ABILITY_TRAIT_LINGERING_PAIN_NAME,56850367111171,Lingering Pain,Затяжная боль
+ABILITY_TRAIT_LONGER_BURN_DESC,50954861797381,Increases duration of Flame Wall,Увеличивает длительность Огненной стены
+ABILITY_TRAIT_LONGER_BURN_NAME,56850274836483,Longer Burn,Долгое горение
+ABILITY_TRAIT_MAGMA_CORE_DESC,50954882768896,Damage,Урон
+ABILITY_TRAIT_MAGMA_CORE_NAME,56850308390913,Magma Core,Магмовое ядро
+ABILITY_TRAIT_MIGHT_DESC,51255467565056,Increases all damage,Повышает весь урон
+ABILITY_TRAIT_MIGHT_NAME,56850362916867,Might,Мощь
+ABILITY_TRAIT_MORE_ORBS_DESC,50954878574593,More orbs,Больше сфер
+ABILITY_TRAIT_MORE_ORBS_NAME,56850300002305,More Orbs,Больше сфер
+ABILITY_TRAIT_MORE_PIERCE_DESC,50954857603075,Increases pierce count of Fireball ability,Увеличивает число пробитий способности Огненный шар
+ABILITY_TRAIT_MORE_PIERCE_NAME,56850266447873,More Pierce,Больше пробитий
+ABILITY_TRAIT_MORE_PROJECTILES_DESC,50954857603076,Projectile count,Число снарядов
+ABILITY_TRAIT_MORE_PROJECTILES_NAME,56850266447874,More Projectiles,Больше снарядов
+ABILITY_TRAIT_OPEN_WOUNDS_DESC,51255471759362,Bleed damage,Урон кровотечения
+ABILITY_TRAIT_OPEN_WOUNDS_NAME,56850367111170,Open Wounds,Открытые раны
+ABILITY_TRAIT_ORB_CRITICAL_CHANCE_DESC,50954878574592,Orb critical chance,Шанс крита сферы
+ABILITY_TRAIT_ORB_CRITICAL_CHANCE_NAME,56850300002304,Orb Critical Chance,Шанс крита сферы
+ABILITY_TRAIT_PERSISTANT_THUNDER_DESC,50954853408768,Increases duration,Увеличивает длительность
+ABILITY_TRAIT_PERSISTANT_THUNDER_NAME,56850253864961,Persistant Thunder,Неугасающий гром
+ABILITY_TRAIT_PIERCING_ICE_DESC,50954874380289,Increases pierce count,Увеличивает число пробитий
+ABILITY_TRAIT_PIERCING_ICE_NAME,56850295808001,Piercing Ice,Пробивающий лёд
+ABILITY_TRAIT_PIERCING_MISSILE_DESC,50954899546114,Pierce count,Число пробитий
+ABILITY_TRAIT_PIERCING_MISSILE_NAME,56850346139649,Piercing Missile,Пробивающая ракета
+ABILITY_TRAIT_PYROMANCER_S_GIFT_DESC,51255475953670,Fire damage,Огненный урон
+ABILITY_TRAIT_PYROMANCER_S_GIFT_NAME,56850371305480,Pyromancer’s Gift,Дар пиромана
+ABILITY_TRAIT_QUICKEN_DEATH_DESC,50954886963201,Cooldown reduction,Снижение перезарядки
+ABILITY_TRAIT_QUICKEN_DEATH_NAME,56850312585219,Quicken Death,Ускоренная смерть
+ABILITY_TRAIT_QUICK_REACTIONS_DESC,51255471759361,Main weapon attack speed,Скорость атаки основного оружия
+ABILITY_TRAIT_QUICK_REACTIONS_NAME,56850367111169,Quick Reactions,Быстрая реакция
+ABILITY_TRAIT_RAGING_THUNDER_DESC,8340062736494592,Increases damage,Повышает урон
+ABILITY_TRAIT_RAGING_THUNDER_NAME,8339995275309056,Raging Thunder,Яростный гром
+ABILITY_TRAIT_RAIN_OF_HAMMERS_DESC,50954903740417,Overcharge Projectile Count,Число снарядов перегрузки
+ABILITY_TRAIT_RAIN_OF_HAMMERS_NAME,56850350333955,Rain of Hammers,Дождь молотов
+ABILITY_TRAIT_RAPID_SHACKLES_DESC,50954891157507,Cooldown,Перезарядка
+ABILITY_TRAIT_RAPID_SHACKLES_NAME,56850329362432,Rapid Shackles,Быстрые оковы
+ABILITY_TRAIT_RAZOR_SKIN_DESC,51255480147972,Increases Thorns,Увеличивает Шипы
+ABILITY_TRAIT_RAZOR_SKIN_NAME,56850379694080,Razor Skin,Бритвенная кожа
+ABILITY_TRAIT_REACHING_CHAINS_DESC,50954891157510,Increases range,Увеличивает дальность
+ABILITY_TRAIT_REACHING_CHAINS_NAME,56850329362435,Reaching Chains,Тянущиеся цепи
+ABILITY_TRAIT_SACRED_FURY_DESC,50954907934721,Main attack critical damage,Критический урон основной атаки
+ABILITY_TRAIT_SACRED_FURY_NAME,56850362916864,Sacred Fury,Священная ярость
+ABILITY_TRAIT_SANCTIFIED_MOMENTUM_DESC,50954903740416,Overcharge Pierce Count,Число пробитий перегрузки
+ABILITY_TRAIT_SANCTIFIED_MOMENTUM_NAME,56850350333954,Sanctified Momentum,Освящённый напор
+ABILITY_TRAIT_SCORCHING_BLAZE_DESC,8347284845637632,Increases damage,Повышает урон
+ABILITY_TRAIT_SCORCHING_BLAZE_NAME,8345516132806656,Scorching Blaze,Опаляющее пламя
+ABILITY_TRAIT_SCORCHING_DESC,51255471759364,Burn damage,Урон горения
+ABILITY_TRAIT_SCORCHING_NAME,56850371305472,Scorching,Опаление
+ABILITY_TRAIT_SHARD_BARRAGE_DESC,50954874380290,Adds more projectiles,Добавляет больше снарядов
+ABILITY_TRAIT_SHARD_BARRAGE_NAME,56850295808002,Shard Barrage,Залп осколков
+ABILITY_TRAIT_SHIELD_RESERVE_DESC,51255475953668,Energy capacity,Ёмкость энергии
+ABILITY_TRAIT_SHIELD_RESERVE_NAME,56850371305478,Shield Reserve,Запас щита
+ABILITY_TRAIT_SPEEDY_ORBS_NAME,56850300002306,Speedy Orbs,Быстрые сферы
+ABILITY_TRAIT_SPELL_DUPLICATION_DESC,51255480147971,Projectile count,Число снарядов
+ABILITY_TRAIT_SPELL_DUPLICATION_NAME,56850375499784,Spell Duplication,Дублирование заклинаний
+ABILITY_TRAIT_SPREADING_THUNDER_DESC,8342265278771200,Increases area size,Увеличивает размер области
+ABILITY_TRAIT_SPREADING_THUNDER_NAME,8342092481835008,Spreading Thunder,Распространяющийся гром
+ABILITY_TRAIT_STACKING_FIRE_DESC,50954861797382,Burning now starts with more stacks,Горение теперь начинается с большего числа стаков
+ABILITY_TRAIT_STACKING_FIRE_NAME,56850274836484,Stacking Fire,Накапливающийся огонь
+ABILITY_TRAIT_STAMINA_AMOUNT_DESC,2543214606147584,Life Regeneration Amount,Восстановление здоровья
+ABILITY_TRAIT_STAMINA_COOLDOWN_DESC,51255475953673,Life Regeneration Cooldown,Перезарядка регена
+ABILITY_TRAIT_STAMINA_NAME,56850375499777,Stamina,Стойкость
+ABILITY_TRAIT_SWIFTNESS_DESC,51255480147968,Increases move speed,Увеличивает скорость передвижения
+ABILITY_TRAIT_SWIFTNESS_NAME,56850375499781,Swiftness,Быстрота
+ABILITY_TRAIT_UNHOLY_POWER_DESC,51255480147969,Necrotic damage,Некротический урон
+ABILITY_TRAIT_UNHOLY_POWER_NAME,56850375499782,Unholy Power,Нечестивая мощь
+ABILITY_TRAIT_VOLT_SURGE_DESC,8360515928600576,Increases damage,Повышает урон
+ABILITY_TRAIT_VOLT_SURGE_NAME,8360261112049664,Volt Surge,Вольтовый всплеск
+ABILITY_TRAIT_WALLS_OF_DEATH_DESC,50954861797380,More walls,Больше стен
+ABILITY_TRAIT_WALLS_OF_DEATH_NAME,56850274836482,Walls of Death,Стены смерти
+ABILITY_TRAIT_WAR_LANCE_AREA_DESC,50954895351810,War Lance pulse area,Площадь пульса Боевой пики
+ABILITY_TRAIT_WAR_LANCE_AREA_NAME,56850337751040,War Lance Area,Площадь боевой пики
+ABILITY_TRAIT_WAR_LANCE_DAMAGE_DESC,50954895351811,War Lance pulse damage,Урон пульса Боевой пики
+ABILITY_TRAIT_WAR_LANCE_DAMAGE_NAME,56850337751041,War Lance Damage,Урон боевой пики
+ABILITY_TRAIT_WAR_LANCE_PROJECTILES_DESC,5037015375536128,War Lance Collect Projectiles,Снаряды подбора Боевой пики
+ABILITY_TRAIT_WAR_LANCE_PROJECTILES_NAME,5036528165183488,War Lance Projectiles,Снаряды боевой пики
+ABILITY_TRAIT_WIDER_WALL_DESC,50954861797379,Increases length,Увеличивает длину
+ABILITY_TRAIT_WIDER_WALL_NAME,56850274836481,Wider Wall,Шире стена
+ABILITY_TRAIT_WITHERING_STRENGTH_DESC,50954886963202,Increases damage,Повышает урон
+ABILITY_TRAIT_WITHERING_STRENGTH_NAME,56850312585220,Withering Strength,Иссушающая сила
+ABILITY_VOID_SALVO_NAME,56850346139650,Void Salvo,Залп Пустоты
+ABILITY_WAR_LANCE_DESC,50954891157511,"Throws a war lance that passes through enemies causing {0} on enemies. Lances stick in the ground, pulsing for {1} area damage. A planted lance has a {2} chance to be collectible. Collecting it releases {3} non-collectible lances.","Бросает боевую пику, проходящую сквозь врагов и вызывающую {0} у врагов. Пики втыкаются в землю, пульсируя {1} уроном по площади. Воткнутая пика имеет {2} шанс стать подбираемой. Её подбор высвобождает {3} неподбираемых пик."
+ABILITY_WAR_LANCE_NAME,56850329362436,War Lance,Боевая пика
+ACHIEVEMENT_ASCENSION_DESC,50954559807488,Forge a mythic item for the first time.,Впервые выкуйте мифический предмет.
+ACHIEVEMENT_ASCENSION_NAME,56849863794688,Ascension,Вознесение
+ACHIEVEMENT_BARBED_ASSAULT_DESC,50954501087232,Land {0} {1} projectiles on the same Boss in one cast,Попадите {0} снарядами {1} по одному и тому же Боссу за один заброс
+ACHIEVEMENT_BARBED_ASSAULT_NAME,56849788297216,Barbed Assault,Зазубренный штурм
+ACHIEVEMENT_BLOODBATH_DESC,50954513670144,Kill {0} enemies in a row without getting hit,"Убейте {0} врагов подряд, не получив урона"
+ACHIEVEMENT_BLOODBATH_NAME,56849788297217,Bloodbath,Кровавая баня
+ACHIEVEMENT_BLOODLINE_DESC,50954517864448,Strike {0} Bleeding enemies with {1} in one run,Поразите {0} кровоточащих врагов с помощью {1} за один забег
+ACHIEVEMENT_BLOODLINE_NAME,56849792491520,Bloodline,Кровная линия
+ACHIEVEMENT_BREATH_OF_THE_NIGHT_DESC,50954593361920,"Stand where the night is thickest, and live.","Встаньте там, где ночь гуще всего, и выживите."
+ACHIEVEMENT_BREATH_OF_THE_NIGHT_NAME,56849914126339,Breath of the Night,Дыхание ночи
+ACHIEVEMENT_BURN_THEM_ALL_DESC,50954517864449,Deal {0} {1} damage in a single run,Нанесите {0} {1} урона за один забег
+ACHIEVEMENT_BURN_THEM_ALL_NAME,56849792491521,Burn Them All!,Сжечь их всех!
+ACHIEVEMENT_CRITICAL_VOLTAGE_DESC,50954517864450,Achieve at least {0} Crit Chance before entering stage {1},Достигните хотя бы {0} шанса крита перед входом на этап {1}
+ACHIEVEMENT_CRITICAL_VOLTAGE_NAME,56849796685824,Critical Voltage,Критический вольтаж
+ACHIEVEMENT_CRYPT_PRINCE_DESC,50954522058752,Defeat the {0} boss,Победите босса {0}
+ACHIEVEMENT_CRYPT_PRINCE_NAME,56849796685825,Crypt Prince,Принц склепа
+ACHIEVEMENT_DEBT_TO_THE_DEAD_DESC,50954593361921,Give all your riches to the dead and still prevail.,Отдайте все свои богатства мёртвым и всё равно одержите верх.
+ACHIEVEMENT_DEBT_TO_THE_DEAD_NAME,56849914126340,Debt to the Dead,Долг мёртвым
+ACHIEVEMENT_DEMOLITION_III_DESC,50954584973312,Break {0} destructible objects in a single run.,Разрушьте {0} разрушаемых объектов за один забег.
+ACHIEVEMENT_DEMOLITION_III_NAME,56849901543426,Demolition III,Снос III
+ACHIEVEMENT_DEMOLITION_II_DESC,50954580779015,Break {0} destructible objects in a single run.,Разрушьте {0} разрушаемых объектов за один забег.
+ACHIEVEMENT_DEMOLITION_II_NAME,56849901543425,Demolition II,Снос II
+ACHIEVEMENT_DEMOLITION_IV_DESC,50954584973313,Break {0} destructible objects in a single run.,Разрушьте {0} разрушаемых объектов за один забег.
+ACHIEVEMENT_DEMOLITION_IV_NAME,56849901543427,Demolition IV,Снос IV
+ACHIEVEMENT_DEMOLITION_I_DESC,50954580779014,Break {0} destructible objects in a single run.,Разрушьте {0} разрушаемых объектов за один забег.
+ACHIEVEMENT_DEMOLITION_I_NAME,56849901543424,Demolition I,Снос I
+ACHIEVEMENT_DEMOLITION_V_DESC,50954584973314,Break {0} destructible objects in a single run.,Уничтожьте {0} разрушаемых объектов за один забег.
+ACHIEVEMENT_DEMOLITION_V_NAME,56849901543428,Demolition V,Снос V
+ACHIEVEMENT_DESPERATE_RICHES_DESC,50954522058753,Open {0} chests while below {1}% life within a single stage,"Откройте {0} сундуков, имея меньше {1}% здоровья, в рамках одного этапа"
+ACHIEVEMENT_DESPERATE_RICHES_NAME,56849800880128,Desperate Riches,Отчаянное богатство
+ACHIEVEMENT_DESTRUCTIVE_PATH_DESC,50954522058754,Destroy {0} breakable objects within {1} seconds,Уничтожьте {0} разрушаемых объектов за {1} секунд
+ACHIEVEMENT_DESTRUCTIVE_PATH_NAME,56849800880129,Destructive Path,Разрушительный путь
+ACHIEVEMENT_ELITE_HUNTER_DESC,50954522058755,Kill {0} Elite enemies in a single run while using overcharge,"Убейте {0} элитных врагов за один забег, используя перегрузку"
+ACHIEVEMENT_ELITE_HUNTER_NAME,56849805074432,Elite Hunter,Охотник на элиту
+ACHIEVEMENT_EXECUTIONER_DESC,50954526253056,Kill {0} enemies in a single stage,Убейте {0} врагов за один этап
+ACHIEVEMENT_EXECUTIONER_NAME,56849805074433,Executioner,Палач-каратель
+ACHIEVEMENT_EXECUTION_DESC,50954564001800,Defeat {0} boss,Победите {0} босса
+ACHIEVEMENT_EXECUTION_NAME,56849876377600,Execution,Казнь
+ACHIEVEMENT_EYE_OF_THE_STORM_DESC,50954526253057,"At any moment, have {0} enemies within {1}m of you",В любой момент имейте {0} врагов в пределах {1}м от себя
+ACHIEVEMENT_EYE_OF_THE_STORM_NAME,56849805074434,Eye of the Storm,Око бури
+ACHIEVEMENT_FALLING_STAR_DESC,50954526253058,Kill {0} enemies with {1} while any Challenge is active,"Убейте {0} врагов с помощью {1}, пока активен любой челлендж"
+ACHIEVEMENT_FALLING_STAR_NAME,56849809268736,Falling Star,Падающая звезда
+ACHIEVEMENT_FIRST_SEAL_DESC,50954576584706,"During The Collapse, close your first Rift.",Во время Коллапса закройте свой первый Разлом.
+ACHIEVEMENT_FIRST_SEAL_NAME,56849888960515,First Seal,Первая печать
+ACHIEVEMENT_GOLDEN_OPPORTUNITY_DESC,50954526253059,Open {0} locked chests within {1} minutes after starting the game,Откройте {0} запертых сундуков в течение {1} минут после начала игры
+ACHIEVEMENT_GOLDEN_OPPORTUNITY_NAME,56849809268737,Golden Opportunity,Золотая возможность
+ACHIEVEMENT_GOLD_HOARDER_III_DESC,50954564001793,Collect {0} gold in total.,Соберите {0} золота в сумме.
+ACHIEVEMENT_GOLD_HOARDER_III_NAME,56849872183296,Gold Hoarder III,Скопидом золота III
+ACHIEVEMENT_GOLD_HOARDER_II_DESC,50954564001792,Collect {0} gold in total.,Соберите {0} золота в сумме.
+ACHIEVEMENT_GOLD_HOARDER_II_NAME,56849867988997,Gold Hoarder II,Скопидом золота II
+ACHIEVEMENT_GOLD_HOARDER_IV_DESC,50954564001794,Collect {0} gold in total.,Соберите {0} золота в сумме.
+ACHIEVEMENT_GOLD_HOARDER_IV_NAME,56849872183297,Gold Hoarder IV,Скопидом золота IV
+ACHIEVEMENT_GOLD_HOARDER_I_DESC,50954559807494,Collect {0} gold in total.,Соберите {0} золота в сумме.
+ACHIEVEMENT_GOLD_HOARDER_I_NAME,56849867988996,Gold Hoarder I,Скопидом золота I
+ACHIEVEMENT_GOLD_RUSH_III_DESC,50954580779011,Collect {0} gold in a single run.,Соберите {0} золота за один забег.
+ACHIEVEMENT_GOLD_RUSH_III_NAME,56849897349122,Gold Rush III,Золотая лихорадка III
+ACHIEVEMENT_GOLD_RUSH_II_DESC,50954580779010,Collect {0} gold in a single run.,Соберите {0} золота за один забег.
+ACHIEVEMENT_GOLD_RUSH_II_NAME,56849897349121,Gold Rush II,Золотая лихорадка II
+ACHIEVEMENT_GOLD_RUSH_IV_DESC,50954580779012,Collect {0} gold in a single run.,Соберите {0} золота за один забег.
+ACHIEVEMENT_GOLD_RUSH_IV_NAME,56849897349123,Gold Rush IV,Золотая лихорадка IV
+ACHIEVEMENT_GOLD_RUSH_I_DESC,50954580779009,Collect {0} gold in a single run.,Соберите {0} золота за один забег.
+ACHIEVEMENT_GOLD_RUSH_I_NAME,56849897349120,Gold Rush I,Золотая лихорадка I
+ACHIEVEMENT_GOLD_RUSH_V_DESC,50954580779013,Collect {0} gold in a single run.,Соберите {0} золота за один забег.
+ACHIEVEMENT_GOLD_RUSH_V_NAME,56849897349124,Gold Rush V,Золотая лихорадка V
+ACHIEVEMENT_GRAVEBREAKER_III_DESC,50954564001797,Break {0} destructible objects in total.,Уничтожьте {0} разрушаемых объектов в сумме.
+ACHIEVEMENT_GRAVEBREAKER_III_NAME,56849872183300,Gravebreaker III,Сокрушитель могил III
+ACHIEVEMENT_GRAVEBREAKER_II_DESC,50954564001796,Break {0} destructible objects in total.,Уничтожьте {0} разрушаемых объектов в сумме.
+ACHIEVEMENT_GRAVEBREAKER_II_NAME,56849872183299,Gravebreaker II,Сокрушитель могил II
+ACHIEVEMENT_GRAVEBREAKER_IV_DESC,50954564001798,Break {0} destructible objects in total.,Уничтожьте {0} разрушаемых объектов в сумме.
+ACHIEVEMENT_GRAVEBREAKER_IV_NAME,56849872183301,Gravebreaker IV,Сокрушитель могил IV
+ACHIEVEMENT_GRAVEBREAKER_I_DESC,50954564001795,Break {0} destructible objects in total.,Уничтожьте {0} разрушаемых объектов в сумме.
+ACHIEVEMENT_GRAVEBREAKER_I_NAME,56849872183298,Gravebreaker I,Сокрушитель могил I
+ACHIEVEMENT_GREEN_DEATH_DESC,50954526253060,Slay Elite that has {0}+ {1} stacks,"Убейте элиту, имеющую {0}+ стаков {1}"
+ACHIEVEMENT_GREEN_DEATH_NAME,56849813463040,Green Death,Зелёная смерть
+ACHIEVEMENT_HELL_S_DISCIPLE_DESC,50954530447360,Complete any stage after activating {0}+ Effigies,"Завершите любой этап, активировав {0}+ идолов"
+ACHIEVEMENT_HELL_S_DISCIPLE_NAME,56849813463041,Hell's Disciple,Ученик Ада
+ACHIEVEMENT_HORDE_REAPER_III_DESC,50954568196102,Slay {0} enemies in total.,Убейте {0} врагов в сумме.
+ACHIEVEMENT_HORDE_REAPER_III_NAME,56849880571905,Horde Reaper III,Жнец орды III
+ACHIEVEMENT_HORDE_REAPER_II_DESC,50954568196101,Slay {0} enemies in total.,Убейте {0} врагов в сумме.
+ACHIEVEMENT_HORDE_REAPER_II_NAME,56849880571904,Horde Reaper II,Жнец орды II
+ACHIEVEMENT_HORDE_REAPER_IV_DESC,50954568196103,Slay {0} enemies in total.,Убейте {0} врагов в сумме.
+ACHIEVEMENT_HORDE_REAPER_IV_NAME,56849880571906,Horde Reaper IV,Жнец орды IV
+ACHIEVEMENT_HORDE_REAPER_I_DESC,50954568196100,Slay {0} enemies in total.,Убейте {0} врагов в сумме.
+ACHIEVEMENT_HORDE_REAPER_I_NAME,56849876377606,Horde Reaper I,Жнец орды I
+ACHIEVEMENT_HORDE_REAPER_V_DESC,50954568196104,Slay {0} enemies in total.,Убейте {0} врагов в сумме.
+ACHIEVEMENT_HORDE_REAPER_V_NAME,56849880571907,Horde Reaper V,Жнец орды V
+ACHIEVEMENT_HOT_ORBIT_DESC,50954530447361,Hit {0} Burning enemies with {1} in a single stage,Поразите {0} горящих врагов с помощью {1} за один этап
+ACHIEVEMENT_HOT_ORBIT_NAME,56849813463042,Hot Orbit,Жаркая орбита
+ACHIEVEMENT_HUMBLE_VICTORY_DESC,50954530447362,Defeat the {0} boss without triggering Overcharge during the entire run,Победите босса {0} без срабатывания перегрузки за весь забег
+ACHIEVEMENT_HUMBLE_VICTORY_NAME,56849817657344,Humble Victory,Скромная победа
+ACHIEVEMENT_IDOL_WORSHIPPER_DESC,50954530447363,Activate {0} Effigies during a single run,Активируйте {0} идолов за один забег
+ACHIEVEMENT_IDOL_WORSHIPPER_NAME,56849817657345,Idol Worshipper,Идолопоклонник
+ACHIEVEMENT_IGNITING_THE_COIL_DESC,50954534641664,Crit {0} Burning enemies with {1} in a single run,Нанесите крит {0} горящим врагам с помощью {1} за один забег
+ACHIEVEMENT_IGNITING_THE_COIL_NAME,56849821851648,Igniting the Coil,Поджигая катушку
+ACHIEVEMENT_INFUSION_OF_POWER_DESC,50954564001801,Infuse an item for the first time.,Наполните предмет впервые.
+ACHIEVEMENT_INFUSION_OF_POWER_NAME,56849876377601,Infusion of Power,Наполнение силой
+ACHIEVEMENT_MAGIC_SHIELD_DESC,50954534641665,Take {0} magic damage in a single run,Получите {0} магического урона за один забег
+ACHIEVEMENT_MAGIC_SHIELD_NAME,56849821851649,Magic Shield,Магический щит
+ACHIEVEMENT_MARKED_BY_THE_STORM_DESC,50954534641666,Extend {1} to {0} second duration,Продлите {1} до {0} секунд длительности
+ACHIEVEMENT_MARKED_BY_THE_STORM_NAME,56849826045952,Marked By The Storm,Меченный бурей
+ACHIEVEMENT_MASOCHIST_DESC,50954534641667,Open chest when there is Champion or Elite within {1}m of you while below {0}% health,"Откройте сундук, когда чемпион или элита находится в пределах {1}м от вас, при здоровье ниже {0}%"
+ACHIEVEMENT_MASOCHIST_NAME,56849826045953,Masochist,Мазохист
+ACHIEVEMENT_MASSACRE_III_DESC,50954589167617,Slay {0} enemies in a single run.,Убейте {0} врагов за один забег.
+ACHIEVEMENT_MASSACRE_III_NAME,56849909932032,Massacre III,Бойня III
+ACHIEVEMENT_MASSACRE_II_DESC,50954589167616,Slay {0} enemies in a single run.,Убейте {0} врагов за один забег.
+ACHIEVEMENT_MASSACRE_II_NAME,56849905737733,Massacre II,Бойня II
+ACHIEVEMENT_MASSACRE_IV_DESC,50954589167618,Slay {0} enemies in a single run.,Убейте {0} врагов за один забег.
+ACHIEVEMENT_MASSACRE_IV_NAME,56849909932033,Massacre IV,Бойня IV
+ACHIEVEMENT_MASSACRE_I_DESC,50954584973320,Slay {0} enemies in a single run.,Убейте {0} врагов за один забег.
+ACHIEVEMENT_MASSACRE_I_NAME,56849905737732,Massacre I,Бойня I
+ACHIEVEMENT_MASSACRE_V_DESC,50954589167619,Slay {0} enemies in a single run.,Убейте {0} врагов за один забег.
+ACHIEVEMENT_MASSACRE_V_NAME,56849909932034,Massacre V,Бойня V
+ACHIEVEMENT_NIGHT_WATCH_III_DESC,50954589167625,Survive {0} minutes in a single run.,Продержитесь {0} минут за один забег.
+ACHIEVEMENT_NIGHT_WATCH_III_NAME,56849914126336,Night Watch III,Ночная стража III
+ACHIEVEMENT_NIGHT_WATCH_II_DESC,50954589167624,Survive {0} minutes in a single run.,Продержитесь {0} минут за один забег.
+ACHIEVEMENT_NIGHT_WATCH_II_NAME,56849909932039,Night Watch II,Ночная стража II
+ACHIEVEMENT_NIGHT_WATCH_IV_DESC,50954589167626,Survive {0} minutes in a single run.,Продержитесь {0} минут за один забег.
+ACHIEVEMENT_NIGHT_WATCH_IV_NAME,56849914126337,Night Watch IV,Ночная стража IV
+ACHIEVEMENT_NIGHT_WATCH_I_DESC,50954589167623,Survive {0} minutes in a single run.,Продержитесь {0} минут за один забег.
+ACHIEVEMENT_NIGHT_WATCH_I_NAME,56849909932038,Night Watch I,Ночная стража I
+ACHIEVEMENT_NIGHT_WATCH_V_DESC,50954589167627,Survive {0} minutes in a single run.,Продержитесь {0} минут за один забег.
+ACHIEVEMENT_NIGHT_WATCH_V_NAME,56849914126338,Night Watch V,Ночная стража V
+ACHIEVEMENT_NO_ESCAPE_DESC,50954538835968,Don't use dash during a boss fight,Не используйте рывок во время боя с боссом
+ACHIEVEMENT_NO_ESCAPE_NAME,56849826045954,No Escape,Не уйти
+ACHIEVEMENT_ONE_SHOT_WONDER_DESC,50954538835969,Kill {0} Elites within {1} seconds of each other,Убейте {0} элит в течение {1} секунд друг за другом
+ACHIEVEMENT_ONE_SHOT_WONDER_NAME,56849830240256,One-Shot Wonder,Чудо одного удара
+ACHIEVEMENT_ORBITAL_CLEANUP_DESC,50954538835970,Break {0} destructibles with {1} in one run,Уничтожьте {0} разрушаемых объектов с помощью {1} за один забег
+ACHIEVEMENT_ORBITAL_CLEANUP_NAME,56849830240257,Orbital Cleanup,Орбитальная зачистка
+ACHIEVEMENT_OVERTIME_EXORCIST_DESC,50954576584708,Close {0} Rifts during a single Collapse.,Закройте {0} Разломов за один Коллапс.
+ACHIEVEMENT_OVERTIME_EXORCIST_NAME,56849893154817,Overtime Exorcist,Экзорцист овертайма
+ACHIEVEMENT_POWER_FORGED_DESC,50954564001799,Empower an item for the first time.,Усильте предмет впервые.
+ACHIEVEMENT_POWER_FORGED_NAME,56849872183302,Power Forged,Выкован силой
+ACHIEVEMENT_RED_LINE_DESC,50954543030272,Complete an entire stage without healing above {0}% Life,"Завершите весь этап, не восстанавливая здоровье выше {0}%"
+ACHIEVEMENT_RED_LINE_NAME,56849834434560,Red Line,Красная черта
+ACHIEVEMENT_REIGN_OF_DEATH_DESC,50954543030273,Defeat {0} boss,Победите {0} босса
+ACHIEVEMENT_REIGN_OF_DEATH_NAME,56849834434561,Reign of Death,Царство смерти
+ACHIEVEMENT_RIFT_BREAKER_DESC,50954576584707,Close {0} Rifts during a single Collapse.,Закройте {0} Разломов за один Коллапс.
+ACHIEVEMENT_RIFT_BREAKER_NAME,56849893154816,Rift Breaker,Сокрушитель разломов
+ACHIEVEMENT_RISING_POWER_III_DESC,50954584973317,Reach hero level {0} in a single run.,Достигните уровня героя {0} за один забег.
+ACHIEVEMENT_RISING_POWER_III_NAME,56849905737729,Rising Power III,Восходящая сила III
+ACHIEVEMENT_RISING_POWER_II_DESC,50954584973316,Reach hero level {0} in a single run.,Достигните уровня героя {0} за один забег.
+ACHIEVEMENT_RISING_POWER_II_NAME,56849905737728,Rising Power II,Восходящая сила II
+ACHIEVEMENT_RISING_POWER_IV_DESC,50954584973318,Reach hero level {0} in a single run.,Достигните уровня героя {0} за один забег.
+ACHIEVEMENT_RISING_POWER_IV_NAME,56849905737730,Rising Power IV,Восходящая сила IV
+ACHIEVEMENT_RISING_POWER_I_DESC,50954584973315,Reach hero level {0} in a single run.,Достигните уровня героя {0} за один забег.
+ACHIEVEMENT_RISING_POWER_I_NAME,56849901543429,Rising Power I,Восходящая сила I
+ACHIEVEMENT_RISING_POWER_V_DESC,50954584973319,Reach hero level {0} in a single run.,Достигните уровня героя {0} за один забег.
+ACHIEVEMENT_RISING_POWER_V_NAME,56849905737731,Rising Power V,Восходящая сила V
+ACHIEVEMENT_ROOTED_DEFIANCE_DESC,50954543030274,Complete a stage without dashing and without going under {0}% life.,"Завершите этап, не используя рывок и не опускаясь ниже {0}% здоровья."
+ACHIEVEMENT_ROOTED_DEFIANCE_NAME,56849834434562,Rooted Defiance,Несгибаемое упорство
+ACHIEVEMENT_RUNE_KEEPER_III_DESC,50954559807491,Capture {0} Runestones in total.,Захватите {0} рунных камней в сумме.
+ACHIEVEMENT_RUNE_KEEPER_III_NAME,56849867988993,Rune Keeper III,Хранитель рун III
+ACHIEVEMENT_RUNE_KEEPER_II_DESC,50954559807490,Capture {0} Runestones in total.,Захватите {0} рунных камней в сумме.
+ACHIEVEMENT_RUNE_KEEPER_II_NAME,56849867988992,Rune Keeper II,Хранитель рун II
+ACHIEVEMENT_RUNE_KEEPER_IV_DESC,50954559807492,Capture {0} Runestones in total.,Захватите {0} рунных камней в сумме.
+ACHIEVEMENT_RUNE_KEEPER_IV_NAME,56849867988994,Rune Keeper IV,Хранитель рун IV
+ACHIEVEMENT_RUNE_KEEPER_I_DESC,50954559807489,Capture {0} Runestones in total.,Захватите {0} рунных камней в сумме.
+ACHIEVEMENT_RUNE_KEEPER_I_NAME,56849863794689,Rune Keeper I,Хранитель рун I
+ACHIEVEMENT_RUNE_KEEPER_V_DESC,50954559807493,Capture {0} Runestones in total.,Захватите {0} рунных камней в сумме.
+ACHIEVEMENT_RUNE_KEEPER_V_NAME,56849867988995,Rune Keeper V,Хранитель рун V
+ACHIEVEMENT_RUNE_RUSH_III_DESC,50954576584711,Capture {0} Runestones in a single run.,Захватите {0} рунных камней за один забег.
+ACHIEVEMENT_RUNE_RUSH_III_NAME,56849893154820,Rune Rush III,Рунный рывок III
+ACHIEVEMENT_RUNE_RUSH_II_DESC,50954576584710,Capture {0} Runestones in a single run.,Захватите {0} рунных камней за один забег.
+ACHIEVEMENT_RUNE_RUSH_II_NAME,56849893154819,Rune Rush II,Рунный рывок II
+ACHIEVEMENT_RUNE_RUSH_IV_DESC,50954576584712,Capture {0} Runestones in a single run.,Захватите {0} рунных камней за один забег.
+ACHIEVEMENT_RUNE_RUSH_IV_NAME,56849893154821,Rune Rush IV,Рунный рывок IV
+ACHIEVEMENT_RUNE_RUSH_I_DESC,50954576584709,Capture {0} Runestones in a single run.,Захватите {0} рунных камней за один забег.
+ACHIEVEMENT_RUNE_RUSH_I_NAME,56849893154818,Rune Rush I,Рунный рывок I
+ACHIEVEMENT_RUNE_RUSH_V_DESC,50954580779008,Capture {0} Runestones in a single run.,Захватите {0} рунных камней за один забег.
+ACHIEVEMENT_RUNE_RUSH_V_NAME,56849893154822,Rune Rush V,Рунный рывок V
+ACHIEVEMENT_SCRAP_DAWN_DESC,50954568196096,Salvage an item for the first time.,Разберите предмет впервые.
+ACHIEVEMENT_SCRAP_DAWN_NAME,56849876377602,Scrap Dawn,Рассвет лома
+ACHIEVEMENT_SCRAP_MASTER_III_DESC,50954568196099,Salvage {0} items in total.,Разберите {0} предметов в сумме.
+ACHIEVEMENT_SCRAP_MASTER_III_NAME,56849876377605,Scrap Master III,Мастер лома III
+ACHIEVEMENT_SCRAP_MASTER_II_DESC,50954568196098,Salvage {0} items in total.,Разберите {0} предметов в сумме.
+ACHIEVEMENT_SCRAP_MASTER_II_NAME,56849876377604,Scrap Master II,Мастер лома II
+ACHIEVEMENT_SCRAP_MASTER_I_DESC,50954568196097,Salvage {0} items in total.,Разберите {0} предметов в сумме.
+ACHIEVEMENT_SCRAP_MASTER_I_NAME,56849876377603,Scrap Master I,Мастер лома I
+ACHIEVEMENT_SELF_MADE_DESC,50954543030275,Earn {0} gold in a single stage without opening any chests,"Заработайте {0} золота за один этап, не открывая ни одного сундука"
+ACHIEVEMENT_SELF_MADE_NAME,56849838628864,Self Made,Сам себя сделал
+ACHIEVEMENT_SHACKLE_SHOCK_DESC,50954543030276,Deal {0} damage with {1} in one run,Нанесите {0} урона с помощью {1} за один забег
+ACHIEVEMENT_SHACKLE_SHOCK_NAME,56849838628865,Shackle Shock,Шок оков
+ACHIEVEMENT_SKELETON_SLAYER_III_DESC,50954572390401,Slay {0} Skeletons in total.,Убейте {0} скелетов в сумме.
+ACHIEVEMENT_SKELETON_SLAYER_III_NAME,56849880571910,Skeleton Slayer III,Истребитель скелетов III
+ACHIEVEMENT_SKELETON_SLAYER_II_DESC,50954572390400,Slay {0} Skeletons in total.,Убейте {0} скелетов в сумме.
+ACHIEVEMENT_SKELETON_SLAYER_II_NAME,56849880571909,Skeleton Slayer II,Истребитель скелетов II
+ACHIEVEMENT_SKELETON_SLAYER_I_DESC,50954568196105,Slay {0} Skeletons in total.,Убейте {0} скелетов в сумме.
+ACHIEVEMENT_SKELETON_SLAYER_I_NAME,56849880571908,Skeleton Slayer I,Истребитель скелетов I
+ACHIEVEMENT_SOUL_COLLECTOR_DESC,50954547224576,Gain {0} levels within a single stage,Получите {0} уровней в рамках одного этапа
+ACHIEVEMENT_SOUL_COLLECTOR_NAME,56849838628866,Soul Collector,Собиратель душ
+ACHIEVEMENT_SPECTRE_HUNTER_III_DESC,50954589167622,"Slay {0} Spectres in a single run, while the Exit is open.","Убейте {0} призраков за один забег, пока открыт Выход."
+ACHIEVEMENT_SPECTRE_HUNTER_III_NAME,56849909932037,Spectre Hunter III,Охотник на призраков III
+ACHIEVEMENT_SPECTRE_HUNTER_II_DESC,50954589167621,"Slay {0} Spectres in a single run, while the Exit is open.","Убейте {0} призраков за один забег, пока открыт Выход."
+ACHIEVEMENT_SPECTRE_HUNTER_II_NAME,56849909932036,Spectre Hunter II,Охотник на призраков II
+ACHIEVEMENT_SPECTRE_HUNTER_I_DESC,50954589167620,"Slay {0} Spectres in a single run, while the Exit is open.","Убейте {0} призраков за один забег, пока открыт Выход."
+ACHIEVEMENT_SPECTRE_HUNTER_I_NAME,56849909932035,Spectre Hunter I,Охотник на призраков I
+ACHIEVEMENT_SPREADING_THE_PLAGUE_DESC,50954547224577,Infect {0} enemies with {1} using {2} in one stage,Заразите {0} врагов эффектом {1} с помощью {2} за один этап
+ACHIEVEMENT_SPREADING_THE_PLAGUE_NAME,56849842823168,Spreading the Plague,Распространяя чуму
+ACHIEVEMENT_STATUE_DESC,50954547224578,Stand still during the entire stage until Obelisk is charged,"Стойте неподвижно весь этап, пока Обелиск не зарядится"
+ACHIEVEMENT_STATUE_NAME,56849842823169,Statue,Статуя
+ACHIEVEMENT_STATUS_COLLECTOR_DESC,50954547224579,Kill Elite with {0}+ status effects,Убейте элиту с {0}+ эффектами
+ACHIEVEMENT_STATUS_COLLECTOR_NAME,56849847017472,Status Collector,Собиратель эффектов
+ACHIEVEMENT_STORM_CHASER_DESC,50954547224580,Deal {0} {1} damage in a single run,Нанесите {0} урона типа {1} за один забег
+ACHIEVEMENT_STORM_CHASER_NAME,56849847017473,Storm Chaser,Преследователь бури
+ACHIEVEMENT_STORM_IS_COMING_DESC,50954551418880,Deal {0} damage with {1} in a single run,Нанесите {0} урона с помощью {1} за один забег
+ACHIEVEMENT_STORM_IS_COMING_NAME,56849847017474,Storm is Coming,Грядёт буря
+ACHIEVEMENT_SURGE_PROTOCOL_DESC,50954551418881,Use Overcharge {0} times during a single stage,Используйте перегрузку {0} раз за один этап
+ACHIEVEMENT_SURGE_PROTOCOL_NAME,56849847017475,Surge Protocol,Протокол всплеска
+ACHIEVEMENT_SURGE_SURVIVOR_DESC,50954551418882,Use Overcharge {0} times in a single run while below {1}% HP each time,"Используйте перегрузку {0} раз за один забег, каждый раз имея меньше {1}% HP"
+ACHIEVEMENT_SURGE_SURVIVOR_NAME,56849851211776,Surge Survivor,Выживший на всплеске
+ACHIEVEMENT_SURVIVOR_S_TIME_III_DESC,50954572390404,Survive {0} minutes in total.,Продержитесь {0} минут в сумме.
+ACHIEVEMENT_SURVIVOR_S_TIME_III_NAME,56849884766210,Survivor's Time III,Время выжившего III
+ACHIEVEMENT_SURVIVOR_S_TIME_II_DESC,50954572390403,Survive {0} minutes in total.,Продержитесь {0} минут в сумме.
+ACHIEVEMENT_SURVIVOR_S_TIME_II_NAME,56849884766209,Survivor's Time II,Время выжившего II
+ACHIEVEMENT_SURVIVOR_S_TIME_IV_DESC,50954572390405,Survive {0} minutes in total.,Продержитесь {0} минут в сумме.
+ACHIEVEMENT_SURVIVOR_S_TIME_IV_NAME,56849884766211,Survivor's Time IV,Время выжившего IV
+ACHIEVEMENT_SURVIVOR_S_TIME_I_DESC,50954572390402,Survive {0} minutes in total.,Продержитесь {0} минут в сумме.
+ACHIEVEMENT_SURVIVOR_S_TIME_I_NAME,56849884766208,Survivor's Time I,Время выжившего I
+ACHIEVEMENT_SURVIVOR_S_TIME_V_DESC,50954572390406,Survive {0} minutes in total.,Продержитесь {0} минут в сумме.
+ACHIEVEMENT_SURVIVOR_S_TIME_V_NAME,56849884766212,Survivor's Time V,Время выжившего V
+ACHIEVEMENT_TIME_BENDER_DESC,50954551418883,Slay {0} enemies that are frozen,Убейте {0} замороженных врагов
+ACHIEVEMENT_TIME_BENDER_NAME,56849851211777,Time Bender,Властелин времени
+ACHIEVEMENT_TOTAL_DOMINATION_DESC,50954551418884,"Activate all Runestones, Effigies and open Locked chests in a single stage","Активируйте все рунные камни, идолов и откройте запертые сундуки за один этап"
+ACHIEVEMENT_TOTAL_DOMINATION_NAME,56849855406080,Total Domination,Полное господство
+ACHIEVEMENT_TREASURE_HUNTER_DESC,50954555613184,Open every locked chest in all stages before exiting stage {0}.,"Откройте каждый запертый сундук на всех этапах, прежде чем покинуть этап {0}."
+ACHIEVEMENT_TREASURE_HUNTER_NAME,56849855406081,Treasure Hunter,Охотник за сокровищами
+ACHIEVEMENT_UNDERCRYPT_CONQUEROR_III_DESC,50954576584705,Complete Undercrypt Tier 3.,Завершите Подсклеп Ранга 3.
+ACHIEVEMENT_UNDERCRYPT_CONQUEROR_III_NAME,56849888960514,Undercrypt Conqueror III,Покоритель Подсклепа III
+ACHIEVEMENT_UNDERCRYPT_CONQUEROR_II_DESC,50954576584704,Complete Undercrypt Tier 2.,Завершите Подсклеп Ранга 2.
+ACHIEVEMENT_UNDERCRYPT_CONQUEROR_II_NAME,56849888960513,Undercrypt Conqueror II,Покоритель Подсклепа II
+ACHIEVEMENT_UNDERCRYPT_CONQUEROR_I_DESC,50954572390407,Complete Undercrypt Tier 1.,Завершите Подсклеп Ранга 1.
+ACHIEVEMENT_UNDERCRYPT_CONQUEROR_I_NAME,56849888960512,Undercrypt Conqueror I,Покоритель Подсклепа I
+ACHIEVEMENT_WALK_INTO_IT_DESC,50954555613185,Make a boss cross your {1} {0} times,Заставьте босса пересечь ваш {1} {0} раз
+ACHIEVEMENT_WALK_INTO_IT_NAME,56849859600384,Walk into It,Сам напросился
+ACHIEVEMENT_ZERO_TO_HERO_DESC,50954555613186,Defeat {0} boss without having any ability,"Победите {0} босса, не имея ни одной способности"
+ACHIEVEMENT_ZERO_TO_HERO_NAME,56849859600385,Zero to Hero,Из грязи в князи
+ACHIEVEMENT_ZONE_COMMANDER_DESC,50954555613187,"Capture all Runestones in {0} consecutive stages, without leaving capture area","Захватите все рунные камни на {0} этапах подряд, не покидая зону захвата"
+ACHIEVEMENT_ZONE_COMMANDER_NAME,56849859600386,Zone Commander,Командир зоны
+BOSS_CRYPT_PRINCE_NAME,764089805561856,Crypt Prince,Принц склепа
+BOSS_NECROMANCER_NAME,763957752094720,Necromancer,Некромант
+BOSS_OFFERING_GREATER_DIFFICULTY_DESC,56850379694094,Boss: Dread Presence,Босс: Гнетущее присутствие
+BOSS_OFFERING_GREATER_GEAR_DESC,56850379694096,Guaranteed Major Affix,Гарантированный главный аффикс
+BOSS_OFFERING_GREATER_LOOT_DESC,56850379694095,Guaranteed Legendary,Гарантированный легендарный предмет
+BOSS_OFFERING_GREATER_NAME,56850379694093,Greater Offer,Великое предложение
+BOSS_OFFERING_GREATER_SCORE_REWARD_DESC,56850379694097,Score Reward: {finalScoreReward},Награда очками: {finalScoreReward}
+BOSS_OFFERING_LESSER_DIFFICULTY_DESC,56850379694085,Boss: Standard Presence,Босс: Обычное присутствие
+BOSS_OFFERING_LESSER_LOOT_DESC,56850379694086,Guaranteed Legendary,Гарантированный легендарный предмет
+BOSS_OFFERING_LESSER_NAME,56850379694084,Lesser Offer,Малое предложение
+BOSS_OFFERING_LESSER_SCORE_REWARD_DESC,56850379694087,Score Reward: {finalScoreReward},Награда очками: {finalScoreReward}
+BOSS_OFFERING_MAJOR_DIFFICULTY_DESC,56850379694089,Boss: Empowered Presence,Босс: Усиленное присутствие
+BOSS_OFFERING_MAJOR_GEAR_DESC,56850379694091,Chance for Major Affix,Шанс на главный аффикс
+BOSS_OFFERING_MAJOR_LOOT_DESC,56850379694090,Guaranteed Legendary,Гарантированный легендарный предмет
+BOSS_OFFERING_MAJOR_NAME,56850379694088,Major Offer,Большое предложение
+BOSS_OFFERING_MAJOR_SCORE_REWARD_DESC,56850379694092,Score Reward: {finalScoreReward},Награда очками: {finalScoreReward}
+BOSS_THE_EXECUTOR_NAME,764169438617600,The Executor,Палач
+CHALLENGE_BLOOD_WORMS_DESC,50954601750528,"Slay Blood Worms within this area, then kill their Queen","Убейте кровавых червей в этой зоне, затем убейте их Королеву"
+CHALLENGE_BLOOD_WORMS_NAME,56849926709248,Blood Worms,Кровавые черви
+CHALLENGE_BLOOD_WORMS_SHORT_DESC,50954601750529,Blood Worms to slay: {0},Кровавых червей убить: {0}
+CHALLENGE_PYLONS_OF_BLOOD_DESC,50954605944832,Feed Blood Pylons by slaying enemies within their area,"Кормите Кровавые пилоны, убивая врагов в их области"
+CHALLENGE_PYLONS_OF_BLOOD_NAME,56849930903552,Pylons of Blood,Пилоны крови
+CHALLENGE_PYLONS_OF_BLOOD_SHORT_DESC,50954605944833,Pylons to feed: {0},Пилонов накормить: {0}
+CHALLENGE_REWARD_PICK_MORPH_DESC,56850379694099,Choose a Morph,Выберите морф
+CHALLENGE_REWARD_PICK_POWERUP_DESC,56850379694098,Pick 1 Powerup,Выберите 1 усиление
+CHALLENGE_REWARD_TREASURE_CHEST_DESC,56850379694100,Epic Treasure Chest,Эпический сундук с сокровищами
+CHALLENGE_TUMOUR_PURGE_DESC,50954605944834,Destroy 3 Blood Tumours,Уничтожьте 3 кровавые опухоли
+CHALLENGE_TUMOUR_PURGE_NAME,56849930903553,Tumour Purge,Зачистка опухолей
+CHALLENGE_TUMOUR_PURGE_SHORT_DESC,50954605944835,Tumors to destroy: {0},Опухолей уничтожить: {0}
+COLLECTIBLE_CHAOS_SHARD_DESC,50954605944836,"Gained by leveling Chaos Level, or completing Achievements",Получается за повышение уровня хаоса или за достижения
+COLLECTIBLE_CHAOS_SHARD_NAME,56849935097856,Chaos Shard,Осколок Хаоса
+COLLECTIBLE_DREADSTONE_DESC,50954610139136,Drops from captured Rifts,Выпадает из захваченных Разломов
+COLLECTIBLE_DREADSTONE_NAME,56849935097857,Dreadstone,Камень ужаса
+COLLECTIBLE_ETERNAL_ESSENCE_DESC,50954610139137,"Use to purchase points in the Eternal Tree.
+Drop from Rifts that spawn after Obelisk opens.","Используется для покупки очков в Вечном Древе.
+Выпадает из Разломов, появляющихся после открытия Обелиска."
+COLLECTIBLE_ETERNAL_ESSENCE_NAME,56849939292160,Eternal Essence,Вечная эссенция
+COLLECTIBLE_GOLD_NAME,56849935097858,Gold,Золото
+COLLECTIBLE_GRAYSTONE_NAME,56849935097859,Graystone,Серый камень
+COLLECTIBLE_MAGNET_NAME,1108891659132928,Magnet,Магнит
+COLLECTIBLE_PRISM_SHARD_DESC,50954610139138,"Produced by salvaging Legendary higher rarity gear items, or from defeating bosses.",Получается при разборе снаряжения легендарной и выше редкости или при победе над боссами.
+COLLECTIBLE_PRISM_SHARD_NAME,56849939292161,Prism Shard,Призменный осколок
+COLLECTIBLE_SCRAP_DESC,50954610139139,Produced by salvaging any gear items,Получается при разборе любого снаряжения
+COLLECTIBLE_SCRAP_NAME,56849939292162,Scrap,Лом
+COLLECTIBLE_STORMSILVER_NAME,56849935097860,Stormsilver,Грозовое серебро
+CONTENT_AILMENT_MASTER_DESC,50954723385344,Each unique active Status Effect on enemies grants {0} all damage,Каждый уникальный активный эффект на врагах даёт {0} ко всему урону
+CONTENT_ALTAR_OF_BLESSING_DESC,50954811465728,"+{0} Projectile Count bonus for each ability that triggers.
+Lasts {1} seconds","+{0} к числу снарядов за каждую сработавшую способность.
+Длится {1} с"
+CONTENT_BERSERKER_S_PACT_BANE_DESC,50954723385346,Take {0} more damage when bellow {1} life,"Получаете на {0} больше урона, когда здоровье ниже {1}"
+CONTENT_BERSERKER_S_PACT_DESC,50954723385345,{0} all damage for every {1} life missing,{0} ко всему урону за каждые {1} недостающего здоровья
+CONTENT_BLOODLUST_DESC,50954727579650,{0} All Damage Until Hit Taken,"{0} ко всему урону, пока не получите удар"
+CONTENT_BLOOD_SIP_DESC,50954916323334,Lifesteal Chance,Шанс вампиризма
+CONTENT_BOSS_HUNTER_DESC,50954727579648,{0} Dash Recharge during Boss fights,{0} к восстановлению рывка во время боёв с боссами
+CONTENT_BRUTAL_FORCE_DESC,50954916323339,Physical damage,Физический урон
+CONTENT_BURNING_DISCHARGE_DESC,50954849214464,Increases Critical Chance,Повышает шанс крита
+CONTENT_CRACKLING_POWER_DESC,50954916323335,Lightning damage,Урон молнией
+CONTENT_CRITICAL_CASCADE_DESC,50954727579649,Critical hits have {0} chance to trigger a random ability,Критические удары имеют {0} шанс запустить случайную способность
+CONTENT_CRITICAL_CHANCE_DESC,50954912129031,Increases critical chance,Повышает шанс крита
+CONTENT_CRITICAL_DAMAGE_DESC,50954912129032,Increases critical damage,Повышает критический урон
+CONTENT_CRYO_NOVA_DESC,50954865991682,Increases Cold Damage,Повышает холодный урон
+CONTENT_DEATHCOIL_POOL_DESC,50954853408771,Increases Necrotic Damage,Повышает некротический урон
+CONTENT_DEATH_CURSE_DESC,50954882768901,Increases Necrotic Damage,Повышает некротический урон
+CONTENT_DESPERATE_BARGAIN_BANE_DESC,50954727579652,Lose {0} of max life each {1} seconds,Теряете {0} от макс. здоровья каждые {1} с
+CONTENT_DESPERATE_BARGAIN_DESC,50954727579651,Restore {0} of max life per kill,Восстанавливает {0} от макс. здоровья за убийство
+CONTENT_ENDURANCE_DESC,50954916323336,Maximum life,Максимальное здоровье
+CONTENT_EXPLOSIVE_SPIKES_DESC,50954891157504,Increases Bleed Damage,Повышает урон кровотечения
+CONTENT_EXTRACTOR_DESC,50954916323332,Worker mining yield,Добыча рабочего при сборе
+CONTENT_FIREBALL_REPLICATION_DESC,50954857603074,Increases Fire Damage,Повышает огненный урон
+CONTENT_FLAME_RING_DESC,50954861797377,Increases Area Bonus,Повышает бонус площади
+CONTENT_FROSTBITE_MASTERY_DESC,50954912129029,Cold damage,Холодный урон
+CONTENT_GATHERER_DESC,50954916323331,Worker mining speed,Скорость рабочего при сборе
+CONTENT_GLIDE_LEAP_DESC,50954912129033,Increases dash distance,Повышает дальность рывка
+CONTENT_IRON_WARD_DESC,50954731773953,{0} Damage reduction for next {1} hits,{0} к снижению урона на следующие {1} удар(ов)
+CONTENT_JUDGMENT_DETONATION_DESC,50954870185986,Increases Physical Damage,Повышает физический урон
+CONTENT_KNOWLEDGE_COLLECTOR_DESC,50954912129030,Collect range,Радиус сбора
+CONTENT_KNOWLEDGE_IS_POWER_DESC,50954916323329,Increases experience gain,Повышает прирост опыта
+CONTENT_LARGER_ABILITIES_DESC,50954912129024,Increase size of all abilities,Увеличивает размер всех способностей
+CONTENT_LIGHTFALL_DESC,50954903740420,Increases Physical Damage,Повышает физический урон
+CONTENT_LINGERING_PAIN_DESC,50954912129027,Increases duration of Bleed,Увеличивает длительность кровотечения
+CONTENT_MADDENING_SPREE_BANE_DESC,50954731773955,"Every {0} hit taken removes all bonuses
+{1} Maximum Life","Каждый {0}-й полученный удар снимает все бонусы
+{1} к максимальному здоровью"
+CONTENT_MADDENING_SPREE_DESC,50954731773954,Every {0} kills without taking damage: {1} Move and Attack Speed ({2} Stacks Max),Каждые {0} убийств без получения урона: {1} к скорости передвижения и атаки (макс. {2} стак(ов))
+CONTENT_MIGHT_DESC,50954907934724,Increases all damage,Повышает весь урон
+CONTENT_MULTI_DASH_DESC,50954731773956,Gain {0} extra dash charge,Даёт {0} дополнительный заряд рывка
+CONTENT_OFFENSIVE_RECOVERY_DESC,50954735968256,Heal {0} life on Overcharge activation,Восстанавливает {0} здоровья при активации перегрузки
+CONTENT_OPEN_WOUNDS_DESC,50954912129026,Bleed damage,Урон кровотечения
+CONTENT_POWER_OVERFLOW_DESC,50954735968257,Overcharge damage {0} but cooldown {1},"Урон перегрузки {0}, но перезарядка {1}"
+CONTENT_PYROMANCER_S_GIFT_DESC,50954916323330,Fire damage,Огненный урон
+CONTENT_QUICK_REACTIONS_DESC,50954912129025,Main weapon attack speed,Скорость атаки основного оружия
+CONTENT_RAZOR_SKIN_DESC,50954916323341,Increases Thorns,Повышает шипы
+CONTENT_RENDING_CHAINS_DESC,50954891157506,Increases Bleed Duration,Увеличивает длительность кровотечения
+CONTENT_RUNESTONE_DESC,50954815660032,{0} XP Collect Range,{0} к радиусу сбора опыта
+CONTENT_SCORCHED_EARTH_DESC,50954878574596,Increases Burn Damage,Повышает урон горения
+CONTENT_SCORCHING_DESC,50954912129028,Burn damage,Урон горения
+CONTENT_SECOND_WIND_DESC,50954731773952,Heals {0} of Maximum Life,Восстанавливает {0} от максимального здоровья
+CONTENT_SHIELD_RESERVE_DESC,50954916323328,Energy capacity,Ёмкость энергии
+CONTENT_SPELL_DUPLICATION_DESC,50954916323340,Projectile count,Число снарядов
+CONTENT_SPIKE_BURST_DESC,50954895351809,Increases Bleed Damage,Повышает урон кровотечения
+CONTENT_STAMINA_DESC,50954916323333,Life Regeneration Cooldown,Перезарядка регена здоровья
+CONTENT_SWIFTNESS_DESC,50954916323337,Increases move speed,Повышает скорость передвижения
+CONTENT_SWIFT_RETRIBUTION_DESC,50954735968258,{0} Attack Speed for {1} seconds after Elite kills,{0} к скорости атаки на {1} с после убийства элиты
+CONTENT_TOTAL_DISCHARGE_DESC,50954735968259,Triggers all abilities on Overcharge activation,Запускает все способности при активации перегрузки
+CONTENT_UNHOLY_POWER_DESC,50954916323338,Necrotic damage,Некротический урон
+CONTENT_UNSTABLE_FOCUS_BANE_DESC,50954735968261,{0} Maximum Life,{0} к максимальному здоровью
+CONTENT_UNSTABLE_FOCUS_DESC,50954735968260,All critical hits deal double damage,Все критические удары наносят двойной урон
+CREATURE_TIER_BOSS_NAME,710000000000040,Boss,Босс
+CREATURE_TIER_CHAMPION_NAME,710000000000041,Champion,Чемпион
+CREATURE_TIER_ELITE_NAME,710000000000039,Elite,Элитный
+CREATURE_TIER_REGULAR_NAME,710000000000038,Regular,Обычный
+ETERNAL_TREE_MINOR_ABILITY_DAMAGE_BONUS_DESC,4696261056802816,{0} Ability Damage Bonus,{0} к бонусу урона способностей
+ETERNAL_TREE_MINOR_ARMOR_CAP_DESC,50954668859401,{0} Maximum Armor Cap,{0} к пределу брони
+ETERNAL_TREE_MINOR_ARMOR_DESC,50954668859400,{0} Armor,{0} к броне
+ETERNAL_TREE_MINOR_BASE_DAMAGE_DESC,50954668859402,"{0} Base Damage
+All your damage scales from this value.","{0} к базовому урону
+Весь ваш урон масштабируется от этого значения."
+ETERNAL_TREE_MINOR_CHALLENGE_GOLD_DESC,50954668859403,Challenges cost and reward {0} more gold,Челленджи стоят и дают на {0} больше золота
+ETERNAL_TREE_MINOR_COLLECT_RANGE_DESC,50954673053696,{0} Collect Range,{0} к радиусу сбора
+ETERNAL_TREE_MINOR_CRIT_DAMAGE_DESC,50954673053697,{0} Critical Damage,{0} к критическому урону
+ETERNAL_TREE_MINOR_ELITE_BONUS_DAMAGE_DESC,50954673053698,{0} Damage to Elites and Bosses,{0} к урону по элитам и боссам
+ETERNAL_TREE_MINOR_ENERGY_SHIELD_DESC,4698443084738560,{0} Energy Shield,{0} к энергощиту
+ETERNAL_TREE_MINOR_GOLD_FIND_DESC,50954673053699,{0} Gold Gain,{0} к приросту золота
+ETERNAL_TREE_MINOR_LIFESTEAL_DESC,50954673053701,"{0} Lifesteal
+{1} Evade Chance","{0} к вампиризму
+{1} к шансу уклонения"
+ETERNAL_TREE_MINOR_LIFE_REGEN_DESC,50954673053700,{0} Life Regeneration Cooldown,{0} к перезарядке регена здоровья
+ETERNAL_TREE_MINOR_MAGIC_RESIST_CAP_DESC,50954673053703,{0} Maximum Magic Resistance Cap,{0} к пределу магического сопротивления
+ETERNAL_TREE_MINOR_MAGIC_RESIST_DESC,50954673053702,{0} Magic Resistance,{0} к магическому сопротивлению
+ETERNAL_TREE_MINOR_MAX_LIFE_DESC,50954673053704,{0} Max Life,{0} к макс. здоровью
+ETERNAL_TREE_MINOR_MOVE_SPEED_DESC,50954673053705,{0} Move Speed,{0} к скорости передвижения
+ETERNAL_TREE_MINOR_OVERCHARGE_COOLDOWN_DESC,50954673053706,"{0} Overcharge Cooldown
+{1} Overcharge Damage","{0} к перезарядке перегрузки
+{1} к урону перегрузки"
+ETERNAL_TREE_MINOR_START_GOLD_DESC,50954677248001,{0} Starting Gold,{0} к стартовому золоту
+ETERNAL_TREE_MINOR_STATUS_DAMAGE_DESC,50954677248002,{0} Status Damage,{0} к урону эффектов
+ETERNAL_TREE_MINOR_THORNS_DESC,4700243196129280,{0} Thorns,{0} к шипам
+ETERNAL_TREE_NODE_ASSASIN_DESC,50954656276481,"<color=#777>Playstyle: Keep moving to build Ambush stacks, then Dash to unleash knives.</color>
+
+Move to gain Ambush stacks, up to {0}. Each stack grants +{1} Evasion and +{2} Crit Damage.
+
+Evading an attack grants +1 Ambush stack, up to {3} total. Taking damage removes {5} Ambush stacks.
+
+Dash consumes all stacks to throw knives backward for {4} damage per stack.","<color=#777>Стиль игры: двигайтесь, чтобы накапливать стаки Засады, затем используйте Рывок, чтобы выпустить ножи.</color>
+
+Движение даёт стаки Засады, до {0}. Каждый стак даёт +{1} к уклонению и +{2} к критическому урону.
+
+Уклонение от атаки даёт +1 стак Засады, до {3} всего. Получение урона снимает {5} стаков Засады.
+
+Рывок расходует все стаки, метая ножи назад на {4} урона за каждый стак."
+ETERNAL_TREE_NODE_ASSASIN_NAME,56849981235200,Assassin,Убийца
+ETERNAL_TREE_NODE_BONUS_NODE_DESC,50954656276482,Future bonus node. Increases value of nearby nodes.,Будущая бонусная нода. Увеличивает значение соседних нод.
+ETERNAL_TREE_NODE_CHALLENGER_S_MOMENTUM_DESC,50954664665089,Each Challenge completion grants {0} Movement Speed for the rest of that stage (resets next stage),Каждое завершение челленджа даёт {0} к скорости передвижения до конца этого этапа (сбрасывается на следующем этапе)
+ETERNAL_TREE_NODE_CHALLENGER_S_MOMENTUM_NAME,56849993818113,Challenger’s Momentum,Напор претендента
+ETERNAL_TREE_NODE_CHEST_BOUNTY_DESC,50954664665092,Each stage spawns {0} extra locked chests,Каждый этап порождает {0} дополнительных запертых сундуков
+ETERNAL_TREE_NODE_CHEST_BOUNTY_NAME,56849998012418,Chest Bounty,Награда из сундуков
+ETERNAL_TREE_NODE_FOCUS_DESC,50954656276483,"<color=#777>Playstyle: Avoid damage for as long as possible to gain damage boost.</color>
+
+After {0}s without taking damage, gain Focus (1 stack per {7}s), up to {1}.
+
+Each Focus stack grants {2} All Damage and {3} Cast Speed.
+
+Taking damage consumes all Focus to unleash Shatter Nova for {4} damage per stack and applies {5}. You cannot gain Focus for {6}s.","<color=#777>Стиль игры: избегайте урона как можно дольше, чтобы получить прибавку к урону.</color>
+
+После {0} с без получения урона вы получаете Фокус (1 стак за {7} с), до {1}.
+
+Каждый стак Фокуса даёт {2} ко всему урону и {3} к скорости каста.
+
+Получение урона расходует весь Фокус, выпуская Раскалывающую Нову на {4} урона за стак и накладывая {5}. Вы не можете получать Фокус {6} с."
+ETERNAL_TREE_NODE_FOCUS_NAME,56849985429504,Focus,Фокус
+ETERNAL_TREE_NODE_GOBLIN_DESC,50954660470784,"<color=#777>Playstyle: Hoard gold until Overcharge begins, then spend it rapidly to unleash Coinburst attacks.</color>
+
+<color=#F2FF8D><b>Goblin</b></color>
+<color=#A9A9A9><b>PASSIVE TRAITS</b></color>
+
+<color=#777>Playstyle: Save gold until <color=#F2FF8D><b>{0}<sprite name=""Gold""></b></color>, then spend it during <color=#F2FF8D><b>Overcharge</b></color>.</color>
+
+While below <color=#F2FF8D><b>{0}<sprite name=""Gold""></b></color>, gain <color=#F2FF8D><b>+{1}</b></color> Gold Gain.
+
+At <color=#F2FF8D><b>{0}<sprite name=""Gold""></b></color> or more, gain <color=#F2FF8D><b>+{2}</b></color> Cast Speed. During <color=#F2FF8D><b>Overcharge</b></color>, Main Attacks fire <color=#F2FF8D><b>Coinburst</b></color>, costing <color=#F2FF8D><b>{3}<sprite name=""Gold""></b></color> and dealing <color=#F2FF8D><b>{4}</b></color> damage.
+
+<space=0.6em><color=#333>────────────────────────</color><space=0.45em>
+
+<color=#888><b>GOLD CAP</b></color> <color=#777>({5}<sprite name=""Gold"">)</color>
+At max capacity, gold pickups reduce <color=#F2FF8D><b>Overcharge Cooldown</b></color> by <color=#F2FF8D><b>{6}s</b></color>.
+","<color=#777>Стиль игры: копите золото до начала Перегрузки, затем быстро тратьте его, выпуская атаки Монетного взрыва.</color>
+
+<color=#F2FF8D><b>Гоблин</b></color>
+<color=#A9A9A9><b>ПАССИВНЫЕ ТРЕЙТЫ</b></color>
+
+<color=#777>Стиль игры: копите золото до <color=#F2FF8D><b>{0}<sprite name=""Gold""></b></color>, затем тратьте во время <color=#F2FF8D><b>Перегрузки</b></color>.</color>
+
+Пока ниже <color=#F2FF8D><b>{0}<sprite name=""Gold""></b></color>, вы получаете <color=#F2FF8D><b>+{1}</b></color> к приросту золота.
+
+При <color=#F2FF8D><b>{0}<sprite name=""Gold""></b></color> и более вы получаете <color=#F2FF8D><b>+{2}</b></color> к скорости каста. Во время <color=#F2FF8D><b>Перегрузки</b></color> основные атаки выпускают <color=#F2FF8D><b>Монетный взрыв</b></color>, стоящий <color=#F2FF8D><b>{3}<sprite name=""Gold""></b></color> и наносящий <color=#F2FF8D><b>{4}</b></color> урона.
+
+<space=0.6em><color=#333>────────────────────────</color><space=0.45em>
+
+<color=#888><b>ПРЕДЕЛ ЗОЛОТА</b></color> <color=#777>({5}<sprite name=""Gold"">)</color>
+При максимальной ёмкости подбор золота сокращает <color=#F2FF8D><b>перезарядку перегрузки</b></color> на <color=#F2FF8D><b>{6}с</b></color>.
+"
+ETERNAL_TREE_NODE_GOBLIN_NAME,56849985429505,Goblin,Гоблин
+ETERNAL_TREE_NODE_JUGGERNAUT_DESC,50954660470785,"<color=#777>Playstyle: Heal beyond your maximum life to gain a buffer, then dive into enemies so taking hits releases Shockwaves.</color>
+
+Overhealing adds Overlife (up to {0} of Max Life). 
+
+While you have Overlife, taking damage releases a Shockwave, dealing {1} damage to nearby enemies.","<color=#777>Стиль игры: восполняйте здоровье сверх максимума, чтобы получить буфер, затем врывайтесь во врагов, чтобы получаемые удары высвобождали Ударные волны.</color>
+
+Избыточное лечение добавляет Сверхздоровье (до {0} от макс. здоровья).
+
+Пока у вас есть Сверхздоровье, получение урона высвобождает Ударную волну, нанося {1} урона ближайшим врагам."
+ETERNAL_TREE_NODE_JUGGERNAUT_NAME,56849989623808,Juggernaut,Джаггернаут
+ETERNAL_TREE_NODE_LEGEND_S_DAWN_DESC,50954664665088,Stage 1 spawns an extra legendary Sigil,На 1-м этапе появляется дополнительный легендарный Сигил
+ETERNAL_TREE_NODE_LEGEND_S_DAWN_NAME,56849993818112,Legend’s Dawn,Рассвет легенды
+ETERNAL_TREE_NODE_MAGNETISM_DESC,50954660470786,"<color=#777>Playstyle: Pause briefly to start Vacuum, then stand still to trigger Polarity.</color>
+
+After standing still for <color=#F2FF8D><b>{0}s</b></color>, you trigger <color=#F2FF8D><b>Vacuum</b></color>.
+
+While <color=#F2FF8D><b>Vacuum</b></color> is active, Collect Range increases by <color=#F2FF8D><b>{1}m</b></color> per second. Every <color=#F2FF8D><b>{2}</b></color> XP collected summons an orb that deals <color=#F2FF8D><b>{3}</b></color> in <color=#F2FF8D><b>{4}m</b></color>.
+
+After <color=#F2FF8D><b>Vacuum</b></color> lasts <color=#F2FF8D><b>{5}s</b></color>, receive <color=#F2FF8D><b>Polarity</b></color> for <color=#F2FF8D><b>{6}s</b></color>, giving <color=#F2FF8D><b>{7}</b></color> Projectile Count <color=#777>(projectile abilities only)</color> and <color=#F2FF8D><b>{8}</b></color> Ability Cast Speed.
+","<color=#777>Стиль игры: ненадолго остановитесь, чтобы запустить Вакуум, затем стойте на месте, чтобы вызвать Полярность.</color>
+
+Постояв на месте <color=#F2FF8D><b>{0}с</b></color>, вы запускаете <color=#F2FF8D><b>Вакуум</b></color>.
+
+Пока <color=#F2FF8D><b>Вакуум</b></color> активен, радиус сбора увеличивается на <color=#F2FF8D><b>{1}м</b></color> в секунду. Каждые <color=#F2FF8D><b>{2}</b></color> собранного опыта призывают сферу, наносящую <color=#F2FF8D><b>{3}</b></color> в <color=#F2FF8D><b>{4}м</b></color>.
+
+После того как <color=#F2FF8D><b>Вакуум</b></color> длится <color=#F2FF8D><b>{5}с</b></color>, вы получаете <color=#F2FF8D><b>Полярность</b></color> на <color=#F2FF8D><b>{6}с</b></color>, дающую <color=#F2FF8D><b>{7}</b></color> к числу снарядов <color=#777>(только способности со снарядами)</color> и <color=#F2FF8D><b>{8}</b></color> к скорости каста способностей.
+"
+ETERNAL_TREE_NODE_MAGNETISM_NAME,56849989623809,Magnetism,Магнетизм
+ETERNAL_TREE_NODE_MONOLITH_S_PROMISE_DESC,50954668859392,First Obelisk always offers two Epic relics,Первый Обелиск всегда предлагает две эпические реликвии
+ETERNAL_TREE_NODE_MONOLITH_S_PROMISE_NAME,56849998012419,Monolith’s Promise,Обет Монолита
+ETERNAL_TREE_NODE_POWER_OF_CHOICE_DESC,50954668859397,Sigil now offers {0} extra legendary choice,Сигил теперь предлагает {0} дополнительный легендарный выбор
+ETERNAL_TREE_NODE_POWER_OF_CHOICE_NAME,56850002206723,Power of Choice,Сила выбора
+ETERNAL_TREE_NODE_RARE_START_DESC,50954668859399,Start each run with two random Rare relics,Начинайте каждый забег с двумя случайными редкими реликвиями
+ETERNAL_TREE_NODE_RARE_START_NAME,56850002206725,Rare Start,Редкий старт
+ETERNAL_TREE_NODE_RUNE_MAGNET_DESC,50954668859394,Capturing a Runestone grants {0} Pickup Range for {1} seconds,Захват Рунного камня даёт {0} к радиусу подбора на {1} с
+ETERNAL_TREE_NODE_RUNE_MAGNET_NAME,56850002206720,Rune Magnet,Рунный магнит
+ETERNAL_TREE_NODE_RUNE_MENDING_DESC,50954668859396,Capturing Runestone restores {0} Life instantly,Захват Рунного камня мгновенно восстанавливает {0} здоровья
+ETERNAL_TREE_NODE_RUNE_MENDING_NAME,56850002206722,Rune Mending,Рунное исцеление
+ETERNAL_TREE_NODE_RUNIC_SWIFTNESS_DESC,50954673053707,{0} Runestone Capture Speed,{0} к скорости захвата Рунного камня
+ETERNAL_TREE_NODE_RUNIC_SWIFTNESS_NAME,56850006401024,Runic Swiftness,Рунная стремительность
+ETERNAL_TREE_NODE_SIGIL_SWIFTNESS_DESC,50954677248000,{0} Sigil Capture Speed,{0} к скорости захвата Сигила
+ETERNAL_TREE_NODE_SIGIL_SWIFTNESS_NAME,56850010595328,Sigil Swiftness,Стремительность Сигила
+ETERNAL_TREE_NODE_TRIAL_FOCUS_DESC,50954664665090,"While a Challenge is active, gain {0} Ability Cast Speed","Пока активен челлендж, вы получаете {0} к скорости каста способностей"
+ETERNAL_TREE_NODE_TRIAL_FOCUS_NAME,56849998012416,Trial Focus,Фокус испытания
+ETERNAL_TREE_NODE_TRIAL_S_MERCY_DESC,50954664665091,Each Challenge completion restores {0} Life instantly,Каждое завершение челленджа мгновенно восстанавливает {0} здоровья
+ETERNAL_TREE_NODE_TRIAL_S_MERCY_NAME,56849998012417,Trial’s Mercy,Милость испытания
+ETERNAL_TREE_NODE_VOIDLESS_OBELISK_DESC,50954668859393,+{0} Gold Find,+{0} к поиску золота
+ETERNAL_TREE_NODE_VOIDLESS_OBELISK_NAME,56849998012420,Voidless Obelisk,Обелиск без Пустоты
+ETERNAL_TREE_NODE_WIDE_RUNESTONE_DESC,50954668859395,Runestone capture radius increased by {0},Радиус захвата Рунного камня увеличен на {0}
+ETERNAL_TREE_NODE_WIDE_RUNESTONE_NAME,56850002206721,Wide Runestone,Широкий Рунный камень
+ETERNAL_TREE_NODE_WIDE_SIGIL_DESC,50954668859398,Sigil capture radius increased by {0},Радиус захвата Сигила увеличен на {0}
+ETERNAL_TREE_NODE_WIDE_SIGIL_NAME,56850002206724,Wide Sigil,Широкий Сигил
+EXPEDITION_TIER_1_NAME,790700000000001,Tier I,Ранг I
+EXPEDITION_TIER_2_NAME,790700000000002,Tier II,Ранг II
+EXPEDITION_TIER_3_NAME,4911604424704,Tier III,Ранг III
+EXPEDITION_TIER_4_NAME,790700000000004,Tier IV,Ранг IV
+EXPEDITION_UNDERCRYPT_TIER_1_DESC,790700000000101,Explore the crypt and survive until <1>The Obelisk</1> fully charges,"Исследуйте склеп и выживайте, пока <1>Обелиск</1> полностью не зарядится"
+EXPEDITION_UNDERCRYPT_TIER_2_CHALLENGES_DESC,790700000000102,<1>Challenges</1> now appear for extra rewards,<1>Челленджи</1> теперь появляются ради дополнительных наград
+EXPEDITION_UNDERCRYPT_TIER_2_COMPLETE_OBJECTIVE,1200000000002005,Summon and defeat <1>The Necromancer</1> to complete this tier,"Призовите и победите <1>Некроманта</1>, чтобы завершить этот ранг"
+EXPEDITION_UNDERCRYPT_TIER_3_COMPLETE_OBJECTIVE,1200000000002006,Summon and defeat <1>Crypt Prince</1> to complete this tier,"Призовите и победите <1>Принца склепа</1>, чтобы завершить этот ранг"
+EXPEDITION_UNDERCRYPT_TIER_3_EFFIGIES_DESC,790700000000104,<1>Effigies</1> can be activated to boost difficulty & rewards,"<1>Идолы</1> можно активировать, чтобы повысить сложность и награды"
+EXPEDITION_UNDERCRYPT_TIER_3_MAJOR_AFFIXES_DESC,790700000000103,Gear with <1>Major Affixes</1> can now drop,Теперь может выпадать снаряжение с <1>главными аффиксами</1>
+EXPEDITION_UNDERCRYPT_TIER_4_COLLAPSE_DESC,790700000000105,Capture <1>Rifts</1> during <1>The Collapse</1> to claim end-game resources,"Захватывайте <1>Разломы</1> во время <1>Коллапса</1>, чтобы получить ресурсы эндгейма"
+EXPEDITION_UNDERCRYPT_TIER_4_COMPLETE_OBJECTIVE,1200000000002007,Summon and defeat <1>The Executor</1> to complete this tier,"Призовите и победите <1>Палача</1>, чтобы завершить этот ранг"
+GAMEPLAY_EFFECT_AILMENT_MASTER_DESC,51255194935296,Each unique active Status Effect on enemies grants {0} all damage,Каждый уникальный активный эффект на врагах даёт {0} ко всему урону
+GAMEPLAY_EFFECT_AILMENT_MASTER_NAME,56850069315584,Ailment Master,Мастер недугов
+GAMEPLAY_EFFECT_ALTAR_OF_BLESSING_DESC,51255324958720,"+{0} Projectile Count bonus for each ability that triggers.
+Lasts {1} seconds","+{0} к числу снарядов за каждую сработавшую способность.
+Длится {1} с"
+GAMEPLAY_EFFECT_BERSERKER_S_PACT_BANE_DESC,51255199129601,Take {0} more damage when bellow {1} life,"Получаете на {0} больше урона, когда здоровье ниже {1}"
+GAMEPLAY_EFFECT_BERSERKER_S_PACT_BANE_NAME,56850073509889,Berserker's Pact Bane,Проклятие пакта берсерка
+GAMEPLAY_EFFECT_BERSERKER_S_PACT_DESC,51255199129600,{0} all damage for every {1} life missing,{0} ко всему урону за каждые {1} недостающего здоровья
+GAMEPLAY_EFFECT_BERSERKER_S_PACT_NAME,56850073509888,Berserker's Pact,Пакт берсерка
+GAMEPLAY_EFFECT_BLOODLUST_DESC,51255203323905,{0} All Damage Until Hit Taken,"{0} ко всему урону, пока не получите удар"
+GAMEPLAY_EFFECT_BLOODLUST_NAME,56850077704194,Bloodlust,Жажда крови
+GAMEPLAY_EFFECT_BOSS_HUNTER_DESC,51255199129602,{0} Dash Recharge during Boss fights,{0} к восстановлению рывка во время боёв с боссами
+GAMEPLAY_EFFECT_BOSS_HUNTER_NAME,56850077704192,Boss Hunter,Охотник на боссов
+GAMEPLAY_EFFECT_CRITICAL_CASCADE_DESC,51255203323904,Critical hits have {0} chance to trigger a random ability,Критические удары имеют {0} шанс запустить случайную способность
+GAMEPLAY_EFFECT_CRITICAL_CASCADE_NAME,56850077704193,Critical Cascade,Критический каскад
+GAMEPLAY_EFFECT_DESPERATE_BARGAIN_BANE_DESC,51255207518208,Lose {0} of max life each {1} seconds,Теряете {0} от макс. здоровья каждые {1} с
+GAMEPLAY_EFFECT_DESPERATE_BARGAIN_BANE_NAME,56850081898497,Desperate Bargain Bane,Проклятие отчаянной сделки
+GAMEPLAY_EFFECT_DESPERATE_BARGAIN_DESC,51255203323906,Restore {0} of max life per kill,Восстанавливает {0} от макс. здоровья за убийство
+GAMEPLAY_EFFECT_DESPERATE_BARGAIN_NAME,56850081898496,Desperate Bargain,Отчаянная сделка
+GAMEPLAY_EFFECT_IRON_WARD_DESC,51255207518210,{0} Damage reduction for next {1} hits,{0} к снижению урона на следующие {1} удар(ов)
+GAMEPLAY_EFFECT_IRON_WARD_NAME,56850086092800,Iron Ward,Железный оберег
+GAMEPLAY_EFFECT_MADDENING_SPREE_BANE_DESC,51255211712513,"Every {0} hits received, removes all bonuses
+{1} Maximum Life","Каждые {0} полученных ударов снимают все бонусы
+{1} к максимальному здоровью"
+GAMEPLAY_EFFECT_MADDENING_SPREE_BANE_NAME,56850086092802,Maddening Spree Bane,Проклятие безумного буйства
+GAMEPLAY_EFFECT_MADDENING_SPREE_DESC,51255211712512,Every {0} kills without taking damage: {1} Move and Attack Speed ({2} Stacks Max),Каждые {0} убийств без получения урона: {1} к скорости передвижения и атаки (макс. {2} стак(ов))
+GAMEPLAY_EFFECT_MADDENING_SPREE_NAME,56850086092801,Maddening Spree,Безумное буйство
+GAMEPLAY_EFFECT_MULTI_DASH_DESC,51255211712514,Gain {0} extra dash charge,Даёт {0} дополнительный заряд рывка
+GAMEPLAY_EFFECT_MULTI_DASH_NAME,56850090287104,Multi-Dash,Мульти-рывок
+GAMEPLAY_EFFECT_OFFENSIVE_RECOVERY_DESC,51255215906816,Heal {0} life on Overcharge activation,Восстанавливает {0} здоровья при активации перегрузки
+GAMEPLAY_EFFECT_OFFENSIVE_RECOVERY_NAME,56850090287105,Offensive Recovery,Наступательное восстановление
+GAMEPLAY_EFFECT_POWER_OVERFLOW_DESC,51255215906817,Overcharge damage {0} but cooldown {1},"Урон перегрузки {0}, но перезарядка {1}"
+GAMEPLAY_EFFECT_POWER_OVERFLOW_NAME,56850090287106,Power Overflow,Переполнение силы
+GAMEPLAY_EFFECT_SECOND_WIND_DESC,51255207518209,Heals {0} of Maximum Life,Восстанавливает {0} от максимального здоровья
+GAMEPLAY_EFFECT_SECOND_WIND_NAME,56850081898498,Second Wind,Второе дыхание
+GAMEPLAY_EFFECT_SWIFT_RETRIBUTION_DESC,51255215906818,{0} Attack Speed for {1} seconds after Elite kills,{0} к скорости атаки на {1} с после убийства элиты
+GAMEPLAY_EFFECT_SWIFT_RETRIBUTION_NAME,56850094481408,Swift Retribution,Стремительное возмездие
+GAMEPLAY_EFFECT_TOTAL_DISCHARGE_DESC,51255220101120,Triggers all abilities on Overcharge activation,Запускает все способности при активации перегрузки
+GAMEPLAY_EFFECT_TOTAL_DISCHARGE_NAME,56850094481409,Total Discharge,Полный разряд
+GAMEPLAY_EFFECT_UNSTABLE_FOCUS_BANE_DESC,51255220101122,{0} Maximum Life,{0} к максимальному здоровью
+GAMEPLAY_EFFECT_UNSTABLE_FOCUS_BANE_NAME,56850098675712,Unstable Focus Bane,Проклятие нестабильного фокуса
+GAMEPLAY_EFFECT_UNSTABLE_FOCUS_DESC,51255220101121,All critical hits deal double damage,Все критические удары наносят двойной урон
+GAMEPLAY_EFFECT_UNSTABLE_FOCUS_NAME,56850094481410,Unstable Focus,Нестабильный фокус
+GEAR_SLOT_CHEST_NAME,710000000000044,Chest,Грудь
+GEAR_SLOT_FEET_NAME,710000000000045,Feet,Ноги
+GEAR_SLOT_HANDS_NAME,710000000000046,Hands,Руки
+GEAR_SLOT_HEAD_NAME,710000000000043,Head,Голова
+GEAR_SLOT_MAIN_HAND_NAME,710000000000047,Main Hand,Основная рука
+GEAR_SLOT_RING_NAME,710000000000048,Ring,Кольцо
+GEAR_SLOT_TALISMAN_NAME,710000000000049,Talisman,Талисман
+GEAR_SLOT_UNDEFINED_NAME,1200000000002000,Undefined,Не определён
+GLOBAL_MORPH_FROZEN_BLIGHT_DESC,50954895351812,Applying {0} on enemy with {1} deals {2} {3} damage per stack of {1}.,Наложение {0} на врага с {1} наносит {2} {3} урона за каждый стак {1}.
+GLOBAL_MORPH_FROZEN_BLIGHT_NAME,56850337751042,Frozen Blight,Морозная порча
+GLOBAL_MORPH_GRAVE_HARVEST_DESC,50954895351813,Killing enemy with {0} that has {1} heals for {2} of your Max Life,"Убийство врага с {0}, у которого есть {1}, восстанавливает {2} от вашего макс. здоровья"
+GLOBAL_MORPH_GRAVE_HARVEST_NAME,56850337751043,Grave Harvest,Могильная жатва
+GLOBAL_MORPH_LIVING_BOMB_DESC,50954899546112,Killed burning enemies have a {0} chance to explode for {1} damage in radius,"Убитые горящие враги с {0} шансом взрываются, нанося {1} урона в радиусе"
+GLOBAL_MORPH_LIVING_BOMB_NAME,56850341945344,Living Bomb,Живая бомба
+GLOBAL_MORPH_PERMAFROST_DESC,50954899546113,{0} damage to {1} enemies always critically hits,{0} урона по {1} врагам всегда наносит критический удар
+GLOBAL_MORPH_PERMAFROST_NAME,56850341945345,Permafrost,Вечная мерзлота
+HERO_MAGE_NAME,4543264841728,Mortenzia,Мортензия
+HERO_PALADIN_NAME,4430677139456,Thoren,Торен
+HERO_PASSIVE_MORTENZIA_ENERGY_SHIELD_DESC,1200000000003003,"Arcane wards gather around Mortenzia. Gain {0} energy shield per Mortenzia level.
+Maximum {1} stacks.","Тайные обереги собираются вокруг Мортензии. Даёт {0} энергощита за каждый уровень Мортензии.
+Максимум {1} стаков."
+HERO_PASSIVE_MORTENZIA_ENERGY_SHIELD_NAME,1200000000003002,Arcane Ward,Тайный оберег
+HERO_PASSIVE_PALADIN_MAX_LIFE_DESC,1200000000003001,"Sacred light bolsters Thoren's vitality. Gain {0} maximum life per Thoren level.
+Maximum {1} stacks.","Священный свет укрепляет жизненную силу Торена. Даёт {0} максимального здоровья за каждый уровень Торена.
+Максимум {1} стаков."
+HERO_PASSIVE_PALADIN_MAX_LIFE_NAME,1200000000003000,Sacred Vitality,Священная жизненная сила
+ITEM_CHAOS_SHARD_CACHE_DESC,56850379694102,Use this item to get <1>{amountAndCurrency}</1>.,"Используйте этот предмет, чтобы получить <1>{amountAndCurrency}</1>."
+ITEM_CHAOS_SHARD_CACHE_T1,4316296970756096,Chaos Shard Cache,Хранилище осколков Хаоса
+ITEM_SOUL_OF_MORTENZIA_DESC,50954702413824,"A soul of a dark elf, whirling with energy, Mortenzia.","Душа тёмной эльфийки, бурлящая энергией, — Мортензия."
+ITEM_SOUL_OF_MORTENZIA_NAME,56850039955456,Soul of Mortenzia,Душа Мортензии
+ITEM_TYPE_CURRENCY_CACHE_NAME,56850379694101,Currency Cache,Хранилище валюты
+ITEM_TYPE_SOUL_OF_HERO_NAME,56850379694081,Soul of a Hero,Душа героя
+ITEM_UNKNOWN_NAME,56850379694082,Unknown Item,Неизвестный предмет
+LEGENDARY_POWER_ENLIGHTENED_RESTORATION_DESC,50954706608128,Heals for {0} max life on each level up,Восстанавливает {0} макс. здоровья при каждом повышении уровня
+LEGENDARY_POWER_ENLIGHTENED_RESTORATION_NAME,56850039955457,Enlightened Restoration,Просветлённое восстановление
+LEGENDARY_POWER_EXECUTE_DESC,50954706608129,Deal {0} more damage to enemies below {1} life,Наносит на {0} больше урона врагам с запасом здоровья ниже {1}
+LEGENDARY_POWER_EXECUTE_NAME,56850044149760,Execute,Казнь
+LEGENDARY_POWER_EXTRA_STEP_DESC,50954706608130,{0} Extra dash,{0} дополнительный рывок
+LEGENDARY_POWER_EXTRA_STEP_NAME,56850044149761,Extra Step,Дополнительный шаг
+LEGENDARY_POWER_FINAL_HARVEST_DESC,50954706608131,Collects all experience when stage exit opens,Собирает весь опыт при открытии выхода с этапа
+LEGENDARY_POWER_FINAL_HARVEST_NAME,56850044149762,Final Harvest,Последняя жатва
+LEGENDARY_POWER_FIRST_BLOOD_DESC,50954710802432,Deal {0} more damage to enemies above {1} life,Наносит на {0} больше урона врагам с запасом здоровья выше {1}
+LEGENDARY_POWER_FIRST_BLOOD_NAME,56850048344064,First Blood,Первая кровь
+LEGENDARY_POWER_GOLDEN_HARVEST_DESC,50954710802433,Enemies drop {0} more gold,Враги роняют на {0} больше золота
+LEGENDARY_POWER_GOLDEN_HARVEST_NAME,56850048344065,Golden Harvest,Золотая жатва
+LEGENDARY_POWER_OPPRESIVE_FIELD_DESC,50954710802434,Enemies within {0}m are slowed by {1},Враги в радиусе {0}м замедлены на {1}
+LEGENDARY_POWER_OPPRESIVE_FIELD_NAME,56850052538368,Oppresive Field,Гнетущее поле
+LEGENDARY_POWER_PIERCING_MASTERY_DESC,50954710802435,{0} Projectile Piercing,{0} пробитий снарядами
+LEGENDARY_POWER_PIERCING_MASTERY_NAME,56850052538369,Piercing Mastery,Мастерство пробития
+LEGENDARY_POWER_PLAGUED_ARRIVAL_DESC,50954710802436,Enemies have {0} chance to spawn with random status effect,Враги с шансом {0} появляются со случайным эффектом
+LEGENDARY_POWER_PLAGUED_ARRIVAL_NAME,56850052538370,Plagued Arrival,Заражённое явление
+LEGENDARY_POWER_PROLONGED_AGONY_DESC,50954714996736,All status effects last {0} longer,Все эффекты длятся на {0} дольше
+LEGENDARY_POWER_PROLONGED_AGONY_NAME,56850056732672,Prolonged Agony,Затяжная агония
+LEGENDARY_POWER_SECOND_CHANCE_DESC,50954714996737,"Prevents death once and heals you to {0} max life instead.
+Max once per run.","Однократно предотвращает смерть и вместо этого исцеляет вас до {0} максимального здоровья.
+Максимум один раз за забег."
+LEGENDARY_POWER_SECOND_CHANCE_NAME,56850056732673,Second Chance,Второй шанс
+LEGENDARY_POWER_STACK_OVERFLOW_DESC,50954714996738,All status effects have {0} max stacks,Все эффекты имеют {0} макс. стаков
+LEGENDARY_POWER_STACK_OVERFLOW_NAME,56850060926976,Stack Overflow,Переполнение стека
+LEGENDARY_POWER_TWIN_ASCENTION_DESC,50954714996739,{0} chance to get one more level after each level up,{0} шанс получить ещё один уровень после каждого повышения уровня
+LEGENDARY_POWER_TWIN_ASCENTION_NAME,56850060926977,Twin Ascention,Двойное вознесение
+LEGENDARY_POWER_UNTOUCHABLE_DESC,50954714996740,Become invulnerable for {0}s after dashing,Становитесь неуязвимы на {0}с после рывка
+LEGENDARY_POWER_UNTOUCHABLE_NAME,56850060926978,Untouchable,Неприкасаемый
+LIGHTNINGORBS_TRAIT_SPEEDAREA_SIZE,8768069820416,Increases orb size,Увеличивает размер сфер
+LIGHTNINGORBS_TRAIT_SPEEDAREA_SPEED,8615107747840,Increases orb speed,Увеличивает скорость сфер
+MAP_FORSAKEN_REACH_NAME,790438272294912,Forsaken Reach,Покинутые пределы
+MAP_OBELISK_NAME,1100101782069248,Obelisk,Обелиск
+MAP_UNDERCRYPT_NAME,790569142968320,Undercrypt,Подсклеп
+MORPH_EVOLUTION_BURNING_DISCHARGE_DESC,51255371096064,Increases Critical Chance,Увеличивает шанс крита
+MORPH_EVOLUTION_CRYO_NOVA_DESC,51255404650496,Increases Cold Damage,Увеличивает холодный урон
+MORPH_EVOLUTION_DEATHCOIL_POOL_DESC,51255383678976,Increases Necrotic Damage,Увеличивает некротический урон
+MORPH_EVOLUTION_DEATH_CURSE_DESC,51255429816320,Increases Necrotic Damage,Увеличивает некротический урон
+MORPH_EVOLUTION_EXPLOSIVE_SPIKES_DESC,51255438204928,Increases Bleed Damage,Увеличивает урон кровотечения
+MORPH_EVOLUTION_FIREBALL_REPLICATION_DESC,51255392067584,Increases Fire Damage,Увеличивает огненный урон
+MORPH_EVOLUTION_FLAME_RING_DESC,51255396261888,Increases Area Bonus,Увеличивает бонус площади
+MORPH_EVOLUTION_JUDGMENT_DETONATION_DESC,51255408844800,Increases Physical Damage,Увеличивает физический урон
+MORPH_EVOLUTION_LIGHTFALL_DESC,51255463370752,Increases Physical Damage,Увеличивает физический урон
+MORPH_EVOLUTION_RENDING_CHAINS_DESC,51255442399232,Increases Bleed Duration,Увеличивает длительность кровотечения
+MORPH_EVOLUTION_SCORCHED_EARTH_DESC,51255425622016,Increases Burn Damage,Увеличивает урон горения
+MORPH_EVOLUTION_SPIKE_BURST_DESC,51255446593536,Increases Bleed Damage,Увеличивает урон кровотечения
+NPC_THE_SHADE_NAME,4583060398080,The Shade,Тень
+OVERTIME_RIFT_NAME,1100015870140416,Rift,Разлом
+POWERUP_TAG_AREA_DESC,1200000000004001,"This power scales with area size bonuses.
+Found on gear affixes and in-game trait cards.","Это усиление масштабируется от бонусов площади.
+Встречается на аффиксах снаряжения и в карточках трейтов во время забега."
+POWERUP_TAG_CRIT_DESC,1200000000004003,"This power scales with critical chance and critical damage bonuses.
+Found on gear affixes, and in-game trait cards.","Это усиление масштабируется от бонусов шанса крита и критического урона.
+Встречается на аффиксах снаряжения и в карточках трейтов во время забега."
+POWERUP_TAG_CROWD_CONTROL_DESC,1200000000004007,This power adds crowd control to your build.,Это усиление добавляет вашему билду контроль.
+POWERUP_TAG_DAMAGE_DESC,1200000000004011,"This power scales with damage bonuses.
+Found on gear affixes, and in-game trait cards.","Это усиление масштабируется от бонусов урона.
+Встречается на аффиксах снаряжения и в карточках трейтов во время забега."
+POWERUP_TAG_DASH_DESC,1200000000004008,"This power scales with dash bonuses.
+Found on gear affixes and in-game trait cards.","Это усиление масштабируется от бонусов рывка.
+Встречается на аффиксах снаряжения и в карточках трейтов во время забега."
+POWERUP_TAG_ECONOMY_DESC,1200000000004010,"This power scales with gold, experience, or pickup bonuses.
+Found on Eternal Tree, relics, and in-game trait cards.","Это усиление масштабируется от бонусов золота, опыта или подбора.
+Встречается на Вечном Древе, реликвиях и в карточках трейтов во время забега."
+POWERUP_TAG_HASTE_DESC,1200000000004004,This power scales with attack speed or cast speed.,Это усиление масштабируется от скорости атаки или скорости каста.
+POWERUP_TAG_MOVE_SPEED_DESC,1200000000004009,"This power scales with movement speed bonuses.
+Found on gear affixes, the Eternal Tree, and in-game trait cards.","Это усиление масштабируется от бонусов скорости передвижения.
+Встречается на аффиксах снаряжения, Вечном Древе и в карточках трейтов во время забега."
+POWERUP_TAG_OVERCHARGE_DESC,1200000000004006,"This power scales with overcharge bonuses.
+Found on gear affixes, Eternal Tree and in-game trait cards.","Это усиление масштабируется от бонусов перегрузки.
+Встречается на аффиксах снаряжения, Вечном Древе и в карточках трейтов во время забега."
+POWERUP_TAG_PROJECTILE_DESC,1200000000004000,"This power scales with projectile count bonuses.
+Found on gear affixes and in-game trait cards.","Это усиление масштабируется от бонусов числа снарядов.
+Встречается на аффиксах снаряжения и в карточках трейтов во время забега."
+POWERUP_TAG_STATUS_EFFECTS_DESC,1200000000004002,"This power scales with status effect damage bonuses.
+Found on gear affixes and the Eternal Tree.","Это усиление масштабируется от бонусов урона эффектов.
+Встречается на аффиксах снаряжения и на Вечном Древе."
+POWERUP_TAG_SUSTAIN_DESC,1200000000004005,This power increases your survavibility.,Это усиление повышает вашу выживаемость.
+PROGRESSION_TREE_NODE_ABILITY_MORPHS_DESC,50954694025226,Morph your abilities inside a run into more powerful version,Превращайте свои способности во время забега в более мощные версии
+PROGRESSION_TREE_NODE_ABILITY_MORPHS_NAME,56850031566851,Ability Morphs,Морфы способностей
+PROGRESSION_TREE_NODE_ACHIEVEMENTS_DESC,50954694025216,"Unlocks the Archive building.
+Claim completed achievements to gain Chaos Shards.","Открывает здание Архива.
+Забирайте выполненные достижения, чтобы получать Осколки Хаоса."
+PROGRESSION_TREE_NODE_ACHIEVEMENTS_NAME,56850027372544,Achievements,Достижения
+PROGRESSION_TREE_NODE_ARSENAL_DESC,50954694025217,Allows you to learn new Abilities and purchase Relics in your Arsenal.,Позволяет изучать новые способности и покупать реликвии в Арсенале.
+PROGRESSION_TREE_NODE_ARSENAL_NAME,56850027372545,Arsenal,Арсенал
+PROGRESSION_TREE_NODE_ASCENSION_DESC,50954694025218,"Allows you to upgrade your Legendary gear into Mythic rarity, gaining +1 affix of your choice.","Позволяет улучшать легендарное снаряжение до мифической редкости, добавляя +1 аффикс на ваш выбор."
+PROGRESSION_TREE_NODE_ASCENSION_NAME,56850027372546,Ascension,Вознесение
+PROGRESSION_TREE_NODE_BLACKSMITH_DESC,50954694025219,"Unlocks the Blacksmith.
+Allows you to upgrade gear and salvage items.","Открывает Кузнеца.
+Позволяет улучшать снаряжение и разбирать предметы."
+PROGRESSION_TREE_NODE_BLACKSMITH_NAME,56850027372547,Blacksmith,Кузнец
+PROGRESSION_TREE_NODE_CHALLENGES_DESC,50954694025220,Challenges are now available inside the Runs for more rewards.,Челленджи теперь доступны внутри забегов для большей награды.
+PROGRESSION_TREE_NODE_CHALLENGES_NAME,56850027372548,Challenges,Челленджи
+PROGRESSION_TREE_NODE_EFFIGIES_DESC,50954694025221,Effigies can be activated in the Run to increase difficulty and rewards.,"Идолы можно активировать в забеге, чтобы повысить сложность и награды."
+PROGRESSION_TREE_NODE_EFFIGIES_NAME,56850027372549,Effigies,Идолы
+PROGRESSION_TREE_NODE_EMPOWERING_DESC,50954694025222,Allows you to craft Legendary items at Blacksmith from Rare and Common gear with Major Affix.,Позволяет создавать легендарные предметы у Кузнеца из редкого и обычного снаряжения с главным аффиксом.
+PROGRESSION_TREE_NODE_EMPOWERING_NAME,56850027372550,Empowering,Усиление
+PROGRESSION_TREE_NODE_ETERNAL_TREE_DESC,50954694025223,"Unlocks the Eternal Tree.
+Make your character more powerful on a giant progression tree.","Открывает Вечное Древо.
+Сделайте своего персонажа мощнее на гигантском дереве развития."
+PROGRESSION_TREE_NODE_ETERNAL_TREE_NAME,56850031566848,Eternal Tree,Вечное Древо
+PROGRESSION_TREE_NODE_MAJOR_AFFIXES_DESC,50954694025225,"Gear with Major Affixes can now drop.
+Major Affixes increase the value of single stat significantly.","Теперь может выпадать снаряжение с главными аффиксами.
+Главные аффиксы значительно увеличивают значение одной характеристики."
+PROGRESSION_TREE_NODE_MAJOR_AFFIXES_NAME,56850031566850,Major Affixes,Главные аффиксы
+PROGRESSION_TREE_NODE_MORTENZIA_DESC,50954694025224,"Unlocks Mortenzia, a Dark Elf hero who bends arcane magic to her will.","Открывает Мортензию, героиню — тёмную эльфийку, что подчиняет тайную магию своей воле."
+PROGRESSION_TREE_NODE_MORTENZIA_NAME,56850031566849,Mortenzia,Мортензия
+PROGRESSION_TREE_NODE_STASH_DESC,50954698219520,Allows you to store items into a stash for storage,Позволяет складывать предметы в хранилище
+PROGRESSION_TREE_NODE_STASH_NAME,56850031566853,Stash,Хранилище
+PROGRESSION_TREE_NODE_THE_CAMP_DESC,50954694025227,"The portal has closed, there is no way back, but forward.","Портал закрылся, пути назад нет — только вперёд."
+PROGRESSION_TREE_NODE_THE_CAMP_NAME,56850031566852,The Camp,Лагерь
+PROGRESSION_TREE_NODE_TIER_1_DESC,50954698219521,Explore the crypt and come back alive via the Obelisk.,Исследуйте склеп и вернитесь живым через Обелиск.
+PROGRESSION_TREE_NODE_TIER_1_NAME,56850031566854,Tier 1,Ранг 1
+PROGRESSION_TREE_NODE_TIER_2_DESC,50954698219522,Summon and defeat the Necromancer in Undercrypt Tier II,Призовите и победите Некроманта в Подсклепе ранга II
+PROGRESSION_TREE_NODE_TIER_2_NAME,56850031566855,Tier 2,Ранг 2
+PROGRESSION_TREE_NODE_TIER_3_DESC,50954698219523,Summon and defeat the Crypt Prince in Undercrypt Tier III,Призовите и победите Принца склепа в Подсклепе ранга III
+PROGRESSION_TREE_NODE_TIER_3_NAME,56850031566856,Tier 3,Ранг 3
+PROGRESSION_TREE_NODE_TIER_4_DESC,50954698219524,Summon and defeat the Executor in Undercrypt Tier IV,Призовите и победите Палача в Подсклепе ранга IV
+PROGRESSION_TREE_NODE_TIER_4_NAME,56850031566857,Tier 4,Ранг 4
+PROGRESSION_TREE_UNLOCK_ACHIEVEMENTS_REQUIREMENT,50954681442304,Complete any achievement inside a Run.,Выполните любое достижение внутри забега.
+PROGRESSION_TREE_UNLOCK_ARSENAL_REQUIREMENT,50954681442305,Unlock the Blacksmith,Откройте Кузнеца
+PROGRESSION_TREE_UNLOCK_ASCENSION_REQUIREMENT,50954685636608,Find Dreadstone,Найдите Камень ужаса
+PROGRESSION_TREE_UNLOCK_BLACKSMITH_REQUIREMENT,50954685636609,Retrieve a first piece of gear during a run,Добудьте первый предмет снаряжения во время забега
+PROGRESSION_TREE_UNLOCK_MAJOR_AFFIX_GEAR_REQUIREMENT,50954685636610,Find a gear item with Major Affix,Найдите предмет снаряжения с главным аффиксом
+PROGRESSION_TREE_UNLOCK_MORPHS_REQUIREMENT,50954689830916,"Speak with ""The Shade"" in camp to unlock new powers.","Поговорите с «Тенью» в лагере, чтобы открыть новые силы."
+PROGRESSION_TREE_UNLOCK_MORTENZIA_REQUIREMENT,50954689830917,"Locate the remains of Mortenzia, your lost expedition companion.","Найдите останки Мортензии, вашей потерянной спутницы по экспедиции."
+PROGRESSION_TREE_UNLOCK_POWER_ARCHIVE_REQUIREMENT,50954689830918,Salvage at least 1 Legendary gear item,Разберите хотя бы 1 легендарный предмет снаряжения
+PROGRESSION_TREE_UNLOCK_UNDERCRYPT_TIER_1_REQUIREMENT,50954689830912,Win Undercrypt Tier I,Победите в Подсклепе ранга I
+PROGRESSION_TREE_UNLOCK_UNDERCRYPT_TIER_2_REQUIREMENT,50954689830913,Win Undercrypt Tier II,Победите в Подсклепе ранга II
+PROGRESSION_TREE_UNLOCK_UNDERCRYPT_TIER_3_REQUIREMENT,50954689830914,Win Undercrypt Tier III,Победите в Подсклепе ранга III
+PROGRESSION_TREE_UNLOCK_UNDERCRYPT_TIER_4_REQUIREMENT,50954689830915,Win Undercrypt Tier IV,Победите в Подсклепе ранга IV
+PROP_BOSS_SUMMON_POINT_NAME,8361000000000006,Boss Summoning,Призыв босса
+PROP_CORPSE_OF_MORTENZIA_NAME,8361000000000007,Corpse of Mortenzia,Тело Мортензии
+PROP_EFFIGY_NAME,8361000000000001,Effigy,Идол
+PROP_EXIT_PORTAL_NAME,8361000000000005,Exit Portal,Портал выхода
+PROP_GARRICK_NAME,8361000000000010,Garrick,Гаррик
+PROP_OBELISK_NAME,8361000000000002,Obelisk,Обелиск
+PROP_OVERTIME_RIFT_NAME,8361000000000003,Rift,Разлом
+PROP_RUNESTONE_NAME,8361000000000008,Runestone,Рунный камень
+PROP_SHRINE_OF_POWER_NAME,8361000000000004,Shrine of Power,Святилище силы
+PROP_SIGIL_NAME,8361000000000000,Sigil,Сигил
+PROP_THE_SHADE_NAME,8361000000000009,The Shade,Тень
+RARITY_COMMON_NAME,1200000000002001,Common,Обычный
+RARITY_EPIC_NAME,1100941032939520,Epic,Эпический
+RARITY_LEGENDARY_NAME,1200000000002002,Legendary,Легендарный
+RARITY_MYTHIC_NAME,1200000000002003,Mythic,Мифический
+RARITY_RARE_NAME,1100863501230080,Rare,Редкий
+RARITY_UNIQUE_NAME,1200000000002004,Unique,Уникальный
+RELIC_ADRENALINE_SHARD_DESC,50954752745472,{0} dash recharge during boss fights,{0} к восстановлению рывка во время боёв с боссами
+RELIC_ADRENALINE_SHARD_NAME,56850119647232,Adrenaline Shard,Осколок адреналина
+RELIC_AFFLICTION_SIGIL_DESC,50954752745473,Enemies with {0}+ different status effect types take {1} bonus damage,Враги с {0}+ разными типами эффектов получают {1} дополнительного урона
+RELIC_AFFLICTION_SIGIL_NAME,56850119647233,Affliction Sigil,Сигил мучений
+RELIC_ANNIHILATION_RUNE_DESC,50954752745474,{0} all damage for every {1} life missing,{0} ко всему урону за каждые {1} недостающего здоровья
+RELIC_ANNIHILATION_RUNE_NAME,56850119647234,Annihilation Rune,Руна уничтожения
+RELIC_BATTLE_CHARM_DESC,50954752745475,"Aggressive charm, adding {0} All Damage","Агрессивный талисман, добавляющий {0} ко всему урону"
+RELIC_BATTLE_CHARM_NAME,56850119647235,Battle Charm,Боевой талисман
+RELIC_BEGGAR_S_SPOON_DESC,50954752745476,"For every {0} gold piles collected, drop one {1} food.
+Up to {2} food from this effect can be on the ground.","За каждые {0} собранных кучек золота роняет одну единицу еды {1}.
+Одновременно на земле может лежать до {2} еды от этого эффекта."
+RELIC_BEGGAR_S_SPOON_NAME,56850123841536,Beggar's Spoon,Ложка нищего
+RELIC_BLACK_HOLE_DESC,50954748551168,"Dashing has a {2} chance to summon a Black Hole at your position. It pulls nearby enemies, then explodes for {1} damage.","Рывок с шансом {2} призывает чёрную дыру в вашей позиции. Она притягивает ближайших врагов, затем взрывается, нанося {1} урона."
+RELIC_BLACK_HOLE_NAME,56850115452928,Black Hole,Чёрная дыра
+RELIC_CHAMPION_S_CHALICE_DESC,50954756939776,"Leveling up releases a shockwave, damaging enemies around you for {0} {1} damage","Повышение уровня высвобождает ударную волну, нанося врагам вокруг вас {0} {1} урона"
+RELIC_CHAMPION_S_CHALICE_NAME,56850123841537,Champion's Chalice,Чаша чемпиона
+RELIC_CHAOS_DIE_DESC,50954756939777,Abilities have {0} chance to instantly trigger a random different ability,Способности с шансом {0} мгновенно срабатывают случайной другой способностью
+RELIC_CHAOS_DIE_NAME,56850123841538,Chaos Die,Кость хаоса
+RELIC_CHAOS_ORB_DESC,50954756939778,Triggers all abilities on Overcharge activation,При активации перегрузки запускает все способности
+RELIC_CHAOS_ORB_NAME,56850128035840,Chaos Orb,Сфера хаоса
+RELIC_CHRONOMETER_DESC,50954748551169,Using Overcharge freezes all enemies around you,Использование перегрузки замораживает всех врагов вокруг вас
+RELIC_CHRONOMETER_NAME,56850115452929,Chronometer,Хронометр
+RELIC_CRIMSON_FANG_DESC,50954756939779,Abilities deal {0} more damage to enemies above {1} life,Способности наносят на {0} больше урона врагам с запасом здоровья выше {1}
+RELIC_CRIMSON_FANG_NAME,56850128035841,Crimson Fang,Багровый клык
+RELIC_DEMOLITION_HAMMER_DESC,50954756939780,"Breaking objects fires a missile, damaging enemies for {0} {1} damage in {2}m radius.","Разрушение объектов выпускает снаряд, нанося врагам {0} {1} урона в радиусе {2}м."
+RELIC_DEMOLITION_HAMMER_NAME,56850128035842,Demolition Hammer,Молот сноса
+RELIC_DEMON_S_EFFIGY_DESC,50954761134080,"When Effigy is activated, spawns {0} elite",При активации Идола порождает {0} элитного врага
+RELIC_DEMON_S_EFFIGY_NAME,56850132230144,Demon's Effigy,Идол демона
+RELIC_DOOM_BRINGER_DESC,50954761134081,{0} chance to trigger a random ability on critical hit.,Шанс {0} вызвать случайную способность при критическом ударе.
+RELIC_DOOM_BRINGER_NAME,56850132230145,Doom Bringer,Вестник рока
+RELIC_EMBER_BOOTS_DESC,50954761134082,"Dashing leaves fire trail, that applies +{0} {1} stack on enemies","Рывок оставляет огненный след, накладывающий +{0} стак {1} на врагов"
+RELIC_EMBER_BOOTS_NAME,56850132230146,Ember Boots,Угольные сапоги
+RELIC_EXECUTIONER_S_BLADE_DESC,50954761134083,{0} Attack Speed while below {1} life,"{0} к скорости атаки, пока запас здоровья ниже {1}"
+RELIC_EXECUTIONER_S_BLADE_NAME,56850136424448,Executioner's Blade,Клинок палача
+RELIC_FROZEN_HEART_DESC,50954761134084,Killing {0} enemies has a {1} chance to drop {2} gold,Убийство {0} врагов с шансом {1} роняет {2} золота
+RELIC_FROZEN_HEART_NAME,56850136424449,Frozen Heart,Ледяное сердце
+RELIC_GOLDEN_SKULL_DESC,50954765328384,"Collecting gold fires a missile, damaging enemies for {0} {1} damage in {2}m radius.","Сбор золота выпускает снаряд, нанося врагам {0} {1} урона в радиусе {2}м."
+RELIC_GOLDEN_SKULL_NAME,56850136424450,Golden Skull,Золотой череп
+RELIC_HORDE_CROWN_DESC,50954765328385,Gain {0} all damage for each enemy within {1}m radius,Даёт {0} ко всему урону за каждого врага в радиусе {1}м
+RELIC_HORDE_CROWN_NAME,56850140618752,Horde Crown,Корона орды
+RELIC_HUNTER_S_TROPHY_DESC,50954765328386,{0} Attack Speed and {1} Ability Cast Speed for {2} seconds after Elite kills,{0} к скорости атаки и {1} к скорости каста способностей на {2} секунд после убийства элиты
+RELIC_HUNTER_S_TROPHY_NAME,56850140618753,Hunter's Trophy,Трофей охотника
+RELIC_INQUISITOR_S_SEAL_DESC,50954765328387,Dying enemies with {3}+ unique status effects explode for {0} {1} damage,"Умирающие враги с {3}+ уникальными эффектами взрываются, нанося {0} {1} урона"
+RELIC_INQUISITOR_S_SEAL_NAME,56850140618754,Inquisitor's Seal,Печать инквизитора
+RELIC_KEY_OF_LIFE_DESC,50954769522688,Grants {0} Max Life for each locked treasure chest you open after acquiring this key.,"Даёт {0} к максимальному здоровью за каждый запертый сундук с сокровищами, который вы открываете после получения этого ключа."
+RELIC_KEY_OF_LIFE_NAME,56850144813056,Key of Life,Ключ жизни
+RELIC_KEY_OF_MASOCHISM_DESC,50954769522689,Spawns {0} enemy champion when opening a locked chest,При открытии запертого сундука порождает {0} вражеского чемпиона
+RELIC_KEY_OF_MASOCHISM_NAME,56850144813057,Key of Masochism,Ключ мазохизма
+RELIC_KEY_OF_POWER_DESC,50954769522690,Grants {0} All Damage for each locked treasure chest you open after acquiring this key.,"Даёт {0} ко всему урону за каждый запертый сундук с сокровищами, который вы открываете после получения этого ключа."
+RELIC_KEY_OF_POWER_NAME,56850144813058,Key of Power,Ключ силы
+RELIC_LIFESTONE_DESC,50954769522691,Heals for {0} max life when overcharge is used,Исцеляет на {0} максимального здоровья при использовании перегрузки
+RELIC_LIFESTONE_NAME,56850149007360,Lifestone,Камень жизни
+RELIC_MAGIC_CHARM_DESC,50954769522692,"Protecting charm, adding {0} Magic Resistance","Защитный талисман, добавляющий {0} к магическому сопротивлению"
+RELIC_MAGIC_CHARM_NAME,56850149007361,Magic Charm,Магический талисман
+RELIC_MOMENTUM_BOOTS_DESC,50954769522693,"Push all enemies within {0}m radius when you dash.
+Enemies are also stunned for {1}s","Отталкивает всех врагов в радиусе {0}м при рывке.
+Враги также оглушаются на {1}с"
+RELIC_MOMENTUM_BOOTS_NAME,56850149007362,Momentum Boots,Сапоги импульса
+RELIC_MOMENTUM_WHIP_DESC,50954769522694,Triggers random ability when dashing,При рывке срабатывает случайная способность
+RELIC_MOMENTUM_WHIP_NAME,56850149007363,Momentum Whip,Кнут импульса
+RELIC_PHANTOM_BOOTS_DESC,50954773716992,Gain {0} increased speed for {1} second after dashing,Даёт {0} к скорости на {1} секунду после рывка
+RELIC_PHANTOM_BOOTS_NAME,56850153201664,Phantom Boots,Призрачные сапоги
+RELIC_SKELETON_KEY_DESC,50954773716993,Locked chests now have {0} chance to open for free.,Запертые сундуки теперь с шансом {0} открываются бесплатно.
+RELIC_SKELETON_KEY_NAME,56850153201665,Skeleton Key,Отмычка
+RELIC_SOUL_LANTERN_DESC,50954773716994,Every {0} XP orbs collected explodes for {1} {2} damage,"Каждые {0} собранных сфер опыта взрываются, нанося {1} {2} урона"
+RELIC_SOUL_LANTERN_NAME,56850153201666,Soul Lantern,Фонарь душ
+RELIC_STORMCALLER_DESC,50954773716995,"Each {1} enemies hit with basic attack, strikes lightning dealing {0} {2} damage","За каждые {1} врагов, поражённых основной атакой, бьёт молния, нанося {0} {2} урона"
+RELIC_STORMCALLER_NAME,56850157395968,Stormcaller,Призыватель бури
+RELIC_UNSTABLE_BATTERY_DESC,50954777911296,"While Overcharge is active, abilities deal {0} more damage","Пока перегрузка активна, способности наносят на {0} больше урона"
+RELIC_UNSTABLE_BATTERY_NAME,56850157395969,Unstable Battery,Нестабильная батарея
+RELIC_VAMPIRE_CREST_DESC,50954777911297,Restores {0} of maximum life per {1} kills,Восстанавливает {0} максимального здоровья за {1} убийств
+RELIC_VAMPIRE_CREST_NAME,56850157395970,Vampire Crest,Герб вампира
+RESOURCE_CHAOS_SHARD_AMOUNT_FORMAT,56849977040897,{amount:plural:{} Chaos Shard|{} Chaos Shards},{amount:plural:{} Осколок Хаоса|{} Осколка Хаоса|{} Осколков Хаоса}
+RESOURCE_CHAOS_SHARD_DESC,50954656276480,"The currency of power. Kept on death.
+Earned from gaining Chaos Level, capturing Rifts and completing Achievements.","Валюта силы. Сохраняется при смерти.
+Получается за повышение Уровня хаоса, захват Разломов и выполнение Достижений."
+RESOURCE_CHAOS_SHARD_NAME,56849977040896,Chaos Shard,Осколок Хаоса
+RUNESTONE_ABILITY_CAST_SPEED_DESC,51255329153025,{0} Ability Cast Speed,{0} к скорости каста способностей
+RUNESTONE_ALL_DAMAGE_DESC,51255329153026,{0} All Damage,{0} ко всему урону
+RUNESTONE_ATTACK_SPEED_DESC,51255329153027,{0} Attack Speed,{0} к скорости атаки
+RUNESTONE_CRITICAL_DAMAGE_DESC,51255329153028,{0} Critical Damage,{0} к критическому урону
+RUNESTONE_DASH_DISTANCE_DESC,51255329153029,{0} Dash Distance,{0} к дальности рывка
+RUNESTONE_DESC,51255329153024,{0} XP Collect Range,{0} к радиусу сбора опыта
+RUNESTONE_EXPERIENCE_GAIN_DESC,51255329153030,{0} Experience Gain,{0} к получению опыта
+RUNESTONE_MAX_LIFE_DESC,51255329153031,{0} Maximum Life,{0} к максимальному здоровью
+RUNESTONE_MOVE_SPEED_DESC,51255329153032,{0} Move Speed,{0} к скорости передвижения
+RUNESTONE_NAME,56850203533312,Runestone,Рунный камень
+RUNESTONE_PROJECTILE_COUNT_DESC,51255329153033,{0} Projectile Count,{0} к числу снарядов
+SHADE_ESSENCE_DESC,4644822378864640,Collect this essence to summon The Shade. Shade allows you to morph your abilities into more powerful versions.,"Соберите эту эссенцию, чтобы призвать Тень. Тень позволяет превращать ваши способности в более мощные версии."
+SHADE_ESSENCE_NAME,4645029837529088,Shade Essence,Эссенция Тени
+SHRINE_OF_POWER_SHORT_NAME,1100278676840448,Shrine,Святилище
+STATUS_EFFECT_BLEED_DESC,50954819854336,"Deals {0} damage every {1}s per stack
+Reduces enemy damage by {2} per stack ({6} total)
+
+Max {3} stacks. Lasts [{4}s].","Наносит {0} урона каждые {1}с за стак
+Снижает урон врага на {2} за стак ({6} всего)
+
+Макс. {3} стаков. Длится [{4}с]."
+STATUS_EFFECT_BLEED_NAME,56850207727616,Bleed,Кровотечение
+STATUS_EFFECT_BLIGHT_DESC,50954819854337,"Each stack increases damage taken by +{0} ({4} total)
+At max stacks, dying enemy spreads +1 stack to others in {2}m.
+
+Max {1} stacks. Lasts {3}s.","Каждый стак увеличивает получаемый урон на +{0} ({4} всего)
+При макс. стаках умирающий враг распространяет +1 стак на других в радиусе {2}м.
+
+Макс. {1} стаков. Длится {3}с."
+STATUS_EFFECT_BLIGHT_NAME,56850211921920,Blight,Порча
+STATUS_EFFECT_BURN_DESC,50954824048640,"Deals {0} damage every {1}s per stack
+
+Max {2} stacks. Lasts {3}s.","Наносит {0} урона каждые {1}с за стак
+
+Макс. {2} стаков. Длится {3}с."
+STATUS_EFFECT_BURN_NAME,56850211921921,Burn,Горение
+STATUS_EFFECT_CHILL_DESC,50954824048641,"Slows movement and attack speed by {0}. At {1} stacks, the enemy is frozen, unable to move.",Замедляет передвижение и скорость атаки на {0}. При {1} стаках враг замораживается и не может двигаться.
+STATUS_EFFECT_CHILL_NAME,56850216116224,Chill,Охлаждение
+STATUS_EFFECT_CONDUCTIVE_DESC,50954824048642,"Killing enemies drops charges. 
+Pick up the charge to get increases Critical Damage by {1} for {2} seconds","Убийство врагов роняет заряды. 
+Подберите заряд, чтобы увеличить критический урон на {1} на {2} секунд"
+STATUS_EFFECT_CONDUCTIVE_NAME,56850216116225,Conductive,Проводимость
+STATUS_EFFECT_DEATH_CURSE_DESC,50954824048643,"Applies a death curse on enemy, making him explode for {0} damage upon his death in {1}m area.","Накладывает проклятие смерти на врага, заставляя его при гибели взорваться, нанося {0} урона в области {1}м."
+STATUS_EFFECT_DEATH_CURSE_NAME,56850220310528,Death Curse,Проклятие смерти
+STATUS_EFFECT_FROZEN_DESC,50954828242944,Frozen prevents enemy from moving for {0} seconds.,Заморозка не даёт врагу двигаться {0} секунд.
+STATUS_EFFECT_FROZEN_NAME,56850220310529,Frozen,Заморозка
+STATUS_EFFECT_SLOW_MOVEMENT_NAME,56849716994048,Slow Movement,Замедление
+STATUS_EFFECT_STUN_DESC,50954828242945,"A stunned enemy cannot move or act for {0} seconds.
+
+Max 1 stack.","Оглушённый враг не может двигаться или действовать {0} секунд.
+
+Макс. 1 стак."
+STATUS_EFFECT_STUN_NAME,56850224504832,Stun,Оглушение
+STAT_DAMAGE_NAME,10758912991232,Damage,Урон
+STAT_PROJECTILE_SPEED_NAME,10767611977728,Projectile speed,Скорость снаряда
+TALISMAN_GENERATED_NAME_FORMAT,56850379694083,Talisman of {powerName},Талисман: {powerName}
+THE_COLLAPSE_NAME,763669389500416,The Collapse,Коллапс
+TREASURE_REWARD_EXTRACTOR_DESC,51255475953672,Worker mining yield,Добыча рабочего при добыче
+TREASURE_REWARD_EXTRACTOR_NAME,56850375499776,Extractor,Извлекатель
+TREASURE_REWARD_GATHERER_DESC,51255475953671,Worker mining speed,Скорость добычи рабочего
+TREASURE_REWARD_GATHERER_NAME,56850371305481,Gatherer,Сборщик

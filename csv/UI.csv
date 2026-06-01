@@ -1,0 +1,598 @@
+Key,Id,English(en),Russian(ru)
+ABILITY_TOOLTIP_MAIN_ATTACK_HEADER_FORMAT,50984700076045,{abilityName} (Main Attack),{abilityName} (Основная атака)
+ACCEPT_CHALLENGE_BUTTON,802297805266944,Accept,Принять
+ACHIEVEMENTS_RECENT_TITLE,672501356027904,Recent Achievements,Недавние достижения
+ACHIEVEMENTS_SIDEBAR_CATEGORIES_LABEL,672303510708224,Categories,Категории
+ACHIEVEMENTS_SIDEBAR_SUMMARY_TOGGLE,672673611898880,Summary,Сводка
+ACHIEVEMENTS_SIDEBAR_TRACKED_TOGGLE,672774178725888,Tracked ({trackedAmount}),Отслеживается ({trackedAmount})
+ACHIEVEMENTS_UNLOCKED_TITLE,672376109916160,Achievements Unlocked,Достижения открыты
+ACHIEVEMENTS_WINDOW_TITLE,672225173692416,Achievements,Достижения
+ACHIEVEMENT_EARNED_LABEL,799143311171584,Achievement Earned,Достижение получено
+ACHIEVEMENT_REWARD_AMOUNT_LABEL,107679455371279,+{rewardAmount},+{rewardAmount}
+ACHIEVEMENT_REWARD_CLAIM_BUTTON,107679455371280,Claim,Забрать
+ACHIEVEMENT_TRACKING_TOOLTIP,107679455371277,Tracked achievements will display in the game with progress.\nYou can track up to 3 achievements,Отслеживаемые достижения показываются в игре с прогрессом.\nМожно отслеживать до 3 достижений
+ACHIEVEMENT_TRACK_LIMIT_WARNING,107679455371278,Can track maximum 3 achievements,Можно отслеживать максимум 3 достижения
+ACHIEVEMENT_TRACK_TOGGLE,674575913312256,Track,Отслеживать
+ACHIEVEMENT_UNLOCKED_CONTENT_LABEL,676173716643840,Unlocked,Открыто
+ACHIEVEMENT_UNLOCKS_CONTENT_LABEL,676058213900288,Unlocks,Открывает
+ARSENAL_ABILITIES_POOL_HINT,677641710460928,Your Abilities appear during a run from Shrine of Power,Ваши способности появляются во время забега из Святилища силы
+ARSENAL_ADD_TO_POOL_BUTTON,679493529231360,Equip,Экипировать
+ARSENAL_BUILD_TAGS_LABEL,683628538355712,Tags,Теги
+ARSENAL_DEFAULT_ITEM_CANNOT_REMOVE_MESSAGE,678276241547264,This is a default item and cannot be removed from your Arsenal,"Это предмет по умолчанию, его нельзя убрать из Арсенала"
+ARSENAL_FILTER_ABILITY_LABEL,710000000000051,Abilities,Способности
+ARSENAL_FILTER_ALL_LABEL,710000000000050,All,Все
+ARSENAL_FILTER_MORPH_LABEL,710000000000055,Global Morphs,Глобальные морфы
+ARSENAL_FILTER_RELIC_COMMON_LABEL,710000000000052,Common Relics,Обычные реликвии
+ARSENAL_FILTER_RELIC_EPIC_LABEL,710000000000054,Epic Relics,Эпические реликвии
+ARSENAL_FILTER_RELIC_RARE_LABEL,710000000000053,Rare Relics,Редкие реликвии
+ARSENAL_INACTIVE_ABILITIES,838502940925952,Inactive Abilities,Неактивные способности
+ARSENAL_INACTIVE_MORPHS,838411358298112,Inactive Morphs,Неактивные морфы
+ARSENAL_INACTIVE_RELICS,838473052315648,Inactive Relics,Неактивные реликвии
+ARSENAL_MINIMUM_POOL_THRESHOLD_MESSAGE,678359100022784,"This item cannot be removed, some slots must always be filled.","Этот предмет нельзя убрать, некоторые слоты всегда должны быть заполнены."
+ARSENAL_MORPHS_POOL_HINT,677503873048576,Your Morphs appear during a run when Leveling Up,Ваши морфы появляются во время забега при повышении уровня
+ARSENAL_RECOMMENDED_STATS_HINT,678126353899520,What to look for on gear,Что искать на снаряжении
+ARSENAL_RECOMMENDED_STATS_TITLE,678060880814080,Recommended Stats,Рекомендуемые характеристики
+ARSENAL_RELICS_POOL_HINT,677590225379328,Your Relics appear during a run from Treasure Chests,Ваши реликвии появляются во время забега из Сундуков с сокровищами
+ARSENAL_REMOVE_FROM_POOL_BUTTON,679851445968896,Remove,Убрать
+ARSENAL_REQUIRES_ACHIEVEMENT_LABEL,678580689297408,Requires,Требует
+ARSENAL_UNLOCK_SELECTION_BUTTON,679388902318080,Learn,Изучить
+ARSENAL_WINDOW_TITLE,677194379550720,Arsenal,Арсенал
+ASCEND_AFFIX_INFUSED_POSTFIX,1200000000000026, (Infused), (Наполнено)
+ASCEND_AFFIX_POSSIBLE_ROLL_LABEL,1200000000000024,Possible Roll,Возможный ролл
+ASCEND_AFFIX_POSSIBLE_ROLL_RANGE_FORMAT,1200000000000025,{minValue} to {maxValue},от {minValue} до {maxValue}
+ASCENSION_PLAYTEST_UNAVAILABLE,7219222164791296,"Ascension not available in Playtest
+Mythic gear coming up in Demo","Вознесение недоступно в плейтесте
+Мифическое снаряжение появится в Demo"
+AVAILABLE_IN_DEMO_HINT,4697145255911424,"Not available in this playtest
+Coming in the demo","Недоступно в этом плейтесте
+Появится в demo"
+AVAILABLE_IN_EA_HINT,4697242366631936,Available in Early Access,Доступно в раннем доступе
+BLACKSMITH_ASCEND_BUTTON,781977799090176,Ascend,Вознести
+BLACKSMITH_ASCEND_HEADER,781798140272640,Ascend to Mythic Rarity,Вознести до мифической редкости
+BLACKSMITH_ASCEND_REQUIREMENT_LABEL,781896748359680,Requires Legendary item with Major Affix,Требует легендарный предмет с главным аффиксом
+BLACKSMITH_ASCEND_TAB,781042066644992,Ascend,Вознести
+BLACKSMITH_EMPOWER_ARCHIVE_HINT,781254432645120,Choose archived power,Выберите архивную силу
+BLACKSMITH_EMPOWER_BUTTON,781382107258880,Empower,Усилить
+BLACKSMITH_EMPOWER_HEADER,781116356157440,Upgrade to Legendary,Улучшить до легендарного
+BLACKSMITH_EMPOWER_REQUIREMENT_LABEL,781208354021376,Common/Rare item with Major Affix,Обычный/Редкий предмет с главным аффиксом
+BLACKSMITH_EMPOWER_TAB,780994108973056,Empower,Усилить
+BLACKSMITH_INFUSE_BUTTON,781610327728128,Infuse,Наполнить
+BLACKSMITH_INFUSE_DESC,781535400681472,Raises all item properties by {0}%,Повышает все свойства предмета на {0}%
+BLACKSMITH_INFUSE_HEADER,781488479002624,Infuse Properties,Наполнить свойства
+BLACKSMITH_INFUSE_TAB,780940631597056,Infuse,Наполнить
+BLACKSMITH_WINDOW_TITLE,780887556874240,Blacksmith,Кузнец
+BOSS_SUMMON_BUTTON,705820764397568,Summon,Призвать
+BOSS_SUMMON_DESCRIPTION,705708495462400,<2>Offer</2> your stashed chaos <2>to summon</2> a boss,"<2>Предложите</2> накопленный хаос, <2>чтобы призвать</2> босса"
+BOSS_SUMMON_DIFFICULTY_COLUMN_LABEL,705934832689152,Difficulty,Сложность
+BOSS_SUMMON_REWARDS_COLUMN_LABEL,705873218363392,Rewards,Награды
+BOSS_SUMMON_WINDOW_TITLE,706010162388992,Summoning Ritual,Ритуал призыва
+BUILDS_PRESETS_LABEL,677728788406272,Presets,Пресеты
+BUILD_PRESET_CHANGED_NOTIFICATION,742443346550784,Preset {0} Activated,Пресет {0} активирован
+BULK_SALVAGE_BUTTON,795977819611136,Bulk Salvage,Разобрать всё
+CARD_SCREEN_MORPH_APPEAR_HINT,801825690214400,Collect Shade Essence to gain,"Собирайте Эссенцию Тени, чтобы получить"
+CHALLENGES_DIFFICULTY_COLUMN_LABEL,802170944348160,Difficulty,Сложность
+CHALLENGES_REWARDS_COLUMN_LABEL,802256243908608,Rewards,Награды
+CHALLENGE_TIME_LIMIT,802741667487744,Complete within {seconds} seconds,Завершите за {seconds} секунд
+CHAOS_LEVEL_LABEL,406943662333952,Chaos Level,Уровень хаоса
+CHARACTER_DETAILS_PANEL_HEADER,782281512837120,Details,Детали
+CHARACTER_DETAILS_TAB,782501281783808,Details,Детали
+CHARACTER_DETAILS_TOGGLE,1111811196706816,Details,Детали
+CHARACTER_WINDOW_TITLE,800695157514240,Character,Персонаж
+CHOOSE_NEW_ABILITY_HEADER,801714511798272,CHOOSE NEW ABILITY,ВЫБЕРИТЕ НОВУЮ СПОСОБНОСТЬ
+CINEMATIC_SKIP_HOLD_PROMPT,837303193821184,Hold [W0] to skip,"Удерживайте [W0], чтобы пропустить"
+CLOSE_POPUP_BUTTON,799004676841472,Close,Закрыть
+CONTINUE_NEXT_STAGE_BUTTON,801545527484416,Continue to Stage {stageNumber},Перейти к этапу {stageNumber}
+CONTROLS_AIMING_AUTOMATIC_TOGGLE,431041213882368,Automatic,Автоматическое
+CONTROLS_AIMING_MANUAL_TOGGLE,430800288866304,Manual,Ручное
+CONTROLS_CONTROLLER_INFO,7226818636537856,Controller auto-detects when plugged in,Контроллер определяется автоматически при подключении
+CONTROLS_INPUT_KEYBOARD_TOGGLE,431100374540288,Keyboard,Клавиатура
+CONTROLS_INPUT_MOUSE_TOGGLE,431171879034880,Mouse,Мышь
+CONTROLS_PANEL_AIMING_TITLE,428882179121152,Aiming,Прицеливание
+CONTROLS_PANEL_TITLE,428512010821632,Game Controls,Управление
+DAMAGE_METER_AVERAGE_LABEL,765070668718080,Avg:,Сред.:
+DAMAGE_METER_DPS_LABEL,764988397445120,DPS:,DPS:
+DELETE_SAVE_SLOT_BUTTON,106686860746752,Delete,Удалить
+DIALOGUE_CONTINUE_BUTTON,1102417109180416,Continue,Продолжить
+DIFFICULTY_HARD,789910129729536,Hard,Тяжёлая
+DIFFICULTY_MAGIC_FIND_BONUS,789980086525952,Magic Find: <1>{0}</1>,Поиск магии: <1>{0}</1>
+DIFFICULTY_NORMAL,789858246189056,Normal,Нормальная
+DIFFICULTY_SCORE_BONUS,790032183975936,Bonus Score: <1>{0}</1>,Бонусные очки: <1>{0}</1>
+EFFIGY_ACTIVATE_BUTTON,703574236454912,Activate,Активировать
+EFFIGY_ACTIVATE_DESCRIPTION,703174137602048,<2>Spend</2> your <2>chaos</2> to <2>boost rewards</2> for higher difficulty,"<2>Потратьте</2> свой <2>хаос</2>, чтобы <2>повысить награды</2> за большую сложность"
+EFFIGY_DIFFICULTY_COLUMN_LABEL,703384934932480,Difficulty,Сложность
+EFFIGY_REWARDS_COLUMN_LABEL,703505084964864,Rewards,Награды
+EFFIGY_WINDOW_TITLE,703319323435008,Effigy,Идол
+END_GAME_ACHIEVEMENTS_HEADER,753395869671424,Achievements,Достижения
+END_GAME_CHAOS_GAINED_LABEL,753210498211840,Chaos Gained,Получено хаоса
+END_GAME_CHAOS_LEVEL_LABEL,107679455371291,Chaos Level {level},Уровень хаоса {level}
+END_GAME_CONTINUE_BUTTON,755844370128896,Continue,Продолжить
+END_GAME_DAMAGE_DEALT_LABEL,755477221728256,Damage Dealt,Нанесено урона
+END_GAME_DAMAGE_STATISTICS_DAMAGE_COLUMN_LABEL,753652175200256,Damage,Урон
+END_GAME_DAMAGE_STATISTICS_HEADER,753464287158272,Damage Statistics,Статистика урона
+END_GAME_DAMAGE_STATISTICS_NAME_COLUMN_LABEL,753520843153408,Name,Имя
+END_GAME_DAMAGE_STATISTICS_TIME_COLUMN_LABEL,753620009082880,Time,Время
+END_GAME_EXPEDITION_CLEAR_COMPLETE_TITLE,750585082011648,{mapName} Clear Complete,{mapName}: зачистка завершена
+END_GAME_EXPEDITION_CLEAR_FAILED_TITLE,750648676048896,{mapName} Clear Failed,{mapName}: зачистка провалена
+END_GAME_EXTRACTED_ITEMS_TAB,749355781840896,Extracted,Извлечённое
+END_GAME_EXTRACTION_COMPLETE_TITLE,750426600235008,{mapName} Extraction Complete,{mapName}: извлечение завершено
+END_GAME_GLOBAL_RANK_MESSAGE,107679455371287,Rank #{rank} of all players,Место #{rank} среди всех игроков
+END_GAME_GOLD_COLLECTED_LABEL,755509010358272,Gold Collected,Собрано золота
+END_GAME_HERO_LEVEL_LABEL,755540832542720,Hero Level,Уровень героя
+END_GAME_KILLS_LABEL,755422205042688,Kills,Убийства
+END_GAME_NEW_HIGH_SCORE_LABEL,757254092480512,New High Score,Новый рекорд
+END_GAME_RESTART_BUTTON,755742184300544,Restart,Заново
+END_GAME_RIFTS_CLOSED_LABEL,755599221448704,Rifts Closed,Закрыто разломов
+END_GAME_RUN_POWERS_TAB,749447460937728,Run Powers,Силы забега
+END_GAME_RUN_XP_REWARD_MESSAGE,107679455371292,+{experience} xp,+{experience} опыта
+END_GAME_SCORE_LABEL,755640447262720,Score,Очки
+END_GAME_SKIP_ANIMATIONS_BUTTON,755792176209920,Skip,Пропустить
+END_GAME_TIME_SURVIVED_LABEL,755159083769856,Time Survived,Время выживания
+ENTER_MAP_BUTTON,790125565960192,Start {0},Начать {0}
+ENUM_ACHIEVEMENT_CATEGORY_ABILITY_LABEL,710000000000028,Abilities,Способности
+ENUM_ACHIEVEMENT_CATEGORY_FEATS_OF_STRENGTH_LABEL,710000000000033,Feats of Strength,Подвиги
+ENUM_ACHIEVEMENT_CATEGORY_GENERAL_LABEL,710000000000027,General,Общие
+ENUM_ACHIEVEMENT_CATEGORY_LIFETIME_LABEL,710000000000031,Lifetime,За всё время
+ENUM_ACHIEVEMENT_CATEGORY_MORPH_LABEL,710000000000029,Morphs,Морфы
+ENUM_ACHIEVEMENT_CATEGORY_RELIC_LABEL,710000000000030,Relics,Реликвии
+ENUM_ACHIEVEMENT_CATEGORY_RUN_LABEL,710000000000032,Runs,Забеги
+ENUM_ACHIEVEMENT_CATEGORY_SECRET_LABEL,710000000000034,Secrets,Секреты
+ENUM_ACHIEVEMENT_CATEGORY_UNDEFINED_LABEL,710000000000026,Undefined,Не задано
+ENUM_DAMAGE_CATEGORY_BLEED_LABEL,710000000000020,Bleed,Кровотечение
+ENUM_DAMAGE_CATEGORY_BURN_LABEL,710000000000018,Burn,Горение
+ENUM_DAMAGE_CATEGORY_COLD_LABEL,710000000000023,Cold,Холодный
+ENUM_DAMAGE_CATEGORY_FIRE_LABEL,710000000000019,Fire,Огненный
+ENUM_DAMAGE_CATEGORY_LIGHTNING_LABEL,710000000000017,Lightning,Молния
+ENUM_DAMAGE_CATEGORY_MYSTIC_LABEL,710000000000024,Mystic,Мистический
+ENUM_DAMAGE_CATEGORY_NECROTIC_LABEL,710000000000021,Necrotic,Некротический
+ENUM_DAMAGE_CATEGORY_PHYSICAL_LABEL,710000000000016,Physical,Физический
+ENUM_DAMAGE_CATEGORY_POISON_LABEL,710000000000025,Poison,Ядовитый
+ENUM_DAMAGE_CATEGORY_SHADOW_LABEL,710000000000022,Shadow,Теневой
+ENUM_HERO_CLASS_MAGE_LABEL,710000000000037,Mage,Маг
+ENUM_HERO_CLASS_PALADIN_LABEL,710000000000036,Paladin,Паладин
+ENUM_HERO_CLASS_UNDEFINED_LABEL,710000000000035,Undefined,Не задано
+ENUM_INVENTORY_SORT_BY_ACQUISITION_LABEL,710000000000000,By Acquisition,По получению
+ENUM_INVENTORY_SORT_BY_ITEM_LEVEL_LABEL,710000000000002,By Item Level,По уровню предмета
+ENUM_INVENTORY_SORT_BY_ITEM_TYPE_LABEL,710000000000003,By Item Type,По типу предмета
+ENUM_INVENTORY_SORT_BY_RARITY_LABEL,710000000000001,By Rarity,По редкости
+ENUM_POWERUP_TAG_AREA_LABEL,710000000000059,Area,Площадь
+ENUM_POWERUP_TAG_CRIT_LABEL,710000000000057,Crit,Крит
+ENUM_POWERUP_TAG_CROWD_CONTROL_LABEL,710000000000064,Crowd Control,Контроль
+ENUM_POWERUP_TAG_DAMAGE_LABEL,710000000000068,Damage,Урон
+ENUM_POWERUP_TAG_DASH_LABEL,710000000000065,Dash,Рывок
+ENUM_POWERUP_TAG_ECONOMY_LABEL,710000000000067,Economy,Экономика
+ENUM_POWERUP_TAG_HASTE_LABEL,710000000000061,Haste,Спешка
+ENUM_POWERUP_TAG_MOVE_SPEED_LABEL,710000000000066,Move Speed,Скорость
+ENUM_POWERUP_TAG_OVERCHARGE_LABEL,710000000000063,Overcharge,Перегрузка
+ENUM_POWERUP_TAG_PROJECTILE_LABEL,710000000000058,Projectile,Снаряд
+ENUM_POWERUP_TAG_STATUS_EFFECTS_LABEL,710000000000060,Status Effects,Эффекты
+ENUM_POWERUP_TAG_SUSTAIN_LABEL,710000000000062,Sustain,Устойчивость
+ENUM_POWERUP_TAG_UNDEFINED_LABEL,710000000000056,Undefined,Не задано
+ENUM_STAT_PREFIX_APPLY_CHANCE_LABEL,710000000000015,Apply Chance,Шанс наложения
+ENUM_STAT_PREFIX_ATTACK_SPEED_LABEL,710000000000011,Attack Speed,Скорость атаки
+ENUM_STAT_PREFIX_BOUNCE_COUNT_LABEL,710000000000012,Bounce Count,Число отскоков
+ENUM_STAT_PREFIX_COOLDOWN_LABEL,710000000000005,Cooldown,Перезарядка
+ENUM_STAT_PREFIX_COUNT_LABEL,710000000000006,Count,Количество
+ENUM_STAT_PREFIX_DAMAGE_LABEL,710000000000004,Damage,Урон
+ENUM_STAT_PREFIX_DURATION_LABEL,710000000000007,Duration,Длительность
+ENUM_STAT_PREFIX_PROJECTILE_COUNT_LABEL,710000000000008,Projectile Count,Число снарядов
+ENUM_STAT_PREFIX_RADIUS_LABEL,710000000000010,Radius,Радиус
+ENUM_STAT_PREFIX_RANGE_LABEL,710000000000013,Range,Дальность
+ENUM_STAT_PREFIX_SPREAD_CHANCE_LABEL,710000000000009,Spread Chance,Шанс распространения
+ENUM_STAT_PREFIX_TRIGGER_CHANCE_LABEL,710000000000014,Trigger Chance,Шанс срабатывания
+ENUM_TREE_NODE_TYPE_MAJOR_LABEL,710000000000070,Major,Главный
+ENUM_TREE_NODE_TYPE_MINOR_LABEL,710000000000069,Minor,Малый
+ENUM_TREE_NODE_TYPE_SPECIALIZATION_LABEL,710000000000071,Specialization,Специализация
+EPIC_REROLL_BUTTON,803347178184704,Epic\nReroll,Эпический\nреролл
+ETERNAL_TREE_BUY_POINTS_BUTTON,742232792489984,Buy Point,Купить очко
+ETERNAL_TREE_MAX_POINTS_REACHED_NOTIFICATION,742350786650112,Maximum points reached,Достигнут максимум очков
+ETERNAL_TREE_POINTS_AVAILABLE_LABEL,742278279716864,Points Available,Доступно очков
+ETERNAL_TREE_RESET_POINTS_BUTTON,742097333248000,Reset,Сброс
+ETERNAL_TREE_TOTAL_POINTS_PURCHASED_LABEL,740067478855680,Total Points Purchased,Всего куплено очков
+EVOLUTION_MORPHS_LABEL,804303055872000,Evolution Morphs,Эволюционные морфы
+EXPEDITION_MODE_WINDOW_TITLE,788791815036928,Expedition Mode,Режим экспедиции
+FOCUS_TRAITS_LABEL,1098380674588672,Focus Traits,Фокус-трейты
+FOCUS_TRAIT_PROGRESS_LABEL,107679455371290,{currentProgress}/{requiredProgress},{currentProgress}/{requiredProgress}
+FOCUS_TRAIT_TAG_LABEL,8684658739896320,Focus Trait,Фокус-трейт
+GAME_CONTROLS_HINT,8733130625114112,Choose your playstyle,Выберите свой стиль игры
+GEAR_ITEM_LEVEL_LABEL,1200000000000017,Item Level {itemLevel},Уровень предмета {itemLevel}
+GEAR_ITEM_TYPE_LABEL,1200000000000018,{rarity} {gearType},{rarity} {gearType}
+GEAR_SLOT_UNDEFINED_LABEL,710000000000042,Undefined,Не определено
+GLUE_SCREEN_LOADING_LABEL,799376430587904,Loading,Загрузка
+HERO_EXPERIENCE_LABEL,107679455371289,{currentExperience} / {requiredExperience},{currentExperience} / {requiredExperience}
+HERO_LEVEL_LABEL,107679455371288,Level {level},Уровень {level}
+HERO_TOTAL_ITEM_LEVEL_LABEL,8668351617294336,Total Item Lvl,Общий ур. предметов
+HUD_ESCAPE_TO_OBELISK_HINT,763776159703040,Escape to Obelisk,Бежать к Обелиску
+HUD_OPEN_CHARACTER_SHEET_TOGGLE,782075169857536,Character,Персонаж
+HUD_OPEN_INVENTORY_TOGGLE,782177078861824,Inventory,Инвентарь
+INVENTORY_EXTRACTED_ITEMS_HEADER,754854329835520,Extracted Items,Извлечённые предметы
+INVENTORY_EXTRACTED_RESOURCES_HEADER,754718245642240,Extracted Resources,Извлечённые ресурсы
+INVENTORY_TITLE,400314178985984,Inventory,Инвентарь
+LEADERBOARD_BEST_IN_WORLD,789148884525056,Best in the World,Лучший в мире
+LEADERBOARD_FRIENDS_TAB,789005128949760,Friends,Друзья
+LEADERBOARD_GLOBAL_TAB,788950229704704,Global,Глобальная
+LEADERBOARD_NAME_DISALLOWED_ERROR,107679455371276,Please choose a different name.,"Пожалуйста, выберите другое имя."
+LEADERBOARD_NAME_EMPTY_ERROR,107679455371272,Name cannot be empty.,Имя не может быть пустым.
+LEADERBOARD_NAME_INVALID_CHARACTERS_ERROR,107679455371275,"Name can only use letters, numbers, spaces, '_' and '-'.","Имя может содержать только буквы, цифры, пробелы, «_» и «-»."
+LEADERBOARD_NAME_SAVE_FAILED_ERROR,107679455371271,Failed to save name. Please try again.,Не удалось сохранить имя. Попробуйте ещё раз.
+LEADERBOARD_NAME_TOO_LONG_ERROR,107679455371274,Name must be at most {maxLength} characters long.,Имя должно быть не длиннее {maxLength} символов.
+LEADERBOARD_NAME_TOO_SHORT_ERROR,107679455371273,Name must be at least {minLength} characters long.,Имя должно быть не короче {minLength} символов.
+LEADERBOARD_PLAYER_NOT_YET_RANKED,789061592670208,No Rank Yet,Пока без ранга
+LEADERBOARD_RESET_DAYS_ABBREVIATED,200000000000002,{value}d,{value}д
+LEADERBOARD_RESET_HOURS_ABBREVIATED,200000000000003,{value}h,{value}ч
+LEADERBOARD_RESET_MINUTES_ABBREVIATED,200000000000004,{value}m,{value}м
+LEADERBOARD_RESET_TIMER_LABEL,790180000000000,{timeLeft} until reset,{timeLeft} до сброса
+LEADERBOARD_TITLE,788889726869504,Leaderboard,Таблица лидеров
+LEADERBOARD_TOP_PLAYERS_INFO,107679455371293,In top {0}% of players,В топ {0}% игроков
+LEADERBOARD_UNAVAILABLE_WARNING,3975230161674240,Leaderboards are temporarily unavailable,Таблицы лидеров временно недоступны
+LEGENDARY_POWER_ACTIVATED,804197829173248,Legendary power activated,Легендарная сила активирована
+LEVEL_UP_PICKER_TITLE,107679455371284,Level Up,Повышение уровня
+MAIN_MENU_SAVE_SLOTS_HEADER,101237025398784,Continue or start a new profile,Продолжить или начать новый профиль
+MAPSELECTION_BOSSINFO,10069096783872,Bosses: {0},Боссы: {0}
+MAPSELECTION_STAGEINFO,10216346214400,Stages: {0},Этапы: {0}
+MAP_DIFFICULTY_LABEL,789782786465792,Difficulty,Сложность
+MAP_SELECT_STAGES_COUNT_FOR_TIER,1738616710619136,Stages: <1>{0}</1>,Этапы: <1>{0}</1>
+MAP_TIERS_TITLE,788839818846208,Map Tiers,Ранги карт
+MAP_UNDERCRYPT_NAME,790331380457472,Undercrypt,Подсклеп
+MORPH_EVOLVE_BUTTON,803116550184960,Evolve Now,Эволюция сейчас
+MORPH_PICKER_TITLE,107679455371283,Choose Morph to Pursue,Выберите морф для развития
+MORPH_VENDOR_CLOSE_BUTTON,803022245453824,Leave,Выйти
+NEW_POWERUP_HINT,1100710409134080,NEW,НОВОЕ
+NOTIFICATION_FEATURE_UNLOCKED_POSTFIX,2891813659598848,Unlocked,Разблокировано
+ONBOARDING_ARSENAL_WINDOW_DESC,50984804933633,<1>Arsenal</1> is now available. Open it to learn new powers and create your builds.,"Теперь доступен <1>Арсенал</1>. Откройте его, чтобы изучать новые силы и создавать свои билды."
+ONBOARDING_ARSENAL_WINDOW_TITLE,50984804933632,Arsenal,Арсенал
+ONBOARDING_EXPLAIN_ARSENAL_DESC,50984804933635,"Add abilities and relics here to decide what can appear in a run.
+During a run, <1>shrines</1> and <1>chests</1> only offer random picks from what you added.","Добавляйте сюда способности и реликвии, чтобы решить, что может появиться в забеге.
+Во время забега <1>святилища</1> и <1>сундуки</1> предлагают лишь случайный выбор из того, что вы добавили."
+ONBOARDING_EXPLAIN_ARSENAL_DETAIL_DESC,50984809127941,"Learn new abilities and buy relics.
+
+Active powers <1>have a chance</1> to appear during your runs.
+Arsenal is where you shape your playstyle.","Изучайте новые способности и покупайте реликвии.
+
+Активные силы <1>имеют шанс</1> появиться во время забегов.
+Арсенал — это место, где вы формируете свой стиль игры."
+ONBOARDING_EXPLAIN_ARSENAL_TITLE,50984804933634,Build your Power,Создайте свою силу
+ONBOARDING_EXPLAIN_COLLAPSE_DESC,50984809127945,"While the <1>Obelisk</1> is open, you can seal <1>Rifts</1> for <1>Chaos</1> and <1>Score</1>. Sealing also extends the timer.
+
+When the timer runs out, <1>The Collapse</1> begins, and deadly corruption slowly consumes the map.","Пока <1>Обелиск</1> открыт, вы можете запечатывать <1>Разломы</1> за <1>Хаос</1> и <1>Очки</1>. Запечатывание также продлевает таймер.
+
+Когда таймер истечёт, начнётся <1>Коллапс</1>, и смертоносная порча медленно поглотит карту."
+ONBOARDING_EXPLAIN_COLLAPSE_TITLE,50984804933636,Rifts,Разломы
+ONBOARDING_EXPLAIN_EXIT_PORTAL_DESC,50984809127942,"This portal lets you leave the run early and keep your loot.
+
+You can return here later to extract.","Этот портал позволяет покинуть забег раньше времени и сохранить добычу.
+
+Вы можете вернуться сюда позже, чтобы извлечь её."
+ONBOARDING_EXPLAIN_EXIT_PORTAL_TITLE,50984804933637,Exit Portal,Портал выхода
+ONBOARDING_EXPLAIN_LOOT_SAFETY_DESC,50984809127944,"Your first <1>3 loot items</1> are secured automatically.
+
+Any extra loot is unsecured and will be lost if you die.","Первые <1>3 предмета добычи</1> защищаются автоматически.
+
+Любая лишняя добыча незащищена и будет потеряна, если вы погибнете."
+ONBOARDING_EXPLAIN_LOOT_SAFETY_TITLE,50984804933638,Loot Safety,Сохранность добычи
+ONBOARDING_EXPLAIN_OBELISK_DESC,50984809127943,<1>The Obelisk</1> is now charged: <1>Escape</1> to complete the Expedition.,"<1>Обелиск</1> теперь заряжен: <1>Бегите</1>, чтобы завершить экспедицию."
+ONBOARDING_EXPLAIN_OBELISK_TITLE,50984809127936,The Obelisk,Обелиск
+ONBOARDING_INVENTORY_DESC,50984809127938,You have a new item. Open inventory and equip it to get stronger.,"У вас новый предмет. Откройте инвентарь и экипируйте его, чтобы стать сильнее."
+ONBOARDING_INVENTORY_TITLE,50984809127937,Equipment,Снаряжение
+ONBOARDING_SHRINE_OF_POWER_DESC,50984809127940,Locate and activate Shrine of Power to gain a new ability,"Найдите и активируйте Святилище силы, чтобы получить новую способность"
+ONBOARDING_SHRINE_OF_POWER_TITLE,50984809127939,Gaining Abilities,Получение способностей
+OPTIONS_ANTI_ALIASING_LABEL,671270394912768,Anti-Aliasing,Сглаживание
+OPTIONS_CAMERA_SHAKE_LABEL,699516859703296,Camera Shake,Тряска камеры
+OPTIONS_CATEGORY_AUDIO_TAB,669909833998336,Audio,Звук
+OPTIONS_CATEGORY_DISPLAY_TAB,670013101957120,Display,Экран
+OPTIONS_CATEGORY_GAME_TAB,669815252443136,Game,Игра
+OPTIONS_COMBAT_LOG_LABEL,670456305672192,Combat Log,Боевой журнал
+OPTIONS_CONFINE_CURSOR_LABEL,670277485715456,Confine Cursor,Удерживать курсор
+OPTIONS_DAMAGE_METER_LABEL,670510210867200,Damage Meter,Счётчик урона
+OPTIONS_FRAME_RATE_LIMIT_LABEL,671525433761793,Frame Rate Limit,Ограничение кадров
+OPTIONS_FULLSCREEN_LABEL,671226585407488,Fullscreen,Полный экран
+OPTIONS_GLOBAL_VOLUME_LABEL,670089450872832,Global Volume,Общая громкость
+OPTIONS_GRAPHIC_QUALITY_LABEL,671415928872960,Graphic Quality,Качество графики
+OPTIONS_INPUT_HAND_MODE_LABEL,1200000000000100,Input Hand Mode,Ведущая рука
+OPTIONS_LANGUAGE_LABEL,1200000000000103,Language,Язык
+OPTIONS_MUSIC_LABEL,670158640111616,Music,Музыка
+OPTIONS_PANEL_TITLE,669714740142080,Options,Настройки
+OPTIONS_RESOLUTION_LABEL,671475202777088,Resolution,Разрешение
+OPTIONS_SHADOWS_LABEL,671375525142528,Shadows,Тени
+OPTIONS_SHOW_DAMAGE_NUMBERS_LABEL,670379273084928,Show Damage Numbers,Показывать цифры урона
+OPTIONS_SOUND_EFFECTS_LABEL,670207730245632,SFX,Звуки
+OPTIONS_SPECIAL_EFFECT_QUALITY_LABEL,671525433761792,Special Effect Quality,Качество спецэффектов
+OPTIONS_SSAO_LABEL,671320512651264,SSAO,SSAO
+OPTIONS_VSYNC_LABEL,671164920750080,VSync,Верт. синхр.
+PAUSE_MENU_GIVE_UP_BUTTON,666872348401664,Give Up,Сдаться
+PAUSE_MENU_MAIN_MENU_BUTTON,663522361991168,Main Menu,Главное меню
+PAUSE_MENU_OPTIONS_BUTTON,663472089063424,Options,Настройки
+PAUSE_MENU_QUIT_BUTTON,663589739290624,QUIT,ВЫХОД
+PAUSE_MENU_RESTART_BUTTON,666826634682368,Restart,Заново
+PAUSE_MENU_RESUME_BUTTON,431264212443136,Resume,Продолжить
+PLAYER_LEADERBOARD_RANK_LABEL,757469197361152,Rank #{0} of all players,Место #{0} среди всех игроков
+POWERUP_CATEGORY_ABILITY_LABEL,50984708464642,Ability,Способность
+POWERUP_CATEGORY_ABILITY_MORPH_LABEL,50984708464640,Morph - {prerequisiteName},Морф — {prerequisiteName}
+POWERUP_CATEGORY_ABILITY_TRAIT_LABEL,50984704270337,Trait - {prerequisiteName},Трейт — {prerequisiteName}
+POWERUP_CATEGORY_GLOBAL_MORPH_LABEL,50984708464644,Global Morph,Глобальный морф
+POWERUP_CATEGORY_MAIN_ATTACK_MORPH_LABEL,50984708464643,Main Attack Morph,Морф основной атаки
+POWERUP_CATEGORY_MAIN_ATTACK_TRAIT_LABEL,50984708464641,Main Attack Trait,Трейт основной атаки
+POWERUP_CATEGORY_MORPH_EVOLUTION_LABEL,50984708464645,Morph Evolution,Эволюция морфа
+POWERUP_CATEGORY_TRAIT_LABEL,50984704270336,Trait,Трейт
+POWERUP_MORPH_INFO_TOOLTIP_FORMAT,50984700076044,"During a run, collect {requiredUpgrades} <1>Morph Cards</1> from <1>Treasure Chests</1> to activate this Morph.","Во время забега соберите {requiredUpgrades} <1>карт морфа</1> из <1>сундуков с сокровищами</1>, чтобы активировать этот морф."
+POWERUP_PICKER_TITLE,107679455371282,Pick Powerup,Выберите усиление
+PRELOAD_SELECT_CONTROLS_HEADER,2478537113067520,Select Controls,Выбор управления
+PRESET_ACTIVATED_NOTIFICATION,107679455371281,Preset {presetIndex} activated.,Пресет {presetIndex} активирован.
+PROGRESSION_TREE_NODE_COMPLETED,748377636593664,Completed,Завершено
+PROGRESSION_TREE_SPECIALIZATION_EXCLUSIVE_WARNING,107679455371286,Mutually exclusive with other specializations,Взаимоисключаемо с другими специализациями
+PROGRESSION_TREE_WINDOW_TITLE,748295021387776,Progression Journey,Путь развития
+PROGRESSION_TREE_WISHLIST_CTA,4697306388488192,Thank you for playing and WISHLIST Hellforged on Steam,Спасибо за игру и добавьте Hellforged в список желаемого в Steam
+QUIT_GAME_BUTTON,106108579471360,Quit,Выход
+RECOMMENDED_STATS_TOOLTIP,5770292214358016,Stats defined by your current Arsenal build. These are optimal stats to look on for your gear to help you scale your abilities and relics the best.,"Характеристики, заданные вашим текущим билдом Арсенала. Это оптимальные характеристики, которые стоит искать на снаряжении, чтобы лучше всего масштабировать ваши способности и реликвии."
+RELIC_CARD_CATEGORY_LABEL,1200000000000027,Relic,Реликвия
+RUN_POWERS_ABILITIES_HEADER,803819620392960,Abilities,Способности
+RUN_POWERS_LEGENDARIES_HEADER,803932166152192,Legendaries,Легендарные
+RUN_POWERS_MORPHS_HEADER,803883000520704,Morphs,Морфы
+RUN_POWERS_RELICS_HEADER,803991188398080,Relics,Реликвии
+RUN_POWERS_TRAITS_HEADER,804028983271424,Traits,Трейты
+RUN_STAGES_HEADER,801096292360192,Run Stages,Этапы забега
+SALVAGE_BUTTON,795690933411840,Salvage,Разобрать
+SALVAGING_ADD_ALL_BUTTON,795757127917568,Add All,Добавить всё
+SALVAGING_ADD_ALL_COMMON_BUTTON,795811670646784,Add Common,Добавить обычные
+SALVAGING_ADD_ALL_LEGENDARY_BUTTON,795920428949504,Add Legendary,Добавить легендарные
+SALVAGING_ADD_ALL_RARE_BUTTON,795881233178624,Add Rare,Добавить редкие
+SALVAGING_WINDOW_HEADER,795639976812544,Salvaging,Разбор
+SAVE_SLOT_CREATE_NEW_PROMPT,107090407317504,Create new save,Создать новое сохранение
+SAVE_SLOT_DELETE_CONFIRM_BUTTON,107679455371267,Delete,Удалить
+SAVE_SLOT_DELETE_CONFIRM_MESSAGE,107679455371266,Are you sure you want to delete save in slot {slotId}?,"Вы уверены, что хотите удалить сохранение в слоте {slotId}?"
+SAVE_SLOT_DELETE_CONFIRM_TITLE,107679455371265,Delete Save,Удалить сохранение
+SAVE_SLOT_NAME,107679455371264,Save Slot {slotIndex},Слот сохранения {slotIndex}
+SAVE_SLOT_NEW_SAVE_CONFIRM_BUTTON,107679455371270,Create,Создать
+SAVE_SLOT_NEW_SAVE_CONFIRM_MESSAGE,107679455371269,Create a new save in slot {slotId}?,Создать новое сохранение в слоте {slotId}?
+SAVE_SLOT_NEW_SAVE_CONFIRM_TITLE,107679455371268,New Save,Новое сохранение
+SAVE_SLOT_NO_FILE_LABEL,107679455371285,Game Save (No File),Сохранение игры (нет файла)
+SCORE_COLON,789701463105536,Score:,Очки:
+SECURED_LOOT_INFO,800827093540864,All your loot is now secured and won't be lost on death,Вся ваша добыча теперь защищена и не будет потеряна при смерти
+SECURED_LOOT_LABEL,803649100963840,Secured Loot,Защищённая добыча
+SECURED_LOOT_PANEL_HEADER,5756458934198272,Secured Loot,Защищённая добыча
+SETTINGS_GRAPHIC_QUALITY_HIGH_LABEL,1200000000000019,High,Высокое
+SETTINGS_GRAPHIC_QUALITY_LOW_LABEL,1200000000000020,Low,Низкое
+SETTINGS_INPUT_HAND_MODE_LEFT_HANDED_LABEL,1200000000000102,Left-handed,Левая рука
+SETTINGS_INPUT_HAND_MODE_RIGHT_HANDED_LABEL,1200000000000101,Right-handed,Правая рука
+SETTINGS_VFX_QUALITY_PERFORMANCE_LABEL,1200000000000022,Performance,Производительность
+SETTINGS_VFX_QUALITY_QUALITY_LABEL,1200000000000021,Quality,Качество
+SETTINGS_VFX_QUALITY_ULTRA_PERFORMANCE_LABEL,1200000000000023,Ultra Performance,Максимальная производительность
+SOCIAL_DISCORD_BUTTON,660205892263936,Join our Discord,Вступайте в наш Discord
+SOCIAL_FEEDBACK_FORM_BUTTON,2481071617728512,Feedback,Отзыв
+SOCIAL_WISHLIST_BUTTON,663245806362624,WISHLIST,В ЖЕЛАЕМОЕ
+STASH_SORT_BY_ACQUISITION_TOGGLE,779494716596224,By Acquisition,По получению
+STASH_SORT_BY_ITEM_POWER_TOGGLE,779375006965760,By Item Power,По силе предмета
+STASH_SORT_BY_ITEM_TYPE_TOGGLE,779452291211264,By Type,По типу
+STASH_SORT_BY_RARITY_TOGGLE,779284032512000,By Rarity,По редкости
+STASH_WINDOW_TITLE,779041102618624,Stash,Хранилище
+STAT_ABILITY_CAST_SPEED_BONUS_DESC,690000000000015,Increases how often your Abilities trigger,Увеличивает частоту срабатывания ваших способностей
+STAT_ABILITY_CAST_SPEED_BONUS_LABEL,690000000000005,Cast Speed Bonus,Бонус скорости каста
+STAT_ABILITY_DAMAGE_BONUS_DESC,690000000000138,Increases damage dealt by abilities. Main Attack does not scale with this value.,"Увеличивает урон, наносимый способностями. Основная атака не масштабируется от этого значения."
+STAT_ABILITY_DAMAGE_BONUS_LABEL,690000000000075,Ability Damage Bonus,Бонус урона способностей
+STAT_ABSORB_LABEL,690000000000037,Absorb,Поглощение
+STAT_ALL_DAMAGE_BONUS_DESC,690000000000137,"Increases all damage you deal, including Main Attack, abilities, Overcharge, and status effects.","Увеличивает весь наносимый вами урон, включая основную атаку, способности, перегрузку и эффекты."
+STAT_ALL_DAMAGE_BONUS_LABEL,690000000000004,All Damage,Весь урон
+STAT_ARC_ANGLE_LABEL,690000000000097,Arc Angle,Угол дуги
+STAT_AREA_BONUS_DESC,690000000000151,"Increases the size of area abilities, letting them hit enemies in a larger area.","Увеличивает размер площадных способностей, позволяя им поражать врагов на большей территории."
+STAT_AREA_BONUS_LABEL,690000000000083,Area Bonus,Бонус площади
+STAT_ARMOR_DESC,690000000000007,"<1>Armor</1> reduces physical damage done to you by enemies. Maximum effective armor is capped at <1>{maximumArmor}</1>
+Reduction cannot exceed <1>{armorCap}</1>. Reduction cap can be increased in the Eternal Tree.
+
+Current reduction: <1>{currentReduction}</1>","<1>Броня</1> снижает физический урон, наносимый вам врагами. Максимально эффективная броня ограничена значением <1>{maximumArmor}</1>
+Снижение не может превышать <1>{armorCap}</1>. Предел снижения можно повысить в Вечном Древе.
+
+Текущее снижение: <1>{currentReduction}</1>"
+STAT_ARMOR_LABEL,690000000000034,Armor,Броня
+STAT_ARMOR_PERCENTAGE_CAP_DESC,690000000000135,Maximum physical damage reduction Armor can reach. Raising this lets Armor protect you past its current cap.,"Максимальное снижение физического урона, которого может достичь броня. Повышение этого значения позволяет броне защищать вас сверх текущего предела."
+STAT_ARMOR_PERCENTAGE_CAP_LABEL,690000000000039,Armor Percentage Cap,Предел брони (%)
+STAT_ATTACK_RANGE_LABEL,690000000000080,Attack Range,Дальность атаки
+STAT_ATTACK_SPEED_DESC,690000000000014,Frequency of main attack per second,Частота основной атаки в секунду
+STAT_ATTACK_SPEED_LABEL,690000000000079,Attack Speed,Скорость атаки
+STAT_BASE_BLEED_DAMAGE_DESC,690000000000148,Makes Bleed effects deal more damage. Added to Attack Damage before the Bleed damage percent and damage bonuses are calculated.,Заставляет эффекты кровотечения наносить больше урона. Добавляется к урону атаки до расчёта процента урона кровотечения и бонусов урона.
+STAT_BASE_BLEED_DAMAGE_LABEL,690000000000067,Base Bleed Damage,Базовый урон кровотечения
+STAT_BASE_BURN_DAMAGE_DESC,690000000000149,Makes Burn effects deal more damage. Added to Attack Damage before the Burn damage percent and damage bonuses are calculated.,Заставляет эффекты горения наносить больше урона. Добавляется к урону атаки до расчёта процента урона горения и бонусов урона.
+STAT_BASE_BURN_DAMAGE_LABEL,690000000000068,Base Burn Damage,Базовый урон горения
+STAT_BASE_COLD_DAMAGE_DESC,690000000000143,Makes Cold abilities hit harder. Added to Attack Damage before the ability damage percent and damage bonuses are calculated.,Заставляет холодные способности бить сильнее. Добавляется к урону атаки до расчёта процента урона способностей и бонусов урона.
+STAT_BASE_COLD_DAMAGE_LABEL,690000000000062,Base Cold Damage,Базовый холодный урон
+STAT_BASE_DAMAGE_DESC,690000000000009,"<1>Attack Damage</1> is the core stat that all your attacks and abilities scale from, forming the foundation for your total damage output.","<1>Урон атаки</1> — это ключевая характеристика, от которой масштабируются все ваши атаки и способности, образуя основу для вашего общего урона."
+STAT_BASE_DAMAGE_LABEL,690000000000000,Attack Damage,Урон атаки
+STAT_BASE_FIRE_DAMAGE_DESC,690000000000142,Makes Fire abilities hit harder. Added to Attack Damage before the ability damage percent and damage bonuses are calculated.,Заставляет огненные способности бить сильнее. Добавляется к урону атаки до расчёта процента урона способностей и бонусов урона.
+STAT_BASE_FIRE_DAMAGE_LABEL,690000000000061,Base Fire Damage,Базовый огненный урон
+STAT_BASE_LIGHTNING_DAMAGE_DESC,690000000000146,Makes Lightning abilities hit harder. Added to Attack Damage before the ability damage percent and damage bonuses are calculated.,Заставляет способности молнии бить сильнее. Добавляется к урону атаки до расчёта процента урона способностей и бонусов урона.
+STAT_BASE_LIGHTNING_DAMAGE_LABEL,690000000000065,Base Lightning Damage,Базовый урон молнией
+STAT_BASE_MYSTIC_DAMAGE_DESC,690000000000147,Makes Mystic abilities hit harder. Added to Attack Damage before the ability damage percent and damage bonuses are calculated.,Заставляет мистические способности бить сильнее. Добавляется к урону атаки до расчёта процента урона способностей и бонусов урона.
+STAT_BASE_MYSTIC_DAMAGE_LABEL,690000000000066,Base Mystic Damage,Базовый мистический урон
+STAT_BASE_NECROTIC_DAMAGE_DESC,690000000000144,Makes Necrotic abilities hit harder. Added to Attack Damage before the ability damage percent and damage bonuses are calculated.,Усиливает некротические способности. Добавляется к урону атаки до расчёта процента урона способности и бонусов урона.
+STAT_BASE_NECROTIC_DAMAGE_LABEL,690000000000063,Base Necrotic Damage,Базовый некротический урон
+STAT_BASE_OVERCHARGE_DAMAGE_DESC,690000000000150,Adds flat damage to Overcharge abilities before Overcharge damage bonuses are applied.,Добавляет фиксированный урон способностям перегрузки до применения бонусов урона перегрузки.
+STAT_BASE_OVERCHARGE_DAMAGE_LABEL,690000000000069,Base Overcharge Damage,Базовый урон перегрузки
+STAT_BASE_PHYSICAL_DAMAGE_DESC,690000000000145,Makes Physical abilities hit harder. Added to Attack Damage before the ability damage percent and damage bonuses are calculated.,Усиливает физические способности. Добавляется к урону атаки до расчёта процента урона способности и бонусов урона.
+STAT_BASE_PHYSICAL_DAMAGE_LABEL,690000000000064,Base Physical Damage,Базовый физический урон
+STAT_BLEED_DAMAGE_BONUS_LABEL,690000000000103,Bleed Damage Bonus,Бонус урона кровотечения
+STAT_BLEED_DURATION_BONUS_DESC,690000000000157,Makes Bleed effects last longer. Longer Bleeds can deal more total damage if the effect keeps ticking.,"Продлевает эффекты кровотечения. Более долгое кровотечение может нанести больше суммарного урона, пока эффект тикает."
+STAT_BLEED_DURATION_BONUS_LABEL,690000000000171,Bleed Duration Bonus,Бонус длительности кровотечения
+STAT_BOUNCE_COUNT_LABEL,690000000000090,Bounce Count,Число отскоков
+STAT_BURN_DAMAGE_BONUS_LABEL,690000000000104,Burn Damage Bonus,Бонус урона горения
+STAT_CAST_TIME_LABEL,690000000000096,Cast Time,Время каста
+STAT_CATEGORY_ABILITIES_LABEL,1200000000000006,Abilities,Способности
+STAT_CATEGORY_BASE_DAMAGE_LABEL,1200000000000005,Base Damage,Базовый урон
+STAT_CATEGORY_CORE_LABEL,1200000000000002,Core,Ядро
+STAT_CATEGORY_DEFENSE_LABEL,1200000000000003,Defense,Защита
+STAT_CATEGORY_GLOBAL_LABEL,1200000000000009,Global,Общее
+STAT_CATEGORY_HERO_LABEL,1200000000000000,Hero,Герой
+STAT_CATEGORY_MAIN_ATTACK_LABEL,1200000000000001,Main Attack,Основная атака
+STAT_CATEGORY_MOBILITY_UTILITY_LABEL,1200000000000007,Mobility & Utility,Мобильность и утилита
+STAT_CATEGORY_OFFENSE_LABEL,1200000000000004,Offense,Атака
+STAT_CATEGORY_STATUS_EFFECTS_LABEL,1200000000000008,Status Effects,Эффекты
+STAT_CHALLENGE_GOLD_BONUS_DESC,690000000000158,Increases gold earned from challenge rewards.,"Увеличивает золото, получаемое за награды челленджей."
+STAT_CHALLENGE_GOLD_BONUS_LABEL,690000000000115,Challenge Gold Bonus,Бонус золота за челленджи
+STAT_CHAOS_SHARD_COST_LABEL,690000000000132,Chaos Shard Cost,Цена в осколках Хаоса
+STAT_CHEST_COST_REDUCTION_DESC,690000000000159,Reduces the gold cost of locked chests.,Снижает цену в золоте за запертые сундуки.
+STAT_CHEST_COST_REDUCTION_LABEL,690000000000116,Chest Cost Reduction,Снижение цены сундуков
+STAT_COLD_DAMAGE_BONUS_LABEL,690000000000107,Cold Damage Bonus,Бонус холодного урона
+STAT_COLLECT_RANGE_DESC,690000000000155,Increases the range for collecting experience and pickups.,Увеличивает радиус сбора опыта и подбираемых предметов.
+STAT_COLLECT_RANGE_LABEL,690000000000053,Collect Range,Радиус сбора
+STAT_COMMON_RELICS_START_LABEL,690000000000126,Common Relics Start,Стартовые обычные реликвии
+STAT_CRITICAL_CHANCE_DESC,690000000000012,A chance to deal a Critical Damage,Шанс нанести критический урон
+STAT_CRITICAL_CHANCE_LABEL,690000000000081,Critical Chance,Шанс крита
+STAT_CRITICAL_DAMAGE_DESC,690000000000013,Normal damage is increased by this amount when it critically strikes,Обычный урон увеличивается на эту величину при критическом ударе
+STAT_CRITICAL_DAMAGE_LABEL,690000000000082,Critical Damage,Критический урон
+STAT_DAMAGE_LABEL,1200000000000010,Damage,Урон
+STAT_DAMAGE_REDUCTION_LABEL,690000000000047,Damage Reduction,Снижение урона
+STAT_DAMAGE_TAKEN_DECREASE_LABEL,690000000000033,Damage Taken Decrease,Снижение получаемого урона
+STAT_DAMAGE_TAKEN_INCREASE_LABEL,690000000000032,Damage Taken Increase,Увеличение получаемого урона
+STAT_DASH_CHARGES_DESC,690000000000154,Increases how many dashes you can store before waiting for recharge.,"Увеличивает число рывков, которые можно накопить до перезарядки."
+STAT_DASH_CHARGES_LABEL,690000000000072,Dash Charges,Заряды рывка
+STAT_DASH_COOLDOWN_DESC,690000000000016,How long it takes to regenerate 1 dash charge,Время восстановления одного заряда рывка
+STAT_DASH_COOLDOWN_LABEL,690000000000052,Dash Cooldown,Перезарядка рывка
+STAT_DASH_COOLDOWN_REDUCTION_LABEL,690000000000060,Dash Cooldown Reduction,Снижение перезарядки рывка
+STAT_DASH_DISTANCE_DESC,690000000000153,Increases how far each dash travels.,Увеличивает дальность каждого рывка.
+STAT_DASH_DISTANCE_LABEL,690000000000050,Dash Distance,Дальность рывка
+STAT_DASH_SPEED_DESC,690000000000152,Increases how quickly your dash moves you to its destination.,"Увеличивает скорость, с которой рывок переносит вас к цели."
+STAT_DASH_SPEED_LABEL,690000000000051,Dash Speed,Скорость рывка
+STAT_DURATION_LABEL,690000000000088,Duration,Длительность
+STAT_ELEMENTAL_RESISTANCE_LABEL,690000000000035,Elemental Resistance,Стихийное сопротивление
+STAT_ELITE_BOSS_BONUS_DAMAGE_DESC,690000000000139,Increases damage you deal to elite and boss enemies. Regular enemies are not affected.,"Увеличивает урон, наносимый элитным и боссовым врагам. Обычные враги не затрагиваются."
+STAT_ELITE_BOSS_BONUS_DAMAGE_LABEL,690000000000076,Elite Boss Bonus Damage,Бонус урона по элитам и боссам
+STAT_ENEMY_GOLD_DROP_BONUS_DESC,690000000000167,Increases gold dropped by enemies. This stacks with Gold Gain when enemy gold is collected.,"Увеличивает золото, выпадающее с врагов. Складывается с приростом золота при сборе золота врагов."
+STAT_ENEMY_GOLD_DROP_BONUS_LABEL,690000000000130,Enemy Gold Drop Bonus,Бонус выпадения золота с врагов
+STAT_ENERGY_SHIELD_DESC,690000000000019,Absorbs damage before life and recharges when you avoid hits.,"Поглощает урон до здоровья и восстанавливается, когда вы избегаете ударов."
+STAT_ENERGY_SHIELD_LABEL,690000000000042,Energy Shield,Энергощит
+STAT_ENERGY_SHIELD_RECHARGE_AMOUNT_DESC,690000000000020,Percent of maximum energy shield restored each second while recharging.,"Процент максимального энергощита, восстанавливаемый каждую секунду во время перезарядки."
+STAT_ENERGY_SHIELD_RECHARGE_AMOUNT_LABEL,690000000000048,Energy Shield Recharge Amount,Восстановление энергощита
+STAT_ENERGY_SHIELD_RECHARGE_DELAY_DESC,690000000000021,Delay after taking damage before energy shield starts recharging.,Задержка после получения урона перед началом восстановления энергощита.
+STAT_ENERGY_SHIELD_RECHARGE_DELAY_LABEL,690000000000043,Energy Shield Recharge Delay,Задержка восстановления энергощита
+STAT_ENGAGE_RANGE_LABEL,690000000000031,Engage Range,Дальность вступления в бой
+STAT_EPIC_RELICS_START_LABEL,690000000000129,Epic Relics Start,Стартовые эпические реликвии
+STAT_EVADE_CHANCE_CAP_DESC,690000000000169,Maximum chance to avoid direct damage. Raising this lets Evade Chance protect you past its current cap.,Максимальный шанс избежать прямого урона. Повышение этого предела позволяет шансу уклонения защищать вас сверх текущего предела.
+STAT_EVADE_CHANCE_CAP_LABEL,690000000000168,Evade Chance Cap,Предел шанса уклонения
+STAT_EVADE_CHANCE_DESC,690000000000024,"Chance to avoid taking damage.
+Maximum evade chance is capped at <1>{evadeCap}</1>","Шанс избежать получения урона.
+Максимальный шанс уклонения ограничен <1>{evadeCap}</1>"
+STAT_EVADE_CHANCE_LABEL,690000000000041,Evade Chance,Шанс уклонения
+STAT_EXPERIENCE_DROP_CHANCE_LABEL,690000000000056,Experience Drop Chance,Шанс выпадения опыта
+STAT_EXPERIENCE_GAIN_BONUS_DESC,690000000000156,"Increases experience gained, helping you level up faster.","Увеличивает получаемый опыт, помогая быстрее повышать уровень."
+STAT_EXPERIENCE_GAIN_BONUS_LABEL,690000000000074,Experience Gain Bonus,Бонус опыта
+STAT_FIRE_DAMAGE_BONUS_LABEL,690000000000101,Fire Damage Bonus,Бонус огненного урона
+STAT_FOCUS_AFFIX_HINT,50984700076043,This is a Recommended Stat for your Arsenal build. Look for it on gear to get stronger.,"Это рекомендуемая характеристика для вашего билда Арсенала. Ищите её на снаряжении, чтобы стать сильнее."
+STAT_FREE_CHEST_OPEN_CHANCE_LABEL,690000000000133,Free Chest Open Chance,Шанс бесплатного открытия сундука
+STAT_GATHERING_SPEED_BONUS_LABEL,690000000000054,Gathering Speed Bonus,Бонус скорости при сборе
+STAT_GATHERING_YIELD_BONUS_LABEL,690000000000055,Gathering Yield Bonus,Бонус добычи при сборе
+STAT_GOLD_GAIN_BONUS_DESC,690000000000166,Increases gold gained from most sources. Enemy gold uses both Gold Gain and Enemy Gold Drop Bonus.,"Увеличивает золото, получаемое из большинства источников. Золото врагов использует и прирост золота, и бонус выпадения золота с врагов."
+STAT_GOLD_GAIN_BONUS_LABEL,690000000000006,Gold Gain,Прирост золота
+STAT_HEAL_ON_LEVEL_UP_LABEL,690000000000046,Heal On Level Up,Лечение при повышении уровня
+STAT_HIT_ABSORB_AMOUNT_LABEL,690000000000059,Hit Absorb Amount,Поглощение удара (величина)
+STAT_HIT_ABSORB_CHARGES_LABEL,690000000000057,Hit Absorb Charges,Поглощение удара (заряды)
+STAT_HIT_ABSORB_CHARGES_REGEN_INTERVAL_LABEL,690000000000058,Hit Absorb Charges Regen Interval,Интервал восстановления зарядов поглощения удара
+STAT_INVULNERABLE_LABEL,690000000000038,Invulnerable,Неуязвимость
+STAT_KNOCKBACK_FORCE_LABEL,690000000000087,Knockback Force,Сила отбрасывания
+STAT_LEGENDARY_POWER_CHOICES_DESC,690000000000161,Increases how many Legendary Power options you can choose from.,"Увеличивает число вариантов легендарных сил, из которых можно выбирать."
+STAT_LEGENDARY_POWER_CHOICES_LABEL,690000000000118,Legendary Power Choices,Выбор легендарных сил
+STAT_LIFESTEAL_CHANCE_DESC,690000000000023,Chance to heal 1 life for each enemy hit with your Main Attack.,"Шанс восстановить 1 здоровье за каждого врага, поражённого основной атакой."
+STAT_LIFESTEAL_CHANCE_LABEL,690000000000044,Lifesteal Chance,Шанс вампиризма
+STAT_LIFE_DESC,690000000000008,How much damage you can take before dying.,Сколько урона вы можете получить до гибели.
+STAT_LIFE_LABEL,690000000000001,Maximum Life,Максимальное здоровье
+STAT_LIFE_REGEN_COOLDOWN_DESC,690000000000134,Time between each life regeneration heal. Lower values heal you more often.,Время между каждым лечением регенерации здоровья. Меньшие значения лечат вас чаще.
+STAT_LIFE_REGEN_COOLDOWN_LABEL,690000000000003,Life Regen Cooldown,Перезарядка регена
+STAT_LIFE_REGEN_DESC,690000000000010,Amount of life that regenerates each {regenCooldown}s,"Количество здоровья, восстанавливаемое каждые {regenCooldown}с"
+STAT_LIFE_REGEN_LABEL,690000000000002,Life Regen Amount,Восстановление здоровья
+STAT_LIGHTNING_DAMAGE_BONUS_LABEL,690000000000102,Lightning Damage Bonus,Бонус урона молнией
+STAT_LOCKED_CHEST_SPAWN_COUNT_LABEL,690000000000123,Locked Chest Spawn Count,Число появлений запертых сундуков
+STAT_MAGIC_FIND_LABEL,690000000000131,Magic Find,Поиск магии
+STAT_MAGIC_RESISTANCE_CAP_DESC,690000000000136,Maximum magical damage reduction Magic Resistance can reach. Raising this lets Magic Resistance protect you past its current cap.,"Максимальное снижение магического урона, которого может достичь магическое сопротивление. Повышение этого предела позволяет магическому сопротивлению защищать вас сверх текущего предела."
+STAT_MAGIC_RESISTANCE_CAP_LABEL,690000000000040,Magic Resistance Cap,Предел магического сопротивления
+STAT_MAGIC_RESISTANCE_DESC,690000000000011,"Damage reduction from all magical sources, like enemy fireballs, area of effects or necrotic projectiles.
+Maximum magic resistance is capped at <1>{magicCap}</1>","Снижение урона от всех магических источников, таких как вражеские огненные шары, области эффекта или некротические снаряды.
+Максимальное магическое сопротивление ограничено <1>{magicCap}</1>"
+STAT_MAGIC_RESISTANCE_LABEL,690000000000036,Magic Resistance,Магическое сопротивление
+STAT_MAIN_ATTACK_BLEED_CHANCE_DESC,690000000000029,Chance for main attack hits to apply Bleed.,Шанс наложить кровотечение при попадании основной атаки.
+STAT_MAIN_ATTACK_BLEED_CHANCE_LABEL,690000000000114,Main Attack Bleed Chance,Шанс кровотечения от основной атаки
+STAT_MAIN_ATTACK_BLIGHT_CHANCE_DESC,690000000000028,Chance for main attack hits to apply Blight.,Шанс наложить порчу при попадании основной атаки.
+STAT_MAIN_ATTACK_BLIGHT_CHANCE_LABEL,690000000000113,Main Attack Blight Chance,Шанс порчи от основной атаки
+STAT_MAIN_ATTACK_BURN_CHANCE_DESC,690000000000026,Chance for main attack hits to apply Burn.,Шанс наложить горение при попадании основной атаки.
+STAT_MAIN_ATTACK_BURN_CHANCE_LABEL,690000000000111,Main Attack Burn Chance,Шанс горения от основной атаки
+STAT_MAIN_ATTACK_CHILL_CHANCE_DESC,690000000000027,Chance for main attack hits to apply Chill.,Шанс наложить охлаждение при попадании основной атаки.
+STAT_MAIN_ATTACK_CHILL_CHANCE_LABEL,690000000000112,Main Attack Chill Chance,Шанс охлаждения от основной атаки
+STAT_MOVE_SPEED_DESC,690000000000017,How fast your hero moves,Как быстро движется ваш герой
+STAT_MOVE_SPEED_LABEL,690000000000030,Move Speed,Скорость передвижения
+STAT_MYSTIC_DAMAGE_BONUS_LABEL,690000000000106,Mystic Damage Bonus,Бонус мистического урона
+STAT_NECROTIC_DAMAGE_BONUS_LABEL,690000000000105,Necrotic Damage Bonus,Бонус некротического урона
+STAT_NO_OBELISK_SHOP_LABEL,690000000000125,No Obelisk Shop,Без магазина Обелиска
+STAT_OBELISK_EPIC_RELICS_GUARANTEED_LABEL,690000000000124,Obelisk Epic Relics Guaranteed,Гарантированные эпические реликвии Обелиска
+STAT_OVERCHARGE_COOLDOWN_DESC,690000000000018,How often can you use Overcharge ability,Как часто можно использовать способность перегрузки
+STAT_OVERCHARGE_COOLDOWN_LABEL,690000000000170,Overcharge Cooldown,Перезарядка перегрузки
+STAT_OVERCHARGE_DAMAGE_BONUS_DESC,690000000000140,Increases damage dealt by Overcharge abilities. This scales Overcharge damage after its base damage is calculated.,"Увеличивает урон, наносимый способностями перегрузки. Масштабирует урон перегрузки после расчёта её базового урона."
+STAT_OVERCHARGE_DAMAGE_BONUS_LABEL,690000000000070,Overcharge Damage Bonus,Бонус урона перегрузки
+STAT_OVERCHARGE_REGEN_LABEL,690000000000049,Overcharge Regen,Восстановление перегрузки
+STAT_OVERLIFE_LABEL,690000000000078,Overlife,Сверхздоровье
+STAT_OVERLIFE_PERCENT_LABEL,690000000000077,Overlife Percent,Сверхздоровье (%)
+STAT_PHYSICAL_DAMAGE_BONUS_LABEL,690000000000100,Physical Damage Bonus,Бонус физического урона
+STAT_PIERCE_COUNT_LABEL,690000000000086,Pierce Count,Число пробитий
+STAT_PROJECTILE_COUNT_BONUS_DESC,690000000000141,"Adds more projectiles to projectile-based abilities. The bonus is percentage-based, so +100% turns 1 projectile into 2.","Добавляет больше снарядов способностям на основе снарядов. Бонус процентный, поэтому +100% превращает 1 снаряд в 2."
+STAT_PROJECTILE_COUNT_BONUS_LABEL,690000000000071,Projectile Count Bonus,Число снарядов (бонус)
+STAT_PROJECTILE_COUNT_LABEL,690000000000092,Projectile Count,Число снарядов
+STAT_PROJECTILE_RANGE_BONUS_LABEL,690000000000085,Projectile Range Bonus,Дальность снаряда (бонус)
+STAT_PROJECTILE_RANGE_LABEL,690000000000094,Projectile Range,Дальность снаряда
+STAT_PROJECTILE_SPEED_BONUS_LABEL,690000000000084,Projectile Speed Bonus,Скорость снаряда (бонус)
+STAT_PROJECTILE_SPEED_LABEL,690000000000093,Projectile Speed,Скорость снаряда
+STAT_RADIUS_LABEL,690000000000099,Radius,Радиус
+STAT_RANGE_LABEL,690000000000095,Range,Дальность
+STAT_RARE_RELICS_START_LABEL,690000000000128,Rare Relics Start,Стартовые редкие реликвии
+STAT_RUNESTONE_CAPTURE_RADIUS_BONUS_DESC,690000000000165,Increases the distance from which you can capture runestones.,"Увеличивает расстояние, с которого можно захватывать рунные камни."
+STAT_RUNESTONE_CAPTURE_RADIUS_BONUS_LABEL,690000000000121,Runestone Capture Radius Bonus,Бонус радиуса захвата рунного камня
+STAT_RUNESTONE_CAPTURE_SPEED_BONUS_DESC,690000000000164,Reduces the time needed to capture runestones.,"Сокращает время, необходимое для захвата рунных камней."
+STAT_RUNESTONE_CAPTURE_SPEED_BONUS_LABEL,690000000000122,Runestone Capture Speed Bonus,Бонус скорости захвата рунного камня
+STAT_SECURE_SLOTS_LABEL,690000000000073,Secure Slots,Слоты защиты
+STAT_SIGIL_CAPTURE_RADIUS_BONUS_DESC,690000000000163,Increases the distance from which you can capture sigils.,"Увеличивает расстояние, с которого можно захватывать сигилы."
+STAT_SIGIL_CAPTURE_RADIUS_BONUS_LABEL,690000000000120,Sigil Capture Radius Bonus,Бонус радиуса захвата сигила
+STAT_SIGIL_CAPTURE_SPEED_BONUS_DESC,690000000000162,Reduces the time needed to capture sigils.,"Сокращает время, необходимое для захвата сигилов."
+STAT_SIGIL_CAPTURE_SPEED_BONUS_LABEL,690000000000119,Sigil Capture Speed Bonus,Бонус скорости захвата сигила
+STAT_SIGIL_SPAWN_COUNT_LABEL,690000000000127,Sigil Spawn Count,Число появлений сигилов
+STAT_SOURCE_ETERNAL_TREE_LABEL,50984695881729,Eternal Tree,Вечное Древо
+STAT_SOURCE_GEAR_LABEL,50984695881728,Gear,Снаряжение
+STAT_SOURCE_UNKNOWN_LABEL,50984695881730,Unknown,Неизвестно
+STAT_STARTING_GOLD_DESC,690000000000160,Gold you start each run with.,"Золото, с которым вы начинаете каждый забег."
+STAT_STARTING_GOLD_LABEL,690000000000117,Starting Gold,Стартовое золото
+STAT_STATUS_APPLY_CHANCE_LABEL,690000000000091,Status Apply Chance,Шанс наложения эффекта
+STAT_STATUS_EFFECT_DAMAGE_BONUS_DESC,690000000000025,Increases damage dealt by all status effects such as Burn or Bleed.,"Увеличивает урон, наносимый всеми статусными эффектами, такими как горение или кровотечение."
+STAT_STATUS_EFFECT_DAMAGE_BONUS_LABEL,690000000000110,Status Effect Damage Bonus,Бонус урона эффектов
+STAT_STATUS_EFFECT_DURATION_BONUS_LABEL,690000000000109,Status Effect Duration Bonus,Бонус длительности эффектов
+STAT_STATUS_EFFECT_MAX_STACKS_LABEL,690000000000108,Status Effect Max Stacks,Макс. стаки эффекта
+STAT_STATUS_EFFECT_STACKS_LABEL,690000000000089,Status Effect Stacks,Стаки эффекта
+STAT_THORNS_DESC,690000000000022,Reflects {percentValue}% of your Attack Damage (currently {currentDamage}) back to attackers when hit. Thorns scales with all damage bonuses as any other damage.,"Отражает {percentValue}% вашего урона атаки (сейчас {currentDamage}) обратно атакующим при попадании. Шипы масштабируются со всеми бонусами урона, как любой другой урон."
+STAT_THORNS_LABEL,690000000000045,Thorns,Шипы
+STAT_TOOLTIP_ADDITIVE_SUFFIX,50984700076036,(Additive),(Складываемый)
+STAT_TOOLTIP_BASE_LABEL,50984700076032,Base:,Базовое:
+STAT_TOOLTIP_DIMINISHING_RETURNS_LABEL,50984700076046,Diminishing Returns:,Убывающая отдача:
+STAT_TOOLTIP_FINAL_LABEL,50984700076033,Final:,Итоговое:
+STAT_TOOLTIP_LINK_DIMINISHING_FORMAT,50984700076041,Affected by {linkedStatName} (diminishing return),Зависит от {linkedStatName} (убывающая отдача)
+STAT_TOOLTIP_LINK_INCREASED_BY_FORMAT,50984700076039,Increased by {linkedStatName},Увеличено за счёт {linkedStatName}
+STAT_TOOLTIP_LINK_LINKED_TO_FORMAT,50984700076042,Linked to {linkedStatName},Связано с {linkedStatName}
+STAT_TOOLTIP_LINK_MODIFIED_BY_FORMAT,50984700076038,Modified by {linkedStatName},Изменено за счёт {linkedStatName}
+STAT_TOOLTIP_LINK_REDUCED_BY_FORMAT,50984700076040,Reduced by {linkedStatName},Снижено за счёт {linkedStatName}
+STAT_TOOLTIP_MODIFIERS_LABEL,50984700076034,Modifiers:,Модификаторы:
+STAT_TOOLTIP_MULTIPLICATIVE_SUFFIX,50984700076037,(Multiplicative),(Множительный)
+STAT_TOOLTIP_TOTAL_LABEL,50984700076035,Total:,Всего:
+STAT_TRIGGER_CHANCE_LABEL,690000000000098,Trigger Chance,Шанс срабатывания
+STAT_UNIT_METERS_ABBREVIATED,1200000000000014,m,м
+STAT_UNIT_METERS_PER_SECOND_ABBREVIATED,1200000000000015,m/s,м/с
+STAT_UNIT_PERCENT_SUFFIX,1200000000000016,%,%
+STAT_UNIT_SECONDS_ABBREVIATED,1200000000000013,s,с
+THE_OBELISK_WINDOW_TITLE,800536356970496,The Obelisk,Обелиск
+TIER_DROPS_ITEM_LEVEL_LABEL,789573729771520,Drops Item Level,Уровень предмета в добыче
+TIER_PLAYER_BEST_LABEL,789653752897536,Your Best,Ваш рекорд
+TREASURE_CHEST_COLLECT_ESSENCE_INFO,4640827220418560,Collect Essence to summon The Shade,"Соберите эссенцию, чтобы призвать <1>Тень</1>"
+TREASURE_CHEST_FIND_SHADE_INFO,4640299551809536,Find The Shade to choose ability Morph,"Найдите <1>Тень</1>, чтобы выбрать морф способности"
+TREASURE_CHEST_WINDOW_HEADER,4476353674993664,Treasure Chest,Сундук с сокровищами
+TREASURE_SCREN_LOOT_AQUIRED,6606915604832256,Loot Acquired,Добыча получена
+TUTORIAL_DASH_PROMPT,765368724348928,Dash,Рывок
+TUTORIAL_MOVE_PROMPT,765274394451968,Move,Движение
+TUTORIAL_OVERCHARGE_PROMPT,765419538341888,Use Overcharge,Применить перегрузку
+UNSECURED_LOOT_LABEL,803719309418496,Unsecured Loot,Незащищённая добыча
+WELCOME_PLAYTEST_01_DESC,1138691765428224,"We’re a small indie team building Hellforged around a simple idea: the speed and chaos of a horde survivor, with the loot, builds, and long-term progression we love from ARPGs.
+
+
+After you've had a chance to play, please fill out our feedback form or join our Discord to share your thoughts directly with the team.","Мы — небольшая инди-команда, создающая Hellforged вокруг простой идеи: скорость и хаос horde-сурвайвала с лутом, билдами и долгосрочным развитием, которые мы любим в ARPG.
+
+
+Когда у вас будет возможность поиграть, пожалуйста, заполните нашу форму обратной связи или присоединяйтесь к нашему Discord, чтобы поделиться мыслями напрямую с командой."
+WELCOME_PLAYTEST_01_HEADER,1138622270005248,Welcome to the Hellforged Playtest,Добро пожаловать в плейтест Hellforged

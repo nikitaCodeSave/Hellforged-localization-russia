@@ -1,0 +1,337 @@
+Key,Id,English(en),Russian(ru)
+GEAR_CHEST_HEAVY_COMMON_001,1038407950336,Worn Iron Jack,Истёртая железная куртка
+GEAR_CHEST_HEAVY_COMMON_002,1097228869632,Dentmarked Plate Hauberk,Латный хауберк в вмятинах
+GEAR_CHEST_HEAVY_COMMON_003,1164492922880,Rugged Steel Vest,Грубая стальная безрукавка
+GEAR_CHEST_HEAVY_COMMON_004,1941445795841,Weathered Mail Coat,Обветренная кольчуга
+GEAR_CHEST_HEAVY_COMMON_005,1941445795842,Tarnished Brigade Breastplate,Потускневший бригадный нагрудник
+GEAR_CHEST_HEAVY_COMMON_006,1941445795843,Battle‑Scarred Chestguard,Нагрудный щиток в боевых шрамах
+GEAR_CHEST_HEAVY_COMMON_007,1941445795844,Ironbound War Jerkin,Окованная железом боевая безрукавка
+GEAR_CHEST_HEAVY_COMMON_008,1941445795845,Rustflecked Armor Tunic,Доспешная туника в пятнах ржавчины
+GEAR_CHEST_HEAVY_LEGENDARY_001,1941445795846,Warlord’s Aegis Vest,Эгида военачальника
+GEAR_CHEST_HEAVY_LEGENDARY_002,1941445795847,Eternal Rampart Chestplate,Вечная нагрудная пластина крепости
+GEAR_CHEST_HEAVY_LEGENDARY_003,1941445795848,Immortal Bulwark Hauberk,Бессмертный хауберк-оплот
+GEAR_CHEST_HEAVY_LEGENDARY_004,1941445795849,Eternal Vanguard Hauberk,Вечный авангардный хауберк
+GEAR_CHEST_HEAVY_LEGENDARY_005,1941445795850,Worldbreaker Cuirass,Кираса сокрушителя миров
+GEAR_CHEST_HEAVY_LEGENDARY_006,1941445795851,Imperator’s Warplate,Боевые латы императора
+GEAR_CHEST_HEAVY_LEGENDARY_007,1941445795852,Dragonforged Bulwark,"Оплот, выкованный драконом"
+GEAR_CHEST_HEAVY_LEGENDARY_008,1941445795853,Ancestor’s Aegis,Эгида предков
+GEAR_CHEST_HEAVY_RARE_001,1941445795854,Ironhide Brigandine,Бригантина из железной шкуры
+GEAR_CHEST_HEAVY_RARE_002,1941445795855,Bearclad Warplate,Боевые латы в медвежьей шкуре
+GEAR_CHEST_HEAVY_RARE_003,1941445795856,Stoneguard Cuirass,Каменная стражническая кираса
+GEAR_CHEST_HEAVY_RARE_004,1941445795857,Frostpelt Lamellar,Морозный ламелляр
+GEAR_CHEST_HEAVY_RARE_005,1941445795858,Rampart Chestplate,Нагрудная пластина крепости
+GEAR_CHEST_HEAVY_RARE_006,1941445795859,Emberforged Hauberk,"Хауберк, выкованный в углях"
+GEAR_CHEST_HEAVY_RARE_007,1941445795860,Fortitude Battlecoat,Боевой кафтан стойкости
+GEAR_CHEST_HEAVY_RARE_008,1941445795861,Valiant Scale Tabard,Доблестный чешуйчатый табард
+GEAR_CHEST_LIGHT_COMMON_001,1941445795862,Worn Acolyte Robe,Истёртая мантия послушника
+GEAR_CHEST_LIGHT_COMMON_002,1941445795863,Plain Initiate Tunic,Простая туника неофита
+GEAR_CHEST_LIGHT_COMMON_003,1941445795864,Frayed Mystic Vestment,Обтрёпанное мистическое облачение
+GEAR_CHEST_LIGHT_COMMON_004,1941445795865,Dust-Laden Wanderer Wrap,Запылённый плащ странника
+GEAR_CHEST_LIGHT_COMMON_005,1941445795866,Threadbare Apprentice Habit,Протёртая до нитей ряса ученика
+GEAR_CHEST_LIGHT_COMMON_006,1941445795867,Scuffed Pilgrim Garb,Потёртый наряд пилигрима
+GEAR_CHEST_LIGHT_COMMON_007,1941445795868,Simple Nomad Jerkin,Простая безрукавка кочевника
+GEAR_CHEST_LIGHT_COMMON_008,1941445795869,Faded Ritual Surcoat,Выцветшее ритуальное сюрко
+GEAR_CHEST_LIGHT_LEGENDARY_001,1941445795870,Hellwoven Archmage Raiment,Адово-тканое одеяние архимага
+GEAR_CHEST_LIGHT_LEGENDARY_002,1941445795871,Dragonsoul Spellweave Robe,Мантия чарослома драконьей души
+GEAR_CHEST_LIGHT_LEGENDARY_003,1941445795872,Shadowfire Hierophant Vestments,Облачение иерофанта теневого огня
+GEAR_CHEST_LIGHT_LEGENDARY_004,1941445795873,Emberblessed Conjuror Surcoat,Угольно-благословлённое сюрко заклинателя
+GEAR_CHEST_LIGHT_LEGENDARY_005,1941445795874,Nightfall Seraphic Habit,Сумеречная серафическая ряса
+GEAR_CHEST_LIGHT_LEGENDARY_006,1941445795875,Cinderstorm Sorcerous Garb,Пепельный чародейский наряд
+GEAR_CHEST_LIGHT_LEGENDARY_007,1941445795876,Doomchant Runeweaver Mantle,Роковая мантия рунотворца
+GEAR_CHEST_LIGHT_LEGENDARY_008,1941445795877,Abyssal Mystic Raiment,Бездонное мистическое одеяние
+GEAR_CHEST_LIGHT_RARE_001,1941445795840,Rune Touched Seer’s Robe,"Мантия провидца, тронутая рунами"
+GEAR_CHEST_LIGHT_RARE_002,1941445795878,Embersilk Arcana Vestment,Облачение аркан из тлеющего шёлка
+GEAR_CHEST_LIGHT_RARE_003,1941445795879,Spiritwoven Adept Tunic,"Туника адепта, сотканная из духа"
+GEAR_CHEST_LIGHT_RARE_004,1941445795880,Nightveil Mystic Habit,Мистическая ряса ночной вуали
+GEAR_CHEST_LIGHT_RARE_005,1941445795881,Hexbound Acolyte Surcoat,Проклятое сюрко послушника
+GEAR_CHEST_LIGHT_RARE_006,1941445795882,Stormthread Enchanter Coat,Грозовой плащ чародея
+GEAR_CHEST_LIGHT_RARE_007,1941445795883,Cinderloom Warlock Raiment,Пепельное одеяние чернокнижника
+GEAR_CHEST_LIGHT_RARE_008,1941445795884,Shadowbound Sage Garb,"Наряд мудреца, связанного тенью"
+GEAR_CHEST_MEDIUM_COMMON_001,1941445795885,Weathered Scout Jerkin,Обветренная безрукавка разведчика
+GEAR_CHEST_MEDIUM_COMMON_002,1941445795886,Stitched Leather Brigandine,Сшитая кожаная бригантина
+GEAR_CHEST_MEDIUM_COMMON_003,1941445795887,Dust‑Worn Traveler Vestment,Запылённое облачение путника
+GEAR_CHEST_MEDIUM_COMMON_004,1941445795888,Plain Militiaman’s Cuirass,Простая кираса ополченца
+GEAR_CHEST_MEDIUM_COMMON_005,1941445795889,Rough‑Bound Huntsman Tunic,Грубо сработанная туника охотника
+GEAR_CHEST_MEDIUM_COMMON_006,1941445795890,Padded Roadguard Hauberk,Стёганый хауберк дорожной стражи
+GEAR_CHEST_MEDIUM_COMMON_007,1941445795891,Faded Vanguard Surcoat,Выцветшее сюрко авангарда
+GEAR_CHEST_MEDIUM_COMMON_008,1941445795892,Frayed Wayfarer Chestwrap,Обтрёпанная нагрудная обмотка скитальца
+GEAR_CHEST_MEDIUM_LEGENDARY_001,1941445795893,Hellforged Rampart Cuirass,Адокованная кираса крепости
+GEAR_CHEST_MEDIUM_LEGENDARY_002,1941445795894,Dragonscale Doomplate,Роковые латы из драконьей чешуи
+GEAR_CHEST_MEDIUM_LEGENDARY_003,1941445795895,Ember‑Wreathed Warden Vest,Тлеющая безрукавка стража
+GEAR_CHEST_MEDIUM_LEGENDARY_004,1941445795896,Shadowbane Sovereign Hauberk,Властелинский хауберк погибели теней
+GEAR_CHEST_MEDIUM_LEGENDARY_005,1941445795897,Bloodfire Juggernaut Coat,Кроваво-огненный плащ джаггернаута
+GEAR_CHEST_MEDIUM_LEGENDARY_006,1941445795898,Abyssal Sentinel Breastplate,Бездонный нагрудник часового
+GEAR_CHEST_MEDIUM_LEGENDARY_007,1941445795899,Nightfall Seraphic Armor,Сумеречная серафическая броня
+GEAR_CHEST_MEDIUM_LEGENDARY_008,1941445795900,Doomsteel Vanguard Mail,Роковая стальная кольчуга авангарда
+GEAR_CHEST_MEDIUM_RARE_001,1941445795901,Runebound Wardcoat,Рунный охранный плащ
+GEAR_CHEST_MEDIUM_RARE_002,1941445795902,Emberforged Vanguard Cuirass,"Кираса авангарда, выкованная в углях"
+GEAR_CHEST_MEDIUM_RARE_003,1941445795903,Bloodsteel Brigandine,Бригантина из кровавой стали
+GEAR_CHEST_MEDIUM_RARE_004,1941445795904,Hexmarked Battletunic,"Боевая туника, меченная порчей"
+GEAR_CHEST_MEDIUM_RARE_005,1941445795905,Stormwoven Hunter’s Hauberk,Грозовой хауберк охотника
+GEAR_CHEST_MEDIUM_RARE_006,1941445795906,Nightguard Mantle Vestment,Облачение мантии ночной стражи
+GEAR_CHEST_MEDIUM_RARE_007,1941445795907,Cinderbound Scale Vest,Пепельная чешуйчатая безрукавка
+GEAR_CHEST_MEDIUM_RARE_008,1941445795908,Shadow‑Plated War Jerkin,Теневая боевая безрукавка
+GEAR_FEET_HEAVY_COMMON_001,1941445795909,Plain Iron Greaves,Простые железные поножи
+GEAR_FEET_HEAVY_COMMON_002,1941445795910,Scuffed War Boots,Потёртые боевые сапоги
+GEAR_FEET_HEAVY_COMMON_003,1941445795911,Weathered Plate Sabatons,Обветренные латные сабатоны
+GEAR_FEET_HEAVY_COMMON_004,1941445795912,Worn Steel Footguards,Истёртые стальные ножные щитки
+GEAR_FEET_HEAVY_COMMON_005,1941445795913,Sturdy Soldier Greaves,Прочные солдатские поножи
+GEAR_FEET_HEAVY_COMMON_006,1941445795914,Roughcast Leg‑Plates,Грубо сработанные ножные латы
+GEAR_FEET_HEAVY_COMMON_007,1941445795915,Tarnished Warboots,Потускневшие боевые сапоги
+GEAR_FEET_HEAVY_COMMON_008,1941445795916,Battle‑Stained Sabatons,Сабатоны в боевых пятнах
+GEAR_FEET_HEAVY_LEGENDARY_001,1941445795917,Titanshield Greaves,Поножи титанова щита
+GEAR_FEET_HEAVY_LEGENDARY_002,1941445795918,Stormbreaker Sabatons,Грозовые сабатоны сокрушителя
+GEAR_FEET_HEAVY_LEGENDARY_003,1941445795919,Worldforged Legplates,"Ножные латы, выкованные миром"
+GEAR_FEET_HEAVY_LEGENDARY_004,1941445795920,Colossus Treads,Ботинки колосса
+GEAR_FEET_HEAVY_LEGENDARY_005,1941445795921,Eternal Vanguard Greaves,Вечные авангардные поножи
+GEAR_FEET_HEAVY_LEGENDARY_006,1941445795922,Apex Warboots,Боевые сапоги вершины
+GEAR_FEET_HEAVY_LEGENDARY_007,1941445795923,Dawncrush Sabatons,Сабатоны сокрушающей зари
+GEAR_FEET_HEAVY_LEGENDARY_008,1941445795924,Oathbound Striders,"Шагатели, связанные клятвой"
+GEAR_FEET_HEAVY_RARE_001,1941445795925,Ironspine Greaves,Поножи железного хребта
+GEAR_FEET_HEAVY_RARE_002,1941445795926,Thornforged Sabatons,"Сабатоны, выкованные шипами"
+GEAR_FEET_HEAVY_RARE_003,1941445795927,Spikeward Legguards,Шипастые набедренники
+GEAR_FEET_HEAVY_RARE_004,1941445795928,Shadowspike Greaves,Теневые шипастые поножи
+GEAR_FEET_HEAVY_RARE_005,1941445795929,Rampart Stepguards,Стражные щитки крепости
+GEAR_FEET_HEAVY_RARE_006,1941445795930,Jagged Guard Boots,Зубчатые сапоги стража
+GEAR_FEET_HEAVY_RARE_007,1941445795931,Warden's Barbed Sabatons,Шипастые сабатоны стража
+GEAR_FEET_HEAVY_RARE_008,1941445795932,Stonefletch Treads,Каменно-оперённые ботинки
+GEAR_FEET_LIGHT_COMMON_001,1941445795933,Worn Acolyte Sandals,Истёртые сандалии послушника
+GEAR_FEET_LIGHT_COMMON_002,1941445795934,Plain Initiate Footwraps,Простые обмотки неофита
+GEAR_FEET_LIGHT_COMMON_003,1941445795935,Dust‑Worn Wanderer Shoes,Запылённые туфли странника
+GEAR_FEET_LIGHT_COMMON_004,1941445795936,Frayed Mystic Slippers,Обтрёпанные мистические туфли
+GEAR_FEET_LIGHT_COMMON_005,1941445795937,Scuffed Pilgrim Boots,Потёртые сапоги пилигрима
+GEAR_FEET_LIGHT_COMMON_006,1941445795938,Threadbare Nomad Steps,Протёртые до нитей шаги кочевника
+GEAR_FEET_LIGHT_COMMON_007,1941445795939,Faded Adventurer Treads,Выцветшие ботинки искателя приключений
+GEAR_FEET_LIGHT_COMMON_008,1941445795940,Rough‑Bound Pathfinder Moccasins,Грубо сработанные мокасины следопыта
+GEAR_FEET_LIGHT_LEGENDARY_001,1941445795941,Hellforged Arcanist Striders,Адокованные шагатели арканиста
+GEAR_FEET_LIGHT_LEGENDARY_002,1941445795942,Dragonsoul Doomwalkers,Роковые ходоки драконьей души
+GEAR_FEET_LIGHT_LEGENDARY_003,1941445795943,Shadowfire Sovereign Greaves,Властелинские поножи теневого огня
+GEAR_FEET_LIGHT_LEGENDARY_004,1941445795944,Emberbound Spellstep Boots,Тлеющие сапоги чарошага
+GEAR_FEET_LIGHT_LEGENDARY_005,1941445795945,Nightveil Seraphic Treads,Серафические ботинки ночной вуали
+GEAR_FEET_LIGHT_LEGENDARY_006,1941445795946,Cinderstorm Hexrider Sabatons,Пепельные сабатоны проклятого всадника
+GEAR_FEET_LIGHT_LEGENDARY_007,1941445795947,Abyssal Tempest Footguards,Бездонные ножные щитки бури
+GEAR_FEET_LIGHT_LEGENDARY_008,1941445795948,Bloodfire Hierophant Marchers,Кроваво-огненные ботинки иерофанта
+GEAR_FEET_LIGHT_RARE_001,1941445795949,Runetouched Wanderer Sandals,"Сандалии странника, тронутые рунами"
+GEAR_FEET_LIGHT_RARE_002,1941445795950,Emberthread Pilgrim Steps,Тлеющие шаги пилигрима
+GEAR_FEET_LIGHT_RARE_003,1941445795951,Spiritwoven Seeker Boots,"Ботинки искателя, сотканные из духа"
+GEAR_FEET_LIGHT_RARE_004,1941445795952,Shadowveil Swiftwalkers,Быстроходы теневой вуали
+GEAR_FEET_LIGHT_RARE_005,1941445795953,Hexbound Pathcaster Footwraps,Проклятые обмотки путепрокладчика
+GEAR_FEET_LIGHT_RARE_006,1941445795954,Nightwind Arcanist Treads,Ботинки арканиста ночного ветра
+GEAR_FEET_LIGHT_RARE_007,1941445795955,Stormthread Mystic Striders,Грозовые шагатели мистика
+GEAR_FEET_LIGHT_RARE_008,1941445795956,Cinderloom Adept Moccasins,Пепельные мокасины адепта
+GEAR_FEET_MEDIUM_COMMON_001,1941445795957,Worn Leather Footwraps,Истёртые кожаные обмотки
+GEAR_FEET_MEDIUM_COMMON_002,1941445795958,Scuffed Scout Boots,Потёртые сапоги разведчика
+GEAR_FEET_MEDIUM_COMMON_003,1941445795959,Dust‑Worn Vanguard Treads,Запылённые ботинки авангарда
+GEAR_FEET_MEDIUM_COMMON_004,1941445795960,Plain Militia Greaves,Простые поножи ополчения
+GEAR_FEET_MEDIUM_COMMON_005,1941445795961,Rough‑Bound Raider Sabatons,Грубо сработанные сабатоны налётчика
+GEAR_FEET_MEDIUM_COMMON_006,1941445795962,Frayed Wayfarer Steps,Обтрёпанные шаги скитальца
+GEAR_FEET_MEDIUM_COMMON_007,1941445795963,Hardened Roadguard Boots,Закалённые сапоги дорожной стражи
+GEAR_FEET_MEDIUM_COMMON_008,1941445795964,Faded Pilgrim Footpads,Выцветшие ножные накладки пилигрима
+GEAR_FEET_MEDIUM_LEGENDARY_001,1941445795965,Hellforged Vanguard Greaves,Адокованные поножи авангарда
+GEAR_FEET_MEDIUM_LEGENDARY_002,1941445795966,Dragonscale Doomstriders,Роковые шагатели из драконьей чешуи
+GEAR_FEET_MEDIUM_LEGENDARY_003,1941445795967,Shadowfire Pursuer Treads,Ботинки преследователя теневого огня
+GEAR_FEET_MEDIUM_LEGENDARY_004,1941445795968,Emberbound War Sabatons,Тлеющие боевые сабатоны
+GEAR_FEET_MEDIUM_LEGENDARY_005,1941445795969,Nightfall Seraphic Boots,Сумеречные серафические ботинки
+GEAR_FEET_MEDIUM_LEGENDARY_006,1941445795970,Cinderstorm Juggernaut Stompers,Топтатели джаггернаута пепельной бури
+GEAR_FEET_MEDIUM_LEGENDARY_007,1941445795971,Abyssal Sentinel Marchers,Бездонные ходоки часового
+GEAR_FEET_MEDIUM_LEGENDARY_008,1941445795972,Bloodfire Reaver Footguards,Кроваво-огненные ножные щитки опустошителя
+GEAR_FEET_MEDIUM_RARE_001,1941445795973,Runebound Ward Greaves,Рунные охранные поножи
+GEAR_FEET_MEDIUM_RARE_002,1941445795974,Emberforged Vanguard Boots,"Ботинки авангарда, выкованные в углях"
+GEAR_FEET_MEDIUM_RARE_003,1941445795975,Bloodsteel War Treads,Боевые ботинки из кровавой стали
+GEAR_FEET_MEDIUM_RARE_004,1941445795976,Shadowwoven Hunter Striders,"Шагатели охотника, сотканные тенью"
+GEAR_FEET_MEDIUM_RARE_005,1941445795977,Storm-Tossed Warden Sabatons,"Сабатоны стража, трёпанные бурей"
+GEAR_FEET_MEDIUM_RARE_006,1941445795978,Nightguard March Greaves,Походные поножи ночной стражи
+GEAR_FEET_MEDIUM_RARE_007,1941445795979,Hexmarked Raider Footguards,"Ножные щитки налётчика, меченные порчей"
+GEAR_FEET_MEDIUM_RARE_008,1941445795980,Cinderbound Battle Stompers,"Боевые топтатели, связанные пеплом"
+GEAR_HANDS_HEAVY_COMMON_001,1941445795981,Hardened Plate Gauntlets,Закалённые латные перчатки
+GEAR_HANDS_HEAVY_COMMON_002,1941445795982,Forged Iron Handguards,Кованые железные наручи кистей
+GEAR_HANDS_HEAVY_COMMON_003,1941445795983,Solid Brass Fistguards,Крепкие латунные щитки кулаков
+GEAR_HANDS_HEAVY_COMMON_004,1941445795984,Sturdy Steel War Gloves,Прочные стальные боевые перчатки
+GEAR_HANDS_HEAVY_COMMON_005,1941445795985,Layered Scale Gauntlets,Слоёные чешуйчатые латные перчатки
+GEAR_HANDS_HEAVY_COMMON_006,1941445795986,Reinforced Battle Gripguards,Укреплённые боевые хваты
+GEAR_HANDS_HEAVY_COMMON_007,1941445795987,Tempered Ironclad Mitts,Закалённые рукавицы в железной броне
+GEAR_HANDS_HEAVY_COMMON_008,1941445795988,Heavy Duty Armored Gloves,Прочные бронированные перчатки
+GEAR_HANDS_HEAVY_LEGENDARY_001,1941445795989,Hellforged Juggernaut Gauntlets,Адокованные латные перчатки джаггернаута
+GEAR_HANDS_HEAVY_LEGENDARY_002,1941445795990,Dragonscale Doomgrips,Роковые хваты из драконьей чешуи
+GEAR_HANDS_HEAVY_LEGENDARY_003,1941445795991,Gilded Brimstone Fistguards,Позолоченные серные щитки кулаков
+GEAR_HANDS_HEAVY_LEGENDARY_004,1941445795992,Stonebreaker Inferno Hands,Каменоломные адские руки
+GEAR_HANDS_HEAVY_LEGENDARY_005,1941445795993,Abyssal Ward Vambraces,Бездонные охранные поручи
+GEAR_HANDS_HEAVY_LEGENDARY_006,1941445795994,Doomsteel Rampart Gauntlets,Роковые стальные латные перчатки крепости
+GEAR_HANDS_HEAVY_LEGENDARY_007,1941445795995,Kingsgild Warplates,Боевые латы королевской позолоты
+GEAR_HANDS_HEAVY_LEGENDARY_008,1941445795996,Sanctified Hellclad Crushers,Освящённые дробители в адовой броне
+GEAR_HANDS_HEAVY_RARE_001,1941445795997,Ornate Bastion Gauntlets,Узорчатые латные перчатки бастиона
+GEAR_HANDS_HEAVY_RARE_002,1941445795998,Engraved Iron Guardhands,Гравированные железные стражные руки
+GEAR_HANDS_HEAVY_RARE_003,1941445795999,Vanguard Plate Handguards,Латные наручи кистей авангарда
+GEAR_HANDS_HEAVY_RARE_004,1941445796000,Knightguard Scale Gauntlets,Рыцарские чешуйчатые латные перчатки
+GEAR_HANDS_HEAVY_RARE_005,1941445796001,Sentinel Warplate Gloves,Боевые перчатки часового
+GEAR_HANDS_HEAVY_RARE_006,1941445796002,Fortified Ironclad Mitts,Укреплённые рукавицы в железной броне
+GEAR_HANDS_HEAVY_RARE_007,1941445796003,Commander's Reinforced Fistguards,Укреплённые щитки кулаков командира
+GEAR_HANDS_HEAVY_RARE_008,1941445796004,Barbed Steel Battle Gloves,Шипастые стальные боевые перчатки
+GEAR_HANDS_LIGHT_COMMON_001,1941445796005,Worn Acolyte Grips,Истёртые хваты послушника
+GEAR_HANDS_LIGHT_COMMON_002,1941445796006,Plain Wanderer Gloves,Простые перчатки странника
+GEAR_HANDS_LIGHT_COMMON_003,1941445796007,Frayed Initiate Handwraps,Обтрёпанные обмотки неофита
+GEAR_HANDS_LIGHT_COMMON_004,1941445796008,Dust Laden Pilgrim Mitts,Запылённые рукавицы пилигрима
+GEAR_HANDS_LIGHT_COMMON_005,1941445796009,Rough Stitched Scout Bracers,Грубо сшитые наручи разведчика
+GEAR_HANDS_LIGHT_COMMON_006,1941445796010,Faded Pathfinder Gauntlets,Выцветшие латные перчатки следопыта
+GEAR_HANDS_LIGHT_COMMON_007,1941445796011,Threadbare Nomad Wraps,Протёртые до нитей обмотки кочевника
+GEAR_HANDS_LIGHT_COMMON_008,1941445796012,Simple Adventurer Handguards,Простые наручи кистей искателя приключений
+GEAR_HANDS_LIGHT_LEGENDARY_001,1941445796013,Hellwoven Arcanist Grips,Адово-тканые хваты арканиста
+GEAR_HANDS_LIGHT_LEGENDARY_002,1941445796014,Dragonsoul Doomgloves,Роковые перчатки драконьей души
+GEAR_HANDS_LIGHT_LEGENDARY_003,1941445796015,Shadowflame Oracle Handwraps,Обмотки оракула теневого пламени
+GEAR_HANDS_LIGHT_LEGENDARY_004,1941445796016,Emberbound Spellseeker Gauntlets,Угольные латные перчатки искателя чар
+GEAR_HANDS_LIGHT_LEGENDARY_005,1941445796017,Nightveil Seraphic Bracers,Серафические наручи ночной вуали
+GEAR_HANDS_LIGHT_LEGENDARY_006,1941445796018,Cinderstorm Hexmage Mitts,Пепельные рукавицы ведьмомага
+GEAR_HANDS_LIGHT_LEGENDARY_007,1941445796019,Abyssal Runeweaver Handguards,Бездонные наручи кистей рунотворца
+GEAR_HANDS_LIGHT_LEGENDARY_008,1941445796020,Bloodfire Archmage Vambraces,Кроваво-огненные поручи архимага
+GEAR_HANDS_LIGHT_RARE_001,1941445796021,Runebound Acolyte Handwraps,Рунные обмотки послушника
+GEAR_HANDS_LIGHT_RARE_002,1941445796022,Emberlace Mystic Grips,Тлеющие хваты мистика
+GEAR_HANDS_LIGHT_RARE_003,1941445796023,Spiritwoven Hexgloves,Сотканные из духа перчатки порчи
+GEAR_HANDS_LIGHT_RARE_004,1941445796024,Nightveil Wisp Vambraces,Поручи блуждающего огонька ночной вуали
+GEAR_HANDS_LIGHT_RARE_005,1941445796025,Stormthread Seer’s Mitts,Грозовые рукавицы провидца
+GEAR_HANDS_LIGHT_RARE_006,1941445796026,Shadowfire Channeler Gauntlets,Латные перчатки проводника теневого огня
+GEAR_HANDS_LIGHT_RARE_007,1941445796027,Cinderwoven Sigil Handguards,Пепельно-тканые наручи кистей с сигилом
+GEAR_HANDS_LIGHT_RARE_008,1941445796028,Soulbound Adept Bracers,"Наручи адепта, связанные с душой"
+GEAR_HANDS_MEDIUM_COMMON_001,1941445796029,Weathered Vanguard Bracers,Обветренные наручи авангарда
+GEAR_HANDS_MEDIUM_COMMON_002,1941445796030,Rusted Buckle Gauntlets,Ржавые латные перчатки с пряжкой
+GEAR_HANDS_MEDIUM_COMMON_003,1941445796031,Dust‑Worn Mercenary Handwraps,Запылённые обмотки наёмника
+GEAR_HANDS_MEDIUM_COMMON_004,1941445796032,Roughcast Ranger Vambraces,Грубо сработанные поручи рейнджера
+GEAR_HANDS_MEDIUM_COMMON_005,1941445796033,Plain Fieldguard Gloves,Простые перчатки полевого стража
+GEAR_HANDS_MEDIUM_COMMON_006,1941445796034,Hardened Outrider Handguards,Закалённые наручи кистей дозорного
+GEAR_HANDS_MEDIUM_COMMON_007,1941445796035,Scuffed Patrol Mitts,Потёртые рукавицы патрульного
+GEAR_HANDS_MEDIUM_COMMON_008,1941445796036,Stitched Wayfarer Gripguards,Сшитые наручи кистей путника
+GEAR_HANDS_MEDIUM_LEGENDARY_001,1941445796037,Hellforged Doomgrips,Адокованные роковые хваты
+GEAR_HANDS_MEDIUM_LEGENDARY_002,1941445796038,Dragonscale Warbinders,Боевые путы из драконьей чешуи
+GEAR_HANDS_MEDIUM_LEGENDARY_003,1941445796039,Emberfury Warden Gauntlets,Латные перчатки стража угольной ярости
+GEAR_HANDS_MEDIUM_LEGENDARY_004,1941445796040,Shadowbane Sovereign Gloves,Властелинские перчатки погибели теней
+GEAR_HANDS_MEDIUM_LEGENDARY_005,1941445796041,Bloodfire Hexguard Vambraces,Кроваво-огненные поручи стража порчи
+GEAR_HANDS_MEDIUM_LEGENDARY_006,1941445796042,Nightstorm Sentinel Handwraps,Обмотки часового ночной бури
+GEAR_HANDS_MEDIUM_LEGENDARY_007,1941445796043,Abyssforged Rampart Bracers,Выкованные в бездне наручи вала
+GEAR_HANDS_MEDIUM_LEGENDARY_008,1941445796044,Cinderborn Juggernaut Handguards,Пепельнорождённые наручи кистей джаггернаута
+GEAR_HANDS_MEDIUM_RARE_001,1941445796045,Emberforged Vanguard Grips,Выкованные в углях хваты авангарда
+GEAR_HANDS_MEDIUM_RARE_002,1941445796046,Runebound Wardguard Gauntlets,Рунные латные перчатки стража обороны
+GEAR_HANDS_MEDIUM_RARE_003,1941445796047,Nightbane Battle Vambraces,Боевые поручи погибели ночи
+GEAR_HANDS_MEDIUM_RARE_004,1941445796048,Shadow‑Plated Seeker Handwraps,Теневобронные обмотки искателя
+GEAR_HANDS_MEDIUM_RARE_005,1941445796049,Stormwoven Warden Bracers,Грозово-тканые наручи стража
+GEAR_HANDS_MEDIUM_RARE_006,1941445796050,Hexmarked Hunter Gloves,"Перчатки охотника, меченные порчей"
+GEAR_HANDS_MEDIUM_RARE_007,1941445796051,Cinderbound Rampart Mitts,Пепельные рукавицы вала
+GEAR_HANDS_MEDIUM_RARE_008,1941445796052,Ironveil Sentinel Handguards,Железновуальные наручи кистей часового
+GEAR_HEAD_HEAVY_COMMON_001,1941445796053,Worn Iron Warhelm,Истёртый железный боевой шлем
+GEAR_HEAD_HEAVY_COMMON_002,1941445796054,Rusted Bulwark Visor,Ржавое забрало бастиона
+GEAR_HEAD_HEAVY_COMMON_003,1941445796055,Battered Steel Guardcap,Побитая стальная защитная каска
+GEAR_HEAD_HEAVY_COMMON_004,1941445796056,Tarnished Vanguard Helm,Потускневший шлем авангарда
+GEAR_HEAD_HEAVY_COMMON_005,1941445796057,Scuffed Ironclad Cap,Потёртая железнобронная каска
+GEAR_HEAD_HEAVY_COMMON_006,1941445796058,Plain Siege Helmet,Простой осадный шлем
+GEAR_HEAD_HEAVY_COMMON_007,1941445796059,Hardened Iron Battlehelm,Закалённый железный боевой шлем
+GEAR_HEAD_HEAVY_COMMON_008,1941445796060,Pitted Steel Sentinel Mask,Стальная маска часового в выщербинах
+GEAR_HEAD_HEAVY_LEGENDARY_001,1941445796061,Hellforged Dreadhelm,Адокованный шлем ужаса
+GEAR_HEAD_HEAVY_LEGENDARY_002,1941445796062,Dragonscale Doomhelm,Роковой шлем из драконьей чешуи
+GEAR_HEAD_HEAVY_LEGENDARY_003,1941445796063,Abyssal Sovereign Casque,Бездонный властелинский шлем
+GEAR_HEAD_HEAVY_LEGENDARY_004,1941445796064,Gilded Inferno Visage,Позолоченная личина преисподней
+GEAR_HEAD_HEAVY_LEGENDARY_005,1941445796065,Demonsteel War Crown,Боевая корона из демонической стали
+GEAR_HEAD_HEAVY_LEGENDARY_006,1941445796066,Nightbane Juggernaut Mask,Маска джаггернаута погибели ночи
+GEAR_HEAD_HEAVY_LEGENDARY_007,1941445796067,Bloodbound Bastion Helm,"Шлем бастиона, связанный кровью"
+GEAR_HEAD_HEAVY_LEGENDARY_008,1941445796068,Kingsgild Rampart Faceguard,Щиток вала королевской позолоты
+GEAR_HEAD_HEAVY_RARE_001,1941445796069,Gilded Vigil Helm,Позолоченный шлем бдения
+GEAR_HEAD_HEAVY_RARE_002,1941445796070,Shadowforged Watcher Mask,Теневокованая маска наблюдателя
+GEAR_HEAD_HEAVY_RARE_003,1941445796071,Brass‑bound Sentinel Casque,Латунный шлем часового
+GEAR_HEAD_HEAVY_RARE_004,1941445796072,Duskwatch Iron Hood,Железный капюшон сумеречного дозора
+GEAR_HEAD_HEAVY_RARE_005,1941445796073,Ember‑Ring War Visage,Боевая личина с угольным кольцом
+GEAR_HEAD_HEAVY_RARE_006,1941445796074,Nightguard Bastion Helm,Шлем бастиона ночной стражи
+GEAR_HEAD_HEAVY_RARE_007,1941445796075,Ravensteel War Visor,Боевое забрало из вороненой стали
+GEAR_HEAD_HEAVY_RARE_008,1941445796076,Gold‑band Vanguard Faceguard,Щиток авангарда с золотой полосой
+GEAR_HEAD_LIGHT_COMMON_001,1941445796077,Weathered Traveller Hood,Обветренный капюшон путешественника
+GEAR_HEAD_LIGHT_COMMON_002,1941445796078,Frayed Witching Hat,Обтрёпанная колдовская шляпа
+GEAR_HEAD_LIGHT_COMMON_003,1941445796079,Dust‑Worn Wanderer Cowl,Запылённый куколь странника
+GEAR_HEAD_LIGHT_COMMON_004,1941445796080,Tattered Conjurer’s Cap,Истрёпанная шляпа чародея
+GEAR_HEAD_LIGHT_COMMON_005,1941445796081,Scorched Shadowveil Hood,Обожжённый капюшон теневой вуали
+GEAR_HEAD_LIGHT_COMMON_006,1941445796082,Plain Arcanist Headwrap,Простая головная повязка арканиста
+GEAR_HEAD_LIGHT_COMMON_007,1941445796083,Rough‑Stitched Nomad Hood,Грубо сшитый капюшон кочевника
+GEAR_HEAD_LIGHT_COMMON_008,1941445796084,Faded Wayfarer Hat,Выцветшая шляпа путника
+GEAR_HEAD_LIGHT_LEGENDARY_001,1941445796085,Infernal Sovereign Diadem,Инфернальная властелинская диадема
+GEAR_HEAD_LIGHT_LEGENDARY_002,1941445796086,Hexbound Dominion Crown,Проклятая корона владычества
+GEAR_HEAD_LIGHT_LEGENDARY_003,1941445796087,Emberfused Oracle Circlet,Угольно-сплавленный венец оракула
+GEAR_HEAD_LIGHT_LEGENDARY_004,1941445796088,Nightfall Seraphic Coronet,Серафический коронет сумерек
+GEAR_HEAD_LIGHT_LEGENDARY_005,1941445796089,Doomwrought Arcane Halo,Роковой аркановый нимб
+GEAR_HEAD_LIGHT_LEGENDARY_006,1941445796090,Bloodfire Hierophant Crown,Кроваво-огненная корона иерофанта
+GEAR_HEAD_LIGHT_LEGENDARY_007,1941445796091,Cinderblessed Mystic Diadem,Пепельноблагословлённая диадема мистика
+GEAR_HEAD_LIGHT_LEGENDARY_008,1941445796092,Hellwoven Regent Circlet,Адово-тканый венец регента
+GEAR_HEAD_LIGHT_RARE_001,1941445796093,Shadowbound Arcana Hood,"Капюшон арканы, связанный тенью"
+GEAR_HEAD_LIGHT_RARE_002,1941445796094,Rune‑Stitched Seer’s Cowl,Рунно-сшитый куколь провидца
+GEAR_HEAD_LIGHT_RARE_003,1941445796095,Emberthread Mystic Hat,Тлеющая шляпа мистика
+GEAR_HEAD_LIGHT_RARE_004,1941445796096,Spiritwoven Adept Veil,Сотканная из духа вуаль адепта
+GEAR_HEAD_LIGHT_RARE_005,1941445796097,Hexmarked Wanderer Hood,"Капюшон странника, меченный порчей"
+GEAR_HEAD_LIGHT_RARE_006,1941445796098,Nightveil Arcanist Mantle,Мантия арканиста ночной вуали
+GEAR_HEAD_LIGHT_RARE_007,1941445796099,Storm‑Touched Spellcap,Тронутая грозой колдовская шапка
+GEAR_HEAD_LIGHT_RARE_008,1941445796100,Twilight Enigma Headwrap,Сумеречная головная повязка загадки
+GEAR_HEAD_MEDIUM_COMMON_001,1941445796101,Worn Traveller Hood,Истёртый капюшон путешественника
+GEAR_HEAD_MEDIUM_COMMON_002,1941445796102,Dust‑Laden Ranger Cowl,Запылённый куколь рейнджера
+GEAR_HEAD_MEDIUM_COMMON_003,1941445796103,Plain Highwayman Wrap,Простая повязка разбойника
+GEAR_HEAD_MEDIUM_COMMON_004,1941445796104,Frayed Scout Mask,Обтрёпанная маска разведчика
+GEAR_HEAD_MEDIUM_COMMON_005,1941445796105,Roughspun Outrider Hood,Грубо спрядённый капюшон вестового
+GEAR_HEAD_MEDIUM_COMMON_006,1941445796106,Scuffed Bandit Veil,Потёртая вуаль бандита
+GEAR_HEAD_MEDIUM_COMMON_007,1941445796107,Threadbare Wayfarer Cowl,Протёртый до нитей куколь путника
+GEAR_HEAD_MEDIUM_COMMON_008,1941445796108,Hardened Wanderer Headwrap,Закалённая головная повязка странника
+GEAR_HEAD_MEDIUM_LEGENDARY_001,1941445796109,Hellforged Dreadhood,Адокованный капюшон ужаса
+GEAR_HEAD_MEDIUM_LEGENDARY_002,1941445796110,Dragonsoul Wraith Helm,Призрачный шлем драконьей души
+GEAR_HEAD_MEDIUM_LEGENDARY_003,1941445796111,Shadowflame Reaper Mask,Маска жнеца теневого пламени
+GEAR_HEAD_MEDIUM_LEGENDARY_004,1941445796112,Emberbound War-Cowl,Угольный боевой куколь
+GEAR_HEAD_MEDIUM_LEGENDARY_005,1941445796113,Nightveil Skull‑Visage,Черепная личина ночной вуали
+GEAR_HEAD_MEDIUM_LEGENDARY_006,1941445796114,Cinderstorm Predator Helm,Шлем хищника пепельной бури
+GEAR_HEAD_MEDIUM_LEGENDARY_007,1941445796115,Doomscar Sentinel Hood,Капюшон часового рокового шрама
+GEAR_HEAD_MEDIUM_LEGENDARY_008,1941445796116,Abyssforged Sovereign Faceguard,Выкованный в бездне властелинский щиток
+GEAR_HEAD_MEDIUM_RARE_001,1941445796117,Runebound Sentinel Helm,Рунный шлем часового
+GEAR_HEAD_MEDIUM_RARE_002,1941445796118,Emberforged Outrider Mask,Выкованная в углях маска вестового
+GEAR_HEAD_MEDIUM_RARE_003,1941445796119,Shadowveil Ward Visage,Личина стража теневой вуали
+GEAR_HEAD_MEDIUM_RARE_004,1941445796120,Ironbound Vanguard Casque,Железный шлем авангарда
+GEAR_HEAD_MEDIUM_RARE_005,1941445796121,Hexmarked Ranger Hood,"Капюшон рейнджера, меченный порчей"
+GEAR_HEAD_MEDIUM_RARE_006,1941445796122,Stormcarved Watcher Headguard,Грозоворезной головной щиток наблюдателя
+GEAR_HEAD_MEDIUM_RARE_007,1941445796123,Nightguard Scion Helm,Шлем отпрыска ночной стражи
+GEAR_HEAD_MEDIUM_RARE_008,1941445796124,Cinderwoven Seeker Faceguard,Пепельно-тканый щиток искателя
+GEAR_MAIN_WEAPON_COMMON_001,1941445796125,Crude Stone Maul,Грубый каменный молот
+GEAR_MAIN_WEAPON_COMMON_002,1941445796126,Worn Mason’s Hammer,Истёртый молоток каменщика
+GEAR_MAIN_WEAPON_COMMON_003,1941445796127,Splintered Wooden Mallet,Расщеплённая деревянная колотушка
+GEAR_MAIN_WEAPON_COMMON_004,1941445796128,Rough‑Hewn Warhammer,Грубо сработанный боевой молот
+GEAR_MAIN_WEAPON_COMMON_005,1941445796129,Dust‑Caked Pilgrim Sledge,Покрытая пылью кувалда пилигрима
+GEAR_MAIN_WEAPON_COMMON_006,1941445796130,Weathered Raider Pounder,Обветренная колотушка налётчика
+GEAR_MAIN_WEAPON_COMMON_007,1941445796131,Plain Quarry Breaker,Простой каменоломный дробитель
+GEAR_MAIN_WEAPON_COMMON_008,1941445796132,Stained Wilderness Maul,Запятнанный молот глуши
+GEAR_MAIN_WEAPON_LEGENDARY_001,1941445796133,Hell‑Forge Cataclysm,Катаклизм Адовой кузни
+GEAR_MAIN_WEAPON_LEGENDARY_002,1941445796134,Bloodshard Earth‑Breaker,Землекрушитель из кровавого осколка
+GEAR_MAIN_WEAPON_LEGENDARY_003,1941445796135,Doomspire Maul of Ruin,Молот руин рокового шпиля
+GEAR_MAIN_WEAPON_LEGENDARY_004,1941445796136,Emberstorm World‑Crasher,Сокрушитель миров угольной бури
+GEAR_MAIN_WEAPON_LEGENDARY_005,1941445796137,Voidtremor Obliterator,Уничтожитель дрожи Пустоты
+GEAR_MAIN_WEAPON_LEGENDARY_006,1941445796138,Rift‑Sunder Warhammer,"Боевой молот, рассекающий Разлом"
+GEAR_MAIN_WEAPON_LEGENDARY_007,1941445796139,Malicebound Skull‑Crusher,"Череподробитель, связанный злобой"
+GEAR_MAIN_WEAPON_LEGENDARY_008,1941445796140,Oathbreaker Anvil‑Smash,Клятвопреступный наковальный удар
+GEAR_MAIN_WEAPON_RARE_001,1941445796141,Runebound War‑Maul,Рунный боевой молот
+GEAR_MAIN_WEAPON_RARE_002,1941445796142,Emberforged Sledgehammer,Выкованная в углях кувалда
+GEAR_MAIN_WEAPON_RARE_003,1941445796143,Shadowsteel Skullbreaker,Череполом из теневой стали
+GEAR_MAIN_WEAPON_RARE_004,1941445796144,Stormcarved Battle‑Hammer,Грозоворезной боевой молот
+GEAR_MAIN_WEAPON_RARE_005,1941445796145,Hexmarked Ritual Mallet,"Ритуальная колотушка, меченная порчей"
+GEAR_MAIN_WEAPON_RARE_006,1941445796146,Cinderbound Crusher,Пепельный дробитель
+GEAR_MAIN_WEAPON_RARE_007,1941445796147,Nightveil Doom‑Maul,Роковой молот ночной вуали
+GEAR_MAIN_WEAPON_RARE_008,1941445796148,Bloodfury War‑Hammer,Боевой молот кровавой ярости
+GEAR_RING_COMMON_001,1941445796149,Ironbound Loop,Железная петля
+GEAR_RING_COMMON_002,1941445796150,Weathered Band,Обветренный ободок
+GEAR_RING_COMMON_003,1941445796151,Tarnished Circlet,Потускневшее колечко
+GEAR_RING_COMMON_004,1941445796152,Tempered Signet,Закалённая печатка
+GEAR_RING_COMMON_005,1941445796153,Dullsteel Hoop,Тусклостальной обруч
+GEAR_RING_COMMON_006,1941445796154,Worn Oath‑Ring,Истёртое кольцо клятвы
+GEAR_RING_COMMON_007,1941445796155,Scoured Circle,Вычищенное кольцо
+GEAR_RING_COMMON_008,1941445796156,Plainforge Band,Простокованый ободок
+GEAR_RING_LEGENDARY_001,1941445796157,Doomforged Signet,Роковокованая печатка
+GEAR_RING_LEGENDARY_002,1941445796158,Hellfire Loop,Петля адского огня
+GEAR_RING_LEGENDARY_003,1941445796159,Voidwrought Band,Пустотный ободок
+GEAR_RING_LEGENDARY_004,1941445796160,Soulrender Seal,Печать терзателя душ
+GEAR_RING_LEGENDARY_005,1941445796161,Nightbane Circle,Кольцо погибели ночи
+GEAR_RING_LEGENDARY_006,1941445796162,Embercrown Ring,Кольцо угольной короны
+GEAR_RING_LEGENDARY_007,1941445796163,Deathcall Circlet,Колечко зова смерти
+GEAR_RING_LEGENDARY_008,1941445796164,Blood‑Oath Sigil,Сигил кровавой клятвы
+GEAR_RING_RARE_001,1941445796165,Thorned Sigil,Шипастый знак
+GEAR_RING_RARE_002,1941445796166,Embersteel Ring,Кольцо из угольной стали
+GEAR_RING_RARE_003,1941445796167,Gloomforge Band,Сумрачнокованый ободок
+GEAR_RING_RARE_004,1941445796168,Rune‑Etched Loop,Гравированная рунами петля
+GEAR_RING_RARE_005,1941445796169,Grimspire Circlet,Колечко мрачного шпиля
+GEAR_RING_RARE_006,1941445796170,Bloodiron Seal,Печать кровавого железа
+GEAR_RING_RARE_007,1941445796171,Shadowpierce Band,Теневопронзающий ободок
+GEAR_RING_RARE_008,1941445796172,Riftbound Ring,"Кольцо, связанное Разломом"

@@ -1,0 +1,86 @@
+Key,Id,English(en),Russian(ru)
+ACHIEVEMENT_DEBT_TO_THE_DEAD_LOCKED_GOLD_MESSAGE,68219297819,This belongs to the dead now,Теперь это принадлежит мёртвым
+ALTAR_POWER_BUBBLE_TITLE,68219297814,Altar of Blessing,Алтарь благословения
+AUTO_ATTACK_DISABLED_NOTIFICATION,1200000000001005,Auto-Attack Disabled,Автоатака выключена
+AUTO_ATTACK_ENABLED_NOTIFICATION,1200000000001004,Auto-Attack Enabled,Автоатака включена
+BOSS_SUMMON_BEGIN_PROMPT,68219297797,Begin Summoning,Начать призыв
+CAMP_ACHIEVEMENTS_PROMPT,1059399647879168,Achievements,Достижения
+CAMP_BLACKSMITH_PROMPT,1059320945958912,Blacksmith,Кузнец
+CAMP_ENTER_MAP_PROMPT,1200000000001012,Enter {mapName},Войти в {mapName}
+CAMP_ETERNAL_TREE_PROMPT,1059581743587328,Eternal Tree,Вечное Древо
+CAMP_OPEN_EXPEDITIONS_PROMPT,1059002308878336,Expeditions,Экспедиции
+CAMP_PROGRESSION_TREE_PROMPT,1059654795780096,Progression Journey,Путь развития
+CAMP_SALVAGING_PROMPT,1059233066901504,Salvaging,Разбор
+CAMP_STASH_PROMPT,1059504568393728,Stash,Хранилище
+CHALLENGE_ACCEPTED_NOTIFICATION,1200000000001000,<b>{challengeName}</b> challenge accepted,Челлендж <b>{challengeName}</b> принят
+CHALLENGE_BLOOD_WORMS_BONUS_OBJECTIVE,1200000000001007,Slay all the worms within {timeLimit:N0} seconds,Убейте всех червей за {timeLimit:N0} с
+CHALLENGE_COMPLETED_NOTIFICATION,68219297815,{challengeName} Completed,{challengeName}: завершён
+CHALLENGE_DRAIN_LIFE_MODIFIER_DESC,1200000000001010,Pylons drain your life while standing inside their radius,"Пилоны вытягивают здоровье, пока вы находитесь в их радиусе"
+CHALLENGE_FAILED_NOTIFICATION,1200000000001001,{challengeName} Failed,{challengeName}: провален
+CHALLENGE_FEED_PYLONS_BONUS_OBJECTIVE,1200000000001008,Feed all pylons within {timeLimit:N0} seconds,Накормите все пилоны за {timeLimit:N0} с
+CHALLENGE_NOT_ENOUGH_CHAOS_WARNING,1200000000001002,Not enough chaos to start challenge. Need {chaosCost} chaos.,Недостаточно хаоса для начала челленджа. Нужно {chaosCost} хаоса.
+CHALLENGE_REWARD_SCORE_DESC,1200000000001006,+{scoreAmount} Score,+{scoreAmount} очков
+CHALLENGE_SEALED_PROMPT,68219297798,Challenge Sealed,Челлендж запечатан
+CHALLENGE_START_PROMPT,68219297799,Take on a challenge,Принять челлендж
+CHALLENGE_TUMOR_PULSE_MODIFIER_DESC,1200000000001011,Tumours pulse with damage more often,Опухоли чаще пульсируют уроном
+CHALLENGE_WORM_HEALTH_MODIFIER_DESC,1200000000001009,Worms have {modifier} Life,У червей {modifier} здоровья
+CHEST_NOT_ENOUGH_GOLD_WARNING,68219297801,Not enough Gold,Недостаточно золота
+CHEST_OPENED_FREE_MESSAGE,68219297802,Chest opened for Free,Сундук открыт бесплатно
+COMBAT_LOG_ENVIRONMENT_LABEL,68219297808,Environment,Окружение
+COMBAT_LOG_HIT_WITHOUT_SOURCE_MESSAGE,68219297807,You got hit for {damageAmount} {damageType} damage,Вы получили {damageAmount} ед. урона ({damageType})
+COMBAT_LOG_HIT_WITH_SOURCE_MESSAGE,68219297806,You got hit by {sourceName} for {damageAmount} {damageType} damage,{sourceName} нанёс вам {damageAmount} ед. урона ({damageType})
+CURRENCY_GAINED_MESSAGE,68219297803,+{amount} {currencyName} Gained,+{amount} {currencyName} получено
+DAMAGE_NUMBER_ABSORB_LABEL,68219297810,Absorb,Поглощение
+DAMAGE_NUMBER_EVADED_LABEL,68219297809,Evaded,Уклонение
+DIFFICULTY_INCREASE_NOTIFICATION,797648817741824,Difficulty increase,Сложность повышена
+EFFIGY_DIFFICULTY_INCREASED_NOTIFICATION,67938279425,Enemy hordes grow in power,Орды врагов становятся сильнее
+EFFIGY_ENEMY_DIFFICULTY_DESC,68219297816,Increases enemy difficulty,Повышает сложность врагов
+EFFIGY_GOLD_GAIN_DESC,68219297817,+{goldGainIncrease}% Gold Gained,+{goldGainIncrease}% к приросту золота
+EFFIGY_SCORE_GAIN_DESC,68219297818,+{scorePercentageIncrease}% Score Gained,+{scorePercentageIncrease}% к получаемым очкам
+EXIT_PORTAL_ESCAPE_CONFIRM_MESSAGE,67929890820,"Defend the portal while it charges, to exit back to Camp.\n<1>You keep all gained loot.</1>","Защищайте портал, пока он заряжается, чтобы вернуться в Лагерь.\n<1>Вся полученная добыча сохраняется.</1>"
+EXIT_PORTAL_ESCAPE_CONFIRM_TITLE,67929890819,Escape to Camp?,Бежать в Лагерь?
+EXIT_PORTAL_ESCAPE_IN_PROGRESS_LABEL,67929890816,Escaping to Camp...,Побег в Лагерь...
+EXIT_PORTAL_ESCAPE_TO_CAMP_PROMPT,67925696512,Escape to Camp,Бежать в Лагерь
+EXPEDITION_COMPLETE_PROMPT,67929890818,Complete Expedition,Завершить экспедицию
+EXPEDITION_ESCAPE_THROUGH_OBELISK_OBJECTIVE,67929890822,Escape through obelisk or seal rifts,Уйдите через обелиск или запечатайте разломы
+EXPEDITION_SURVIVE_UNTIL_OBELISK_OBJECTIVE,67929890821,Survive until obelisk is charged,"Выживайте, пока обелиск заряжается"
+GENERIC_INTERACT_PROMPT,68219297793,Interact,Взаимодействие
+GOBLIN_SPECIALIZATION_GREED_STATE,800101801910272,Greed,Жадность
+GOBLIN_SPECIALIZATION_HOARDING_STATE,748796106498048,Hoarding,Накопление
+GOBLIN_SPECIALIZATION_OVERFLOWING_STATE,800142117560320,Overflowing,Переполнение
+INTERACTION_UNAVAILABLE_WARNING,68219297800,I cannot do that here,Здесь я не могу это сделать
+INTERACT_TALK_PROMPT,68219297792,Talk,Говорить
+ITEM_USE_ACTION_HINT_LABEL,1200000000001014,to use,чтобы использовать
+MAP_DIFFICULTY_LEVEL_INCREASED_NOTIFICATION,67938279424,Enemy hordes grow in power,Орды врагов становятся сильнее
+MAP_ENTER_LOADING_TEXT,1200000000001013,Entering {mapName},Вход в {mapName}
+MORPH_EVOLUTION_READY_NOTIFICATION,797813909741568,Morph Evolution Ready,Эволюция морфа готова
+MORPH_EVOLVED_NOTIFICATION_FORMAT,67934085121,<1>{morphName}</1> morph is now evolved and active,Морф <1>{morphName}</1> эволюционировал и активен
+MORPH_READY_TO_EVOLVE_NOTIFICATION_FORMAT,67934085120,Morph <1>{morphName}</1> is ready to evolve at <1>The Shade</1>,Морф <1>{morphName}</1> готов к эволюции у <1>Тени</1>
+NPC_TALK_PROMPT,68219297794,Talk,Говорить
+OBELISK_CHARGED,9784231948443648,Charged,Заряжен
+OBELISK_CHARGES_IN_TIME,9784332292972544,Charges in {0},Зарядится через {0}
+OBELISK_ENTER_NEXT_STAGE_PROMPT,67929890817,Next Stage,Следующий этап
+OVERCHARGE_READY_NOTIFICATION,1200000000001015,Overcharge Ready,Перегрузка готова
+OVERTIME_COLLAPSE_COMPLETE_NOTIFICATION,68219297805,Collapse has ended!,Коллапс завершился!
+OVERTIME_PHASE_CHANGED_NOTIFICATION,68219297804,Enemies are getting stronger,Враги становятся сильнее
+PICKUP_ABILITY_NAME_FORMAT,68219297820,Ability - {powerupName},Способность — {powerupName}
+PICKUP_FOOD_NAME_FORMAT,68219297823,Food ({healPercent}%),Еда ({healPercent}%)
+PICKUP_GOLD_NAME_FORMAT,68219297825,{goldAmount} Gold,{goldAmount} золота
+PICKUP_MAGNET_NAME,68219297826,Magnet,Магнит
+PICKUP_MORPH_NAME_FORMAT,68219297822,Morph - {powerupName},Морф — {powerupName}
+PICKUP_RELIC_NAME_FORMAT,68219297824,Relic - {relicName},Реликвия — {relicName}
+PICKUP_TRAIT_NAME_FORMAT,68219297821,Trait - {powerupName},Трейт — {powerupName}
+RIFT_CAPTURED_FLAT_SCORE_REWARD_MESSAGE,68219297812,+{scoreAmount} Score,+{scoreAmount} очков
+RIFT_CAPTURED_SCORE_BONUS_MESSAGE,68219297811,{scoreModifier} Score Bonus,{scoreModifier} к очкам
+RIFT_CAPTURED_TIME_REWARD_MESSAGE,68219297813,+{seconds}s Gained,+{seconds}с получено
+RUNESTONE_CAPTURED_NOTIFICATION,67938279426,Runestone captured,Рунный камень захвачен
+SHRINE_BEGIN_MUTATED_TRIAL_PROMPT,68219297796,Begin the Mutated Trial,Начать мутировавшее испытание
+SHRINE_BEGIN_TRIAL_PROMPT,68219297795,Begin the Trial,Начать испытание
+SHRINE_OF_POWER_SPAWNED_NOTIFICATION,1200000000001003,{shrineName} has appeared,{shrineName} появилось
+THE_SHADE_APPEARED_NOTIFICATION,4584181639143424,<1>The Shade</1> has appeared on the map,<1>Тень</1> появилась на карте
+TREASURE_REWARD_CHEST_REWARD_HEALTH_COMMON_NAME,68206714880,Old Cheese,Старый сыр
+TREASURE_REWARD_CHEST_REWARD_HEALTH_EPIC_NAME,68210909184,Elixir of Life,Эликсир жизни
+TREASURE_REWARD_CHEST_REWARD_HEALTH_RARE_NAME,68210909185,Chicken,Курица
+TREASURE_REWARD_CHEST_REWARD_MAGNET_DESC,68210909187,Collects all experience from the map,Собирает весь опыт с карты
+TREASURE_REWARD_CHEST_REWARD_MAGNET_NAME,68210909186,Magnet,Магнит
+ZONE_ENTERED_NOTIFICATION,68219297827,Entering {zoneName},Вход в {zoneName}
