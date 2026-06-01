@@ -133,6 +133,29 @@ Launch, pick **Русский** in settings, and confirm Cyrillic renders.
 
 ---
 
+## Verified against the shipped game
+
+This kit was cross-checked against the game's own localization data, not just self-consistency:
+
+- **Keys & ids are exact.** All 1989 `(Key, Id)` pairs were diffed against the live `SharedTableData`
+  in the shipped build — **0 mismatches**. Import by `Key` or `Id` lands on the correct existing entries.
+- **Coverage.** The kit contains every key that has English source text (1989). A handful of keys with
+  no English string are intentionally omitted (nothing to translate; they fall back to English).
+- **Smart strings need no special handling.** The game does **not** store an `IsSmart` flag per entry —
+  every English entry ships with *empty* metadata, yet 74 of them use SmartFormat syntax (named
+  placeholders, `{amount:plural:…}`). SmartFormat is applied globally by the String Database. So the
+  imported Russian entries behave exactly like English ones with no extra flag, tag or column.
+- **Russian plurals are locale-driven.** SmartFormat picks the plural form from the locale's culture.
+  With locale code **`ru`**, `{n:plural:осколок|осколка|осколков}` resolves to the correct Slavic
+  1 / few / many form automatically — the translation already provides all three forms where needed.
+- **Locale conventions match the existing 9 languages.** Name pattern `"<English> (<code>)"`,
+  fallback → English, `releaseState: Released`. Recommended: Locale name **"Russian (ru)"**, code **`ru`**,
+  `LocalizationDatabase` `nativeName: "Русский"`.
+- **The only entry metadata in the game** is an optional `Comment` (`MT_REVIEW`) used to mark
+  machine-translated lines for review — not required, and not included here.
+
+The reproducible checks live in `verify.py` (run on every push via the `pre-push` hook).
+
 ## How this was produced
 
 The English strings and their keys were read from the shipped Hellforged build's Unity Localization
